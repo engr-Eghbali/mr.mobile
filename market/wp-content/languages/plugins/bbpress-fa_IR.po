@@ -1,0 +1,4554 @@
+# Translation of Plugins - bbPress - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - bbPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-04 15:47:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - bbPress - Stable (latest release)\n"
+
+#. translators: user role
+#: includes/common/locale.php:56
+msgctxt "User role"
+msgid "Blocked"
+msgstr "بازداشت شده"
+
+#. translators: user role
+#: includes/common/locale.php:53
+msgctxt "User role"
+msgid "Spectator"
+msgstr "ناظر"
+
+#. translators: user role
+#: includes/common/locale.php:50
+msgctxt "User role"
+msgid "Participant"
+msgstr "مشارکت کننده"
+
+#. translators: user role
+#: includes/common/locale.php:47
+msgctxt "User role"
+msgid "Moderator"
+msgstr "سرپرست"
+
+#. translators: user role
+#: includes/common/locale.php:44
+msgctxt "User role"
+msgid "Keymaster"
+msgstr "سرپرست کل"
+
+#. Author of the plugin/theme
+msgid "The bbPress Community"
+msgstr "هازمان بی بی پرس"
+
+#. Plugin Name of the plugin/theme
+msgid "bbPress"
+msgstr "بی بی پرس"
+
+#. Description of the plugin/theme
+msgid "bbPress is forum software with a twist from the creators of WordPress."
+msgstr "بی بی پرس یک نرم افزار انجمن ساز رایگان میباشد که تیم وردپرس پارسی برگردان شده است."
+
+#. #-#-#-#-#  tmp-bbpress.pot (bbPress 2.5.12)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-bbpress.pot (bbPress 2.5.12)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://bbpress.org"
+msgstr "https://bbpress.org"
+
+#: includes/admin/tools.php:1148
+msgid "No reply positions to recalculate!"
+msgstr "موقعیت پاسخ برای محاسبه مجدد دوباره نیست!"
+
+#: includes/admin/tools.php:1147
+msgid "Recalculating reply menu order &hellip; %s"
+msgstr "محاسبه مجدد ترتیب فهرست پاسخ‌ها &hellip; %s"
+
+#: includes/admin/tools.php:166
+msgid "Recalculate the position of each reply"
+msgstr "بازشماری موقعیت های هر پاسخ"
+
+#: templates/default/extras/page-topic-tags.php:22
+msgid "<p>This is a collection of tags that are currently popular on our forums.</p>"
+msgstr "<p>مجموعه ای از برچسب ها که اخیرا در انجمن های ما محبوبیت بوده اند.</p>"
+
+#: templates/default/extras/page-forum-statistics.php:22
+msgid "<p>Here are the statistics and popular topics of our forums.</p>"
+msgstr "<p>اینجا پربازدیدترین و محبوبترین جستار های انجمن های ما وجود دارد.</p>"
+
+#: templates/default/bbpress-functions.php:426
+msgid "Please login to subscribe to this topic."
+msgstr "لطفا برای اشتراک این جستار وارد سایت شوید."
+
+#: templates/default/bbpress-functions.php:375
+#: templates/default/bbpress-functions.php:443
+msgid "The topic could not be found."
+msgstr "این جستار یافت نشد."
+
+#: templates/default/bbpress-functions.php:358
+msgid "Please login to make this topic a favorite."
+msgstr "برای افزودن این جستار به علاقمندی ها وارد سایت شوید."
+
+#: templates/default/bbpress-functions.php:353
+msgid "Favorites are no longer active."
+msgstr "علاقمندی ها دیگر فعال نیست."
+
+#: templates/default/bbpress-functions.php:320
+#: templates/default/bbpress-functions.php:388
+#: templates/default/bbpress-functions.php:456
+msgid "The request was unsuccessful. Please try again."
+msgstr "درخواست موفقیت آمیز نبود. لطفا دوباره تلاش نمایید."
+
+#: templates/default/bbpress-functions.php:312
+#: templates/default/bbpress-functions.php:380
+#: templates/default/bbpress-functions.php:448
+msgid "Are you sure you meant to do that?"
+msgstr "آیا مطمن هستید که می خواهید این کار را انجام دهید؟"
+
+#: templates/default/bbpress-functions.php:307
+msgid "The forum could not be found."
+msgstr "انجمن یافت نشد."
+
+#: templates/default/bbpress-functions.php:299
+#: templates/default/bbpress-functions.php:367
+#: templates/default/bbpress-functions.php:435
+msgid "You do not have permission to do this."
+msgstr "شما دسترسی لازم برای انجام این کار را ندارید."
+
+#: templates/default/bbpress-functions.php:290
+msgid "Please login to subscribe to this forum."
+msgstr "لطفا برای مشارکت در این انجمن، وارد حساب کاربری خود شوید."
+
+#: templates/default/bbpress-functions.php:285
+#: templates/default/bbpress-functions.php:421
+msgid "Subscriptions are no longer active."
+msgstr "اشتراکات دیگر فعال نیست."
+
+#: templates/default/bbpress-functions.php:248
+#: templates/default/bbpress-functions.php:257
+msgid "Something went wrong. Refresh your browser and try again."
+msgstr "اشکالی رخ داده است . مرورگر خود را دوباره را refresh کرده و دوباره تلاش نمایید."
+
+#: templates/default/bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr "این کاربر جستاری را ایجاد نکرده است."
+
+#: templates/default/bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr "شما جستاری را ایجاد نکرده اید."
+
+#: templates/default/bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr "انجمن جستارها آغاز شده"
+
+#: templates/default/bbpress/user-subscriptions.php:47
+msgid "This user is not currently subscribed to any topics."
+msgstr "این کاربر درحال حاضر مشترک هیچ جستار نیست."
+
+#: templates/default/bbpress/user-subscriptions.php:47
+msgid "You are not currently subscribed to any topics."
+msgstr "شما در حال حاضر مشترک هیچ جستاری نیستید."
+
+#: templates/default/bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr "این کاربر درحال حاضر مشترک هیچ انجمنی نیست. "
+
+#: templates/default/bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr "شما در حال حاضر مشترک هیچ انجمنی نمی باشید."
+
+#: templates/default/bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr "جستار های مشترک شده"
+
+#: templates/default/bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr "این کاربر به هیچ جستاری پاسخ نداده است."
+
+#: templates/default/bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr "شما به جستاری پاسخ نداده اید."
+
+#: templates/default/bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr "پاسخ های ارسال شده در انجمن"
+
+#: templates/default/bbpress/user-profile.php:26
+msgid "Replies Created: %s"
+msgstr "پاسخ های ارسال شده: %s"
+
+#: templates/default/bbpress/user-profile.php:25
+msgid "Topics Started: %s"
+msgstr "جستاری های ارسال شده: %s"
+
+#: templates/default/bbpress/user-profile.php:24
+msgid "Forum Role: %s"
+msgstr "نقش در انجمن: %s"
+
+#: templates/default/bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr "این کاربر جستار مورد علاقه ای ندارد."
+
+#: templates/default/bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr "شما در حال حاضر جستار مورد علاقه ای ندارید."
+
+#: templates/default/bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr "جستارهای های مورد علاقه"
+
+#: templates/default/bbpress/user-details.php:58
+msgid "%s's Subscriptions"
+msgstr "اشتراکات %s"
+
+#: templates/default/bbpress/user-details.php:48
+msgid "%s's Favorites"
+msgstr "علاقمندی های %s"
+
+#: templates/default/bbpress/user-details.php:41
+msgid "%s's Replies Created"
+msgstr "پاسخ های %s ساخته شد."
+
+#: templates/default/bbpress/user-details.php:35
+msgid "%s's Topics Started"
+msgstr "جستار های %s آغاز شده"
+
+#: templates/default/bbpress/user-details.php:29
+#: templates/default/bbpress/user-profile.php:15
+msgid "Profile"
+msgstr "پروفایل"
+
+#: templates/default/bbpress/user-details.php:29
+msgid "%s's Profile"
+msgstr "پروفایل %s"
+
+#: templates/default/bbpress/loop-single-topic.php:68
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "در: <a href=\"%1$s\">%2$s</a>"
+
+#: templates/default/bbpress/loop-single-topic.php:60
+msgid "Started by: %1$s"
+msgstr "آغاز شده توسط: %1$s"
+
+#: templates/default/bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr "در پاسخ به:"
+
+#: templates/default/bbpress/loop-search.php:22
+#: templates/default/bbpress/loop-search.php:44
+msgid "Search Results"
+msgstr "نتایج جستجو"
+
+#: templates/default/bbpress/loop-search-topic.php:37
+msgid "in forum "
+msgstr "در انجمن"
+
+#: templates/default/bbpress/loop-search-topic.php:33
+msgid "in group forum "
+msgstr "در انجمن گروهی"
+
+#: templates/default/bbpress/loop-search-topic.php:26
+msgid "Topic: "
+msgstr "جستار:"
+
+#: templates/default/bbpress/loop-search-reply.php:24
+msgid "In reply to: "
+msgstr "در پاسخ به:"
+
+#: templates/default/bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr "انجمن:"
+
+#: templates/default/bbpress/loop-search-forum.php:16
+msgid "Last updated %s"
+msgstr "واپسین بار در %s به روز رسانی شد."
+
+#: templates/default/bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr "نقش کاربری وبلاگ"
+
+#: templates/default/bbpress/form-user-register.php:18
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr "ما از رایانامه شما برای فرستادن یک گذرواژه امن و لینک تایید اکانت شما استفاده خواهیم کرد."
+
+#: templates/default/bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "نام کاربری شما باید منحصر به فرد باشد، و در آینده قابل تغییر نیست."
+
+#: templates/default/bbpress/form-user-register.php:14
+msgid "Create an Account"
+msgstr "ساخت یک اکانت"
+
+#: templates/default/bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr "گذرواژه مرا باز سازی کنید."
+
+#: templates/default/bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr "نام کاربری یا رایانامه"
+
+#: templates/default/bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr "مرا وارد شده نگهدار"
+
+#: templates/default/bbpress/form-user-edit.php:178
+msgid "Update User"
+msgstr "بروز رسانی کاربر"
+
+#: templates/default/bbpress/form-user-edit.php:178
+msgid "Update Profile"
+msgstr "بروز رسانی پروفایل"
+
+#: templates/default/bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr "اعطای دسترسی ها فوق ادمین به این کاربر برای شبکه."
+
+#: templates/default/bbpress/form-user-edit.php:153
+msgid "Network Role"
+msgstr "نقش کاربری شبکه"
+
+#: templates/default/bbpress/form-user-edit.php:143
+#: templates/default/bbpress/form-user-edit.php:146
+msgid "User Role"
+msgstr "نقش کاربری"
+
+#: templates/default/bbpress/form-user-edit.php:133
+msgid "Your password should be at least ten characters long. Use upper and lower case letters, numbers, and symbols to make it even stronger."
+msgstr "گذرواژه شما باید کمینه شامل 10 کارکتر باشد.برای قدرتمند کردن آن از حروف بزرگ و کوچک به همراه شماره ها و نشانه ها استفاده نمایید."
+
+#: templates/default/bbpress/form-user-edit.php:130
+msgid "Type your new password again."
+msgstr "گذرواژه خود را دوباره وارد کنید."
+
+#: templates/default/bbpress/form-user-edit.php:127
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr "اگر می خواهید گذرواژه تان را تغییر دهید. در غیر این صورت این فیلد را خالی رها کنید."
+
+#: templates/default/bbpress/form-user-edit.php:124
+msgid "New Password"
+msgstr "گذرواژه تازه"
+
+#: templates/default/bbpress/form-user-edit.php:115
+msgid "There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
+msgstr "رایانامه تائید نشده ای وجود دارد آن را به <code>%1$s</code> تغییر دهید. <a href=\"%2$s\">انصراف</a>"
+
+#: templates/default/bbpress/form-user-edit.php:90
+#: templates/default/bbpress/form-user-edit.php:93
+msgid "Account"
+msgstr "اکانت"
+
+#: templates/default/bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr "زندگی‌نامه"
+
+#: templates/default/bbpress/form-user-edit.php:74
+#: templates/default/bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr "درباره کاربر"
+
+#: templates/default/bbpress/form-user-edit.php:74
+#: templates/default/bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr "درباره خودتان"
+
+#: templates/default/bbpress/form-user-edit.php:49
+#: templates/default/bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr "اطلاعات تماس"
+
+#: templates/default/bbpress/form-user-edit.php:39
+msgid "Display Name"
+msgstr "نامی که نمایش داده می شود"
+
+#: templates/default/bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr "لقب"
+
+#: templates/default/bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: templates/default/bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr "نام"
+
+#: templates/default/bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr "برای ساخت جستار های جدید باید وارد سایت شوید."
+
+#: templates/default/bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr "شما نمی توانید جستار تازه ایجاد کنید."
+
+#: templates/default/bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr "وضعیت جستار:"
+
+#: templates/default/bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr "نوع جستار:"
+
+#: templates/default/bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr "برچسب های جستار:"
+
+#: templates/default/bbpress/form-topic.php:75
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "عنوان جستار (حداکثر طول: %d):"
+
+#: templates/default/bbpress/form-topic.php:53
+msgid "This forum is marked as closed to new topics, however your posting capabilities still allow you to do so."
+msgstr "این انجمن به عنوان انجمن بسته برای جستار های تازه نشانه گذاری شده است، با این حال توانمندی های شما هنوز اجازه انجام این کار را می دهد."
+
+#: templates/default/bbpress/form-topic.php:43
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "ساخت جستار جدید در &ldquo;%s&rdquo;"
+
+#: templates/default/bbpress/form-topic-tag.php:101
+msgid "Are you sure you want to delete the \"%s\" tag? This is permanent and cannot be undone."
+msgstr "آیا شما مطمئن هستید که می خواهید برچسب \"%s\" را پاک کنید؟ این عملیات همیشگی است و قابل بازگشت نخواهد بود."
+
+#: templates/default/bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr "هر لینکی به این برچسب دیگر قابل دسترس نخواهد بود."
+
+#: templates/default/bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr "زدودن یک برچسب قابل بازگشت نیست!"
+
+#: templates/default/bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "این عملیات جستار های شما را حذف نخواهد کرد. تنها برچسب زدوده خواهد شد."
+
+#: templates/default/bbpress/form-topic-tag.php:73
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr "آیا شما مطمئن هستید که می خواهید برچسب  \"%s\"  را با برچسب مشخص شده ادغام نمایید؟"
+
+#: templates/default/bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr "برچسب موجود:"
+
+#: templates/default/bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr "ادغام برچسب ها با یکدیگر قابل بازگشت نیست!"
+
+#: templates/default/bbpress/form-topic-tag.php:45
+msgid "Update"
+msgstr "بروز رسانی"
+
+#: templates/default/bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr "نامک:"
+
+#: templates/default/bbpress/form-topic-tag.php:29
+msgid "Changing the slug affects its permalink. Any links to the old slug will stop working."
+msgstr "تغییر نامک بر روی پیوندهای یکتای آن تاثیر می گذارد. هر لینکی به نامک قدیمی دیگر کار نخواهد کرد."
+
+#: templates/default/bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "نامک را خالی رها کنید تا به صورت اتوماتیک مقداری برای آن تولید شود. (اگر از زبان فارسی استفاده می نمایید بهتر است نامک ها را وارد نمایید)"
+
+#: templates/default/bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr "تغییرنام"
+
+#: templates/default/bbpress/form-topic-tag.php:18
+msgid "Manage Tag: \"%s\""
+msgstr "مدیریت برچسب: \"%s\""
+
+#: templates/default/bbpress/form-topic-split.php:85
+msgid "Copy topic tags to the new topic"
+msgstr "کپی برچسب های جستار به جستار جدید"
+
+#: templates/default/bbpress/form-topic-split.php:80
+msgid "Copy favoriters to the new topic"
+msgstr "کپی علاقمندان به جستار جدید"
+
+#: templates/default/bbpress/form-topic-split.php:75
+msgid "Copy subscribers to the new topic"
+msgstr "کپی مشترکان به جستار جدید"
+
+#: templates/default/bbpress/form-topic-split.php:42
+msgid "Split: %s"
+msgstr "جداسازی: %s"
+
+#: templates/default/bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr "متد جداسازی"
+
+#: templates/default/bbpress/form-topic-split.php:33
+msgid "If you use the existing topic option, replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted."
+msgstr "اگر شما گزینه ادغام با پاسخ های جستار موجود را استفاده کنید، پاسخ های هر دو جستار بر اساس ترتیب زمانی با هم ادغام خواهند شد. چیدمان پاسخ های ادغام شده بر اساس زمان و تاریخ ارسال آن ها خواهد بود."
+
+#: templates/default/bbpress/form-topic-split.php:29
+msgid "When you split a topic, you are slicing it in half starting with the reply you just selected. Choose to use that reply as a new topic with a new title, or merge those replies into an existing topic."
+msgstr "وقتی شما یک جستار را جداسازی می نمایید، شما آن جستار را به دو قسمت تقسیم می کند که از پاسخی که انتخاب شده است آغاز می شود. انتخاب کنید که آن پاسخ به صورت یک جستار جدید با یک عنوان جدید استفاده شود ، یا با پاسخ های جستار دیگر ادغام شود."
+
+#: templates/default/bbpress/form-topic-split.php:24
+msgid "Split topic \"%s\""
+msgstr "جداسازی جستار \"%s\""
+
+#: templates/default/bbpress/form-topic-merge.php:106
+#: templates/default/bbpress/form-topic-split.php:110
+msgid "You cannot edit this topic."
+msgstr "شما نمی توانید این جستار را ویرایش نمایید."
+
+#: templates/default/bbpress/form-topic-merge.php:106
+#: templates/default/bbpress/form-topic-split.php:110
+msgid "You do not have the permissions to edit this topic!"
+msgstr "شما اجازه ویرایش این جستار را ندارید!"
+
+#: templates/default/bbpress/form-topic-merge.php:81
+msgid "Merge topic tags"
+msgstr "ادغام برچسب های جستار"
+
+#: templates/default/bbpress/form-topic-merge.php:76
+msgid "Merge topic favoriters"
+msgstr "ادغام علاقمندان جستار"
+
+#: templates/default/bbpress/form-topic-merge.php:71
+msgid "Merge topic subscribers"
+msgstr "ادغام مشترکان جستار"
+
+#: templates/default/bbpress/form-topic-merge.php:64
+#: templates/default/bbpress/form-topic-split.php:68
+msgid "Topic Extras"
+msgstr "افزودنی های جستار"
+
+#: templates/default/bbpress/form-topic-merge.php:56
+msgid "There are no other topics in this forum to merge with."
+msgstr "جستار دیگری در این انجمن به منظور ادغام وجود ندارد."
+
+#: templates/default/bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr "ادغام با این جستار:"
+
+#: templates/default/bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr "مقصد"
+
+#: templates/default/bbpress/form-topic-merge.php:34
+msgid "All replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted. If the destination topic was created after this one, it's post date will be updated to second earlier than this one."
+msgstr "همه پاسخ ها در این دو جستار بر اساس ترتیب زمانی ادغام خواهند شد. چیدمان پاسخ های ادغام شده بر اساس زمان و تاریخ ارسال آن ها خواهد بود. اگر جستار مقصد بعد از این جستار ارسال شده باشد، نوشته های جستار مقصد زودتر از این جستار چیدمان زمانی خواهد شد."
+
+#: templates/default/bbpress/form-topic-merge.php:30
+msgid "To keep this topic as the lead, go to the other topic and use the merge tool from there instead."
+msgstr "برای این که این جستار را به عنوان جستار اصلی نگه دارید، به صفحه جستار دیگر مراجعه کرده و از ابزار ادغام در آن صفحه استفاده نمایید."
+
+#: templates/default/bbpress/form-topic-merge.php:29
+msgid "Select the topic to merge this one into. The destination topic will remain the lead topic, and this one will change into a reply."
+msgstr "جستاری را جهت ادغام با این جستار انتخاب کنید. جستار مقصد به عنوان جستار اصلی باقی خواهد ماند، و  این جستار تبدیل به پاسخ خواهد شد."
+
+#: templates/default/bbpress/form-topic-merge.php:24
+msgid "Merge topic \"%s\""
+msgstr "ادغام جستار \"%s\""
+
+#: templates/default/bbpress/form-search.php:14
+msgid "Search for:"
+msgstr "جستجوی برای :"
+
+#: templates/default/bbpress/form-reply.php:174
+msgid "You must be logged in to reply to this topic."
+msgstr "شما برای پاسخ به این جستار باید وارد تارنما شوید."
+
+#: templates/default/bbpress/form-reply.php:174
+msgid "You cannot reply to this topic."
+msgstr "شما نمی توانید به این جستار پاسخ دهید."
+
+#: templates/default/bbpress/form-reply.php:166
+#: templates/default/bbpress/form-topic.php:226
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "انجمن &#8216;%s&#8217; برای جستار ها و پاسخ ها جدید بسته است."
+
+#: templates/default/bbpress/form-reply.php:158
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "جستار &#8216;%s&#8217 برای پاسخ های جدید بسته است ."
+
+#: templates/default/bbpress/form-reply.php:118
+#: templates/default/bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr "دلیل اختیاری برای ویرایش :"
+
+#: templates/default/bbpress/form-reply.php:114
+#: templates/default/bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr "نگهداری یک گزارش از این ویرایش :"
+
+#: templates/default/bbpress/form-reply.php:97
+#: templates/default/bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr "من را از پاسخ های آینده از طریق رایانامه آگاه کنید."
+
+#: templates/default/bbpress/form-reply.php:93
+#: templates/default/bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr "نویسنده را از پاسخ های آینده از طریق رایانامه آگاه کنید."
+
+#: templates/default/bbpress/form-reply.php:75
+msgid "Tags:"
+msgstr "برچسب ها:"
+
+#: templates/default/bbpress/form-reply.php:36
+msgid "This topic is marked as closed to new replies, however your posting capabilities still allow you to do so."
+msgstr "این جستار نشانه گذاری شد به عنوان بسته شده برای پاسخ جدید، با این حال توانمندی ارسال شما هنوز به شما اجازه می دهد که ادامه دهید."
+
+#: templates/default/bbpress/form-reply-move.php:85
+msgid "You cannot edit this reply."
+msgstr "شما نمی توانید این پاسخ را ویرایش نمایید."
+
+#: templates/default/bbpress/form-reply-move.php:85
+msgid "You do not have the permissions to edit this reply!"
+msgstr "شما اجازه ویرایش این پاسخ را ندارید!"
+
+#: templates/default/bbpress/form-reply-move.php:68
+#: templates/default/bbpress/form-topic-merge.php:89
+#: templates/default/bbpress/form-topic-split.php:93
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr "<strong>اخطار:</strong> این عملیات قابل بازگشت نیست."
+
+#: templates/default/bbpress/form-reply-move.php:49
+#: templates/default/bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr "استفاده از یک جستار موجود در این انجمن :"
+
+#: templates/default/bbpress/form-reply-move.php:42
+msgid "Moved: %s"
+msgstr "جابجا شد: %s"
+
+#: templates/default/bbpress/form-reply-move.php:41
+#: templates/default/bbpress/form-topic-split.php:41
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr "جستار تازه در <strong>%s</strong> عنوان :"
+
+#: templates/default/bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr "متد جابجایی"
+
+#: templates/default/bbpress/form-reply-move.php:33
+msgid "If you choose an existing topic, replies will be ordered by the time and date they were created."
+msgstr "اگر شما جستاری را که وجود دارد انتخاب کنید،پاسخ ها بر اساس زمان و تاریخ ساخته شده چیدمان خواهند شد."
+
+#: templates/default/bbpress/form-reply-move.php:29
+msgid "You can either make this reply a new topic with a new title, or merge it into an existing topic."
+msgstr "شما همچنین می توانید این پاسخ را به یک جستار جدید با عنوان جدید تبدیل کنید، یا با جستار های موجود ادغام نمایید."
+
+#: templates/default/bbpress/form-reply-move.php:24
+msgid "Move reply \"%s\""
+msgstr "جابجایی پاسخ \"%s\""
+
+#: templates/default/bbpress/form-protected.php:14
+msgid "Protected"
+msgstr "محافظت شده"
+
+#: templates/default/bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr "شما برای ساخت انجمن جدید باید وارد سایت شوید."
+
+#: templates/default/bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr "شما نمی توانید انجمن تازه ایجاد نمایید."
+
+#: templates/default/bbpress/form-forum.php:161
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "انجمن &#8216;%s&#8217; هم اکنون برای محتوای جدید بسته است."
+
+#: templates/default/bbpress/form-forum.php:138
+#: templates/default/bbpress/form-reply-move.php:72
+#: templates/default/bbpress/form-reply.php:135
+#: templates/default/bbpress/form-topic-merge.php:93
+#: templates/default/bbpress/form-topic-split.php:97
+#: templates/default/bbpress/form-topic.php:203
+msgid "Submit"
+msgstr "فرستادن"
+
+#: templates/default/bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr "(بدون مادر)"
+
+#: templates/default/bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr "نوع انجمن:"
+
+#: templates/default/bbpress/form-forum.php:82
+#: templates/default/bbpress/form-reply.php:64
+#: templates/default/bbpress/form-topic.php:90
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr "شما می توانید از این تگ ها و کدهای <abbr title=\"HyperText Markup Language\">HTML</abbr> استفاده نمایید:"
+
+#: templates/default/bbpress/form-forum.php:67
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "نام انجمن (حداکثر طول: %d):"
+
+#: templates/default/bbpress/form-forum.php:55
+#: templates/default/bbpress/form-reply.php:44
+#: templates/default/bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "اکانت شما قابلیت ارسال محتوای HTML به صورت نامحدود را داراست."
+
+#: templates/default/bbpress/form-forum.php:47
+msgid "This forum is closed to new content, however your account still allows you to do so."
+msgstr "این انجمن برای محتوای جدید بسته شده است ، با این حال اکانت شما هنوز اجازه ادامه را دارد."
+
+#: templates/default/bbpress/form-forum.php:37
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "ساخت انجمن جدید در &rdquo; %s  &ldquo;"
+
+#: templates/default/bbpress/form-forum.php:35
+#: templates/default/bbpress/form-topic.php:41
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "در حال ویرایش &rdquo; %s&ldquo;"
+
+#: templates/default/bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr "رایانامه (منتشر نخواهد شد) (بایسته):"
+
+#: templates/default/bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr "نام (بایسته):"
+
+#: templates/default/bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr "اطلاعات شما:"
+
+#: templates/default/bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr "دوست من! اینجا جستاری یافت نشد!"
+
+#: templates/default/bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr "دوست من، اینجا هیچ نتیجه جستجویی یافت نشد!"
+
+#: templates/default/bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr "دوست من، اینجا هیچ پاسخی یافت نشد!"
+
+#: templates/default/bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr "دوست من! اینجا انجمنی یافت نشد!"
+
+#: templates/default/bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr "شما اجازه مشاهده انجمن را ندارید."
+
+#: templates/default/bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr "خصوصی"
+
+#: templates/default/bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr "شما قبلا وارد شده اید."
+
+#: templates/default/bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr "پاسخ های پنهان"
+
+#: templates/default/bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr "جستارهای پنهان"
+
+#: templates/default/bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr "خالی کردن برچسب جستار ها"
+
+#: templates/default/bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr "کاربران عضو"
+
+#: includes/users/template.php:1476
+msgid "Registration complete. Please check your e-mail."
+msgstr "نام نویسی انجام شد. لطفا رایانامه خود را بررسی کنید."
+
+#: includes/users/template.php:1471
+msgid "Check your e-mail for your new password."
+msgstr "رایانامه خود را جهت گذرواژه تازه بررسی کنید."
+
+#: includes/users/template.php:1466
+msgid "Check your e-mail for the confirmation link."
+msgstr "راینامه خود را جهت لینک تایید نام نویسی بررسی کنید."
+
+#: includes/users/template.php:1457
+msgid "New user registration is currently not allowed."
+msgstr "نام نویسی کاربر تازه، هم اکنون امکان پذیر نیست."
+
+#: includes/users/template.php:1453
+msgid "You are now logged out."
+msgstr "شما اکنون خارج شده اید."
+
+#: includes/users/template.php:1255
+msgid "&mdash; No role for this site &mdash;"
+msgstr "&mdash; بدون نقش برای این سایت &mdash;"
+
+#: includes/users/template.php:1188
+msgid "This user has super admin privileges."
+msgstr "این کاربر دسترسی ها فوق ادمین را دارا هست."
+
+#: includes/users/template.php:1188
+msgid "You have super admin privileges."
+msgstr "شما دسترسی ها فوق ادمین را دارا هستید."
+
+#: includes/users/template.php:1163
+msgid "User updated."
+msgstr "کاربر بروز شد."
+
+#: includes/users/template.php:895
+msgid "Favorited"
+msgstr "علاقمندی ها"
+
+#: includes/users/template.php:557
+msgid "Admin"
+msgstr "ادمین"
+
+#: includes/users/template.php:517
+msgid "Member"
+msgstr "کاربر"
+
+#: includes/users/template.php:507
+msgid "Inactive"
+msgstr "غیرفعال"
+
+#: includes/users/template.php:503
+msgid "Guest"
+msgstr "میهمان"
+
+#: includes/users/functions.php:1331
+msgid "<strong>ERROR</strong>: There was a problem subscribing to that topic!"
+msgstr "<strong>خطا</strong>: اشکالی در مشترک شدن آن جستار وجود دارد!"
+
+#: includes/users/functions.php:1329
+msgid "<strong>ERROR</strong>: There was a problem unsubscribing from that topic!"
+msgstr "<strong>خطا</strong>: اشکالی در قطع اشتراک از آن جستار وجود دارد!"
+
+#: includes/users/functions.php:1276
+msgid "<strong>ERROR</strong>: No topic was found! Which topic are you subscribing/unsubscribing to?"
+msgstr "<strong>خطا</strong>: جستاری یافت نشد! کدام جستار را می خواهید مشترک شوید/قطع اشتراک نمایید؟"
+
+#: includes/users/functions.php:1225
+msgid "<strong>ERROR</strong>: There was a problem subscribing to that forum!"
+msgstr "<strong>خطا</strong>: مشکلی در پیوستن به این انجمن وجود دارد!"
+
+#: includes/users/functions.php:1223
+msgid "<strong>ERROR</strong>: There was a problem unsubscribing from that forum!"
+msgstr "<strong>خطا</strong>: مشکلی در جدا شدن از این انجمن وجود دارد!"
+
+#: includes/users/functions.php:1170
+msgid "<strong>ERROR</strong>: No forum was found! Which forum are you subscribing/unsubscribing to?"
+msgstr "<strong>خطا</strong>: انجمنی پیدا نشد. شما قصد پیوستن/جداشدن به کدام انجمن را دارید؟"
+
+#: includes/users/functions.php:508
+msgid "<strong>ERROR</strong>: There was a problem favoriting that topic!"
+msgstr "<strong>خطا</strong>: اشکالی در افزودن جستار به علاقمندی ها وجود دارد."
+
+#: includes/users/functions.php:506
+msgid "<strong>ERROR</strong>: There was a problem removing that topic from favorites!"
+msgstr "<strong>خطا</strong>: اشکالی در زدودن جستار از علاقمندی ها وجود دارد."
+
+#: includes/users/functions.php:463 includes/users/functions.php:1178
+#: includes/users/functions.php:1284
+msgid "<strong>ERROR</strong>: You don't have the permission to edit favorites of that user!"
+msgstr "<strong>خطا</strong>: شما اجازه ویرایش علاقمندی های آن کاربر را ندارید!"
+
+#: includes/users/functions.php:455
+msgid "<strong>ERROR</strong>: No topic was found! Which topic are you marking/unmarking as favorite?"
+msgstr "<strong>خطا</strong>: جستاری یافت نشد. کدام جستار را می خواهید به عنوان علاقمندی ها نشانه گذاری/رفع نشانه گذاری نمایید؟"
+
+#: includes/topics/template.php:3375
+msgid "View Topic Tag"
+msgstr "نمایش برچسب جستار"
+
+#: includes/topics/template.php:3374
+msgid "New Tag Name"
+msgstr "نام برچسب تازه"
+
+#: includes/topics/template.php:3373
+msgid "Add New Tag"
+msgstr "افزودن برچسب"
+
+#: includes/topics/template.php:3372
+msgid "Update Tag"
+msgstr "بروز رسانی برچسب"
+
+#: includes/topics/template.php:3371
+msgid "Edit Tag"
+msgstr "ویرایش برچسب"
+
+#: includes/topics/template.php:3370
+msgid "All Tags"
+msgstr "همه برچسب ها"
+
+#: includes/topics/template.php:3369
+msgid "Popular Tags"
+msgstr "برچسب های محبوب"
+
+#: includes/topics/template.php:3368
+msgid "Search Tags"
+msgstr "جستجوی برچسب ها"
+
+#: includes/topics/template.php:3366
+#: templates/default/bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr "برچسب های جستار"
+
+#: includes/topics/template.php:3320
+msgid "This topic has no replies."
+msgstr "این جستار پاسخی ندارد."
+
+#: includes/topics/template.php:3316
+msgid "This topic contains %1$s and has %2$s."
+msgstr "این جستار شامل %1$s و دارای %2$s است ."
+
+#: includes/topics/template.php:3312
+msgid "This topic contains %1$s, has %2$s, and was last updated by %3$s %4$s."
+msgstr "این جستار شامل %1$s ، و دارای %2$s  است ، و آخرین بار توسط  %3$s در %4$s بروز شده است."
+
+#: includes/topics/template.php:3306
+msgid "%s voice"
+msgid_plural "%s voices"
+msgstr[0] "%s کاربر"
+
+#: includes/topics/template.php:3046
+msgid "This topic is in the trash."
+msgstr "این جستار در زباله دان قرار دارد."
+
+#: includes/topics/template.php:3041
+msgid "This topic is marked as spam."
+msgstr "این جستار به عنوان هرزنامه نشانه گذاری شده است."
+
+#: includes/topics/template.php:2981
+msgid "Viewing topic %2$s (of %4$s total)"
+msgid_plural "Viewing %1$s topics - %2$s through %3$s (of %4$s total)"
+msgstr[0] "نمایش %1$s جستار (از %4$s کل)"
+
+#: includes/topics/template.php:2977
+msgid "Viewing %1$s topic"
+msgid_plural "Viewing %1$s topics"
+msgstr[0] "نمایش %1$s جستار"
+
+#: includes/topics/template.php:2816
+#: templates/default/bbpress/form-topic-tag.php:59
+#: templates/default/bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr "ادغام"
+
+#: includes/topics/template.php:2686
+msgctxt "Topic Status"
+msgid "Open"
+msgstr "بازکردن"
+
+#: includes/topics/template.php:2685
+msgctxt "Topic Status"
+msgid "Close"
+msgstr "بسته"
+
+#: includes/topics/template.php:2295
+msgid "Tagged:"
+msgstr "برچسب ها:"
+
+#: includes/topics/template.php:1892
+msgid "Unfavorite"
+msgstr "نامحبوب"
+
+#: includes/topics/template.php:1891 includes/users/template.php:894
+msgid "Favorite"
+msgstr "علاقمندی ها"
+
+#: includes/topics/template.php:993
+msgid "This topic was modified %1$s by %2$s."
+msgstr "این جستار %1$s توسط %2$s اصلاح شده است."
+
+#: includes/topics/template.php:991
+msgid "This topic was modified %1$s by %2$s. Reason: %3$s"
+msgstr "این جستار %1$s توسط %2$s اصلاح شده است . دلیل : %3$s"
+
+#: includes/topics/template.php:60
+msgid "No topics found in Trash"
+msgstr "جستاری در زباله دان یافت نشد"
+
+#: includes/topics/template.php:59
+msgid "No topics found"
+msgstr "جستاری یافت نشد"
+
+#: includes/topics/template.php:58
+msgid "Search Topics"
+msgstr "جستجوی جستار ها"
+
+#: includes/topics/template.php:56 includes/topics/template.php:57
+msgid "View Topic"
+msgstr "نمایش جستار"
+
+#: includes/topics/template.php:54
+msgid "Edit Topic"
+msgstr "ویرایش موضوع"
+
+#: includes/topics/template.php:52 templates/default/bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr "ساخت جستار تازه"
+
+#: includes/topics/template.php:51 includes/topics/template.php:55
+msgid "New Topic"
+msgstr "جستار تازه"
+
+#: includes/topics/functions.php:2158
+msgid "<strong>ERROR</strong>: There was a problem deleting the topic."
+msgstr "<strong>خطا</strong>: اشکالی در زدودن جستار وجود دارد."
+
+#: includes/topics/functions.php:2150
+msgid "<strong>ERROR</strong>: There was a problem untrashing the topic."
+msgstr "<strong>خطا</strong>: اشکالی در بیرون کشیدن جستار از زباله دان هست."
+
+#: includes/topics/functions.php:2142
+msgid "<strong>ERROR</strong>: There was a problem trashing the topic."
+msgstr "<strong>خطا</strong>: اشکالی در فرستادن جستار به زباله دان وجود دارد."
+
+#: includes/topics/functions.php:2123
+msgid "<strong>ERROR</strong>: There was a problem marking the topic as spam."
+msgstr "<strong>خطا</strong>: اشکالی در نشانه گذاری جستار به عنوان هرزنامه وجود دارد."
+
+#: includes/topics/functions.php:2123
+msgid "<strong>ERROR</strong>: There was a problem unmarking the topic as spam."
+msgstr "<strong>خطا</strong>: اشکالی در رفع نشانه گذاری جستار به عنوان هرزنامه وجود دارد."
+
+#: includes/topics/functions.php:2113
+msgid "<strong>ERROR</strong>: There was a problem sticking the topic."
+msgstr "<strong>خطا</strong>: اشکالی در چسبندگی جستار وجود دارد."
+
+#: includes/topics/functions.php:2113
+msgid "<strong>ERROR</strong>: There was a problem unsticking the topic."
+msgstr "<strong>خطا</strong>: اشکالی در رفع چسبندگی جستار وجود دارد."
+
+#: includes/topics/functions.php:2102
+msgid "<strong>ERROR</strong>: There was a problem opening the topic."
+msgstr "<strong>خطا</strong>: شما نمی توانید جستار را باز کنید."
+
+#: includes/topics/functions.php:2102
+msgid "<strong>ERROR</strong>: There was a problem closing the topic."
+msgstr "<strong>خطا</strong>: شما نمی توانید جستار را ببندید."
+
+#: includes/topics/functions.php:2089
+msgid "<strong>ERROR:</strong> You do not have the permission to do that."
+msgstr "<strong>خطا</strong>: شما نمی توانید اینکار را انجام دهید."
+
+#: includes/topics/functions.php:1984
+msgctxt "Make topic super sticky"
+msgid "Super Sticky"
+msgstr "ارزش برتر"
+
+#: includes/topics/functions.php:1983
+msgctxt "Make topic sticky"
+msgid "Sticky"
+msgstr "سنجاق شده"
+
+#: includes/topics/functions.php:1982
+msgctxt "Unstick a topic"
+msgid "Normal"
+msgstr "معمولی"
+
+#: includes/topics/functions.php:1969
+msgctxt "Mark topic as pending"
+msgid "Pending"
+msgstr "در انتظار"
+
+#: includes/topics/functions.php:1968
+msgctxt "Trash the topic"
+msgid "Trash"
+msgstr "زباله دان"
+
+#: includes/topics/functions.php:1967
+msgctxt "Spam the topic"
+msgid "Spam"
+msgstr "هرزنامه"
+
+#: includes/topics/functions.php:1966
+msgctxt "Close the topic"
+msgid "Closed"
+msgstr "بسته شده"
+
+#: includes/topics/functions.php:1965
+msgctxt "Open the topic"
+msgid "Open"
+msgstr "باز"
+
+#: includes/topics/functions.php:1931
+msgid "<strong>ERROR</strong>: The following problem(s) have been found while deleting the tag: %s"
+msgstr "<strong>خطا</strong>: این اشکال ها در هنگام زدودن برچسب یافت شد: %s"
+
+#: includes/topics/functions.php:1922
+msgid "<strong>ERROR</strong>: You do not have the permissions to delete the topic tags."
+msgstr "<strong>خطا</strong>: شما نمی توانید برچسب های این جستار را پاک کنید."
+
+#: includes/topics/functions.php:1890
+msgid "<strong>ERROR</strong>: The tags which are being merged can not be the same."
+msgstr "<strong>خطا</strong>: برچسب هایی که قصد ادغام آن ها را دارید یکسان نیستند."
+
+#: includes/topics/functions.php:1881 includes/topics/functions.php:1899
+msgid "<strong>ERROR</strong>: The following problem(s) have been found while merging the tags: %s"
+msgstr "<strong>خطا</strong>: این اشکال ها در هنگام ادغام برچسب ها یافت شد: %s"
+
+#: includes/topics/functions.php:1842
+msgid "<strong>ERROR</strong>: The following problem(s) have been found while updating the tag: %s"
+msgstr "<strong>خطا</strong>: این اشکال ها در هنگام بروز رسانی برچسب یافت شد: %s"
+
+#: includes/topics/functions.php:1832 includes/topics/functions.php:1871
+msgid "<strong>ERROR</strong>: You need to enter a tag name."
+msgstr "<strong>خطا</strong>: شما باید یک نام برچسب وارد نمایید."
+
+#: includes/topics/functions.php:1826 includes/topics/functions.php:1865
+msgid "<strong>ERROR</strong>: You do not have the permissions to edit the topic tags."
+msgstr "<strong>خطا</strong>: شما نمی توانید برچسب های جستار را ویرایش کنید."
+
+#: includes/topics/functions.php:1808
+msgid "<strong>ERROR</strong>: The following problem(s) have been found while getting the tag: %s"
+msgstr "<strong>خطا</strong>: این اشکال ها در هنگام دریافت برچسب یافت شد: %s"
+
+#: includes/topics/functions.php:1492
+msgid "<strong>ERROR</strong>: The topic you want to split to was not found!"
+msgstr "<strong>خطا</strong>: جستاری که می خواهید به آن جداسازی نمایید یافت نشد."
+
+#: includes/topics/functions.php:1470
+msgid "<strong>ERROR</strong>: You need to choose a valid split option."
+msgstr "<strong>خطا</strong>: شما باید گزینه صحیح جداسازی را انتخاب نمایید."
+
+#: includes/topics/functions.php:1452
+msgid "<strong>ERROR</strong>: The topic you want to split was not found."
+msgstr "<strong>خطا</strong>: جستاری که می خواهید جداسازی نمایید یافت نشد."
+
+#: includes/topics/functions.php:1443
+msgid "<strong>ERROR</strong>: The reply you want to split from was not found."
+msgstr "<strong>خطا</strong>: پاسخی که می خواهید از آن جداسازی نمایید یافت نشد."
+
+#: includes/topics/functions.php:1435
+msgid "<strong>ERROR</strong>: Reply ID to split the topic from not found!"
+msgstr "<strong>خطا</strong>: شناسه پاسخی که می خواهید از جستار جدا کنید یافت نشد."
+
+#: includes/topics/functions.php:1182
+msgid "<strong>ERROR</strong>: You do not have the permissions to edit the destination topic."
+msgstr "<strong>خطا</strong>: شما اجازه ویرایش جستار مقصد را ندارید."
+
+#: includes/topics/functions.php:1178
+msgid "<strong>ERROR</strong>: The topic you want to merge to was not found."
+msgstr "<strong>خطا</strong>: جستاری که قصد ادغام آن را دارید یافت نشد."
+
+#: includes/topics/functions.php:1172
+msgid "<strong>ERROR</strong>: Destination topic ID not found."
+msgstr "<strong>خطا</strong>:  شناسه جستار مقصد یافت نشد."
+
+#: includes/topics/functions.php:1158
+msgid "<strong>ERROR</strong>: The topic you want to merge was not found."
+msgstr "<strong>خطا</strong>: جستاری که می خواهید ادغام کنید یافت نشد."
+
+#: includes/topics/functions.php:602
+msgid "<strong>ERROR</strong>: Your topic cannot be edited at this time."
+msgstr "<strong>خطا</strong>: این جستار در این زمان قابل ویرایش نیست."
+
+#: includes/topics/functions.php:550
+msgid "<strong>ERROR</strong>: This forum is a category. No topics can be created in it."
+msgstr "<strong>خطا</strong>: این انجمن از نوع دسته بندی است. هیچ جستاری نمی تواند در آن ساخته شود."
+
+#: includes/topics/functions.php:504
+msgid "<strong>ERROR</strong>: You do not have permission to edit that topic."
+msgstr "<strong>خطا</strong>: شما اجازه ویرایش جستار را ندارید."
+
+#: includes/topics/functions.php:493
+msgid "<strong>ERROR</strong>: The topic you want to edit was not found."
+msgstr "<strong>خطا</strong>: جستاری که قصد ویرایش آن را دارید یافت نشد."
+
+#: includes/topics/functions.php:482 includes/topics/functions.php:1146
+msgid "<strong>ERROR</strong>: Topic ID not found."
+msgstr "<strong>خطا</strong>: شناسه جستار یافت نشد."
+
+#: includes/topics/functions.php:270
+msgid "<strong>ERROR</strong>: Your topic cannot be created at this time."
+msgstr "<strong>خطا</strong>: جستار شما نمی تواند در این زمان ساخته شود."
+
+#: includes/topics/functions.php:265
+msgid "<strong>ERROR</strong>: Duplicate topic detected; it looks as though you&#8217;ve already said that!"
+msgstr "<strong>خطا</strong>: جستار تکراری شناسایی شد؛ به نظر می رسد شما آن را قبلا ارسال کرده اید."
+
+#: includes/topics/functions.php:251 includes/topics/functions.php:569
+msgid "<strong>ERROR</strong>: This forum is hidden and you do not have the capability to read or create new topics in it."
+msgstr "<strong>خطا</strong>: این انجمن پنهان است و شما توانمندی خواندن یا ساختن جستار های جدید را در آن ندارید."
+
+#: includes/topics/functions.php:245 includes/topics/functions.php:563
+msgid "<strong>ERROR</strong>: This forum is private and you do not have the capability to read or create new topics in it."
+msgstr "<strong>خطا</strong>: این انجمن خصوصی است و شما توانمندی خواندن یا ساختن جستار های جدید را در آن ندارید."
+
+#: includes/topics/functions.php:239 includes/topics/functions.php:557
+msgid "<strong>ERROR</strong>: This forum has been closed to new topics."
+msgstr "<strong>خطا</strong>: این انجمن برای جستار های جدید بسته شده است."
+
+#: includes/topics/functions.php:232
+msgid "<strong>ERROR</strong>: This forum is a category. No topics can be created in this forum."
+msgstr "<strong>خطا</strong>: این انجمن از نوع دسته بندی است. هیچ جستاری نمی تواند در آن ساخته شود."
+
+#: includes/topics/functions.php:187 includes/topics/functions.php:597
+msgid "<strong>ERROR</strong>: Your topic cannot be empty."
+msgstr "<strong>خطا</strong>: جستار شما نمی تواند خالی باشد."
+
+#: includes/topics/functions.php:175 includes/topics/functions.php:585
+msgid "<strong>ERROR</strong>: Your topic needs a title."
+msgstr "<strong>خطا</strong>: جستار شما نیاز به یک عنوان دارد."
+
+#: includes/topics/functions.php:150
+msgid "<strong>ERROR</strong>: You do not have permission to create new topics."
+msgstr "<strong>خطا</strong>: شما اجازه ساخت جستار تازه ای را ندارید."
+
+#: includes/search/template.php:405
+msgid "Viewing %2$s results (of %4$s total)"
+msgid_plural "Viewing %1$s results - %2$s through %3$s (of %4$s total)"
+msgstr[0] "در حال نمایش %1$s نتیجه ( از کل %4$s ) "
+
+#: includes/search/template.php:401
+msgid "Viewing %1$s result"
+msgid_plural "Viewing %1$s results"
+msgstr[0] "در حال نمایش %1$s نتیجه"
+
+#: includes/search/template.php:229
+msgid "Search Results for '%s'"
+msgstr "نتایج جستجو برای  '%s'"
+
+#: includes/replies/template.php:2366
+msgid "Viewing %2$s post (of %4$s total)"
+msgid_plural "Viewing %1$s posts - %2$s through %3$s (of %4$s total)"
+msgstr[0] "در حال نمایش %1$s نوشته (از کل %4$s)"
+
+#: includes/replies/template.php:2362
+msgid "Viewing %1$s post"
+msgid_plural "Viewing %1$s posts"
+msgstr[0] "در حال نمایش %1$s نوشته"
+
+#: includes/replies/template.php:2354
+msgid "Viewing %2$s replies (of %4$s total)"
+msgid_plural "Viewing %1$s replies - %2$s through %3$s (of %4$s total)"
+msgstr[0] "در حال نمایش %1$s پاسخ ( از کل %4$s)"
+
+#: includes/replies/template.php:2350
+msgid "Viewing %1$s reply"
+msgid_plural "Viewing %1$s replies"
+msgstr[0] "در حال نمایش %1$s پاسخ"
+
+#: includes/replies/template.php:2343
+msgid "Viewing %1$s reply thread"
+msgid_plural "Viewing %1$s reply threads"
+msgstr[0] "نمایش %1$s پاسخ رشته ها"
+
+#: includes/replies/template.php:2237
+msgid "Split the topic from this reply"
+msgstr "جداسازی جستار از این پاسخ"
+
+#: includes/replies/template.php:2236
+msgid "Split"
+msgstr "جداسازی"
+
+#: includes/replies/template.php:2170
+msgid "Move this reply"
+msgstr "جابجایی این پاسخ"
+
+#: includes/replies/template.php:2169
+msgid "Move"
+msgstr "جابجایی"
+
+#: includes/replies/template.php:2106 includes/topics/template.php:2873
+msgid "Unspam"
+msgstr "غیر هرزنامه"
+
+#: includes/replies/template.php:2053 includes/topics/template.php:2634
+msgid "Are you sure you want to delete that permanently?"
+msgstr "آیا مطمئن هستید که می خواهید برای همیشه پاک کنید؟"
+
+#: includes/replies/template.php:2036 includes/topics/template.php:2617
+#: templates/default/bbpress/form-topic-tag.php:88
+#: templates/default/bbpress/form-topic-tag.php:101
+msgid "Delete"
+msgstr "پاک سازی"
+
+#: includes/replies/template.php:1695
+msgid "Cancel"
+msgstr "لغو"
+
+#: includes/replies/template.php:1210 includes/topics/template.php:1481
+#: includes/users/template.php:1651
+msgid "Visit %s's website"
+msgstr "بازدید تارنما %s"
+
+#: includes/replies/template.php:1210 includes/topics/template.php:1481
+#: includes/users/template.php:1651
+msgid "View %s's profile"
+msgstr "نمایش پروفایل %s"
+
+#: includes/replies/template.php:1098 includes/topics/template.php:1368
+#: includes/users/template.php:184
+msgid "Anonymous"
+msgstr "ناشناس"
+
+#: includes/replies/template.php:806
+msgid "This reply was modified %1$s by %2$s."
+msgstr "این پاسخ %1$s توسط %2$s اصلاح شده است."
+
+#: includes/replies/template.php:804
+msgid "This reply was modified %1$s by %2$s. Reason: %3$s"
+msgstr "این پاسخ  %1$s توسط %2$s اصلاح شده است . دلیل : %3$s"
+
+#: includes/replies/template.php:706 includes/topics/template.php:809
+msgctxt "date at time"
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: includes/replies/template.php:60
+msgid "No replies found in Trash"
+msgstr "پاسخی در زباله دان یافت نشد"
+
+#: includes/replies/template.php:59
+msgid "No replies found"
+msgstr "پاسخی یافت نشد"
+
+#: includes/replies/template.php:58
+msgid "Search Replies"
+msgstr "جستجوی پاسخ ها"
+
+#: includes/replies/template.php:56 includes/replies/template.php:57
+msgid "View Reply"
+msgstr "نمایش پاسخ"
+
+#: includes/replies/template.php:54
+msgid "Edit Reply"
+msgstr "ویرایش پاسخ"
+
+#: includes/replies/template.php:52
+msgid "Create New Reply"
+msgstr "ایجاد پاسخ تازه"
+
+#: includes/replies/template.php:51 includes/replies/template.php:55
+msgid "New Reply"
+msgstr "پاسخ تازه"
+
+#: includes/replies/functions.php:2034 includes/topics/functions.php:3464
+msgid "Replies: %s"
+msgstr "پاسخ ها : %s"
+
+#: includes/replies/functions.php:1992
+msgid "All Posts"
+msgstr "همه نوشته ها"
+
+#: includes/replies/functions.php:1578
+msgid "<strong>ERROR</strong>: There was a problem deleting the reply!"
+msgstr "<strong>خطا</strong>: اشکالی در پاکسازی این پاسخ وجود دارد!"
+
+#: includes/replies/functions.php:1570
+msgid "<strong>ERROR</strong>: There was a problem untrashing the reply!"
+msgstr "<strong>خطا</strong> : اشکالی در خارج کردن این پاسخ از زباله دان وجود دارد!"
+
+#: includes/replies/functions.php:1562
+msgid "<strong>ERROR</strong>: There was a problem trashing the reply!"
+msgstr "<strong>خطا</strong>: اشکالی در انتقال این پاسخ به زباله دان وجود دارد!"
+
+#: includes/replies/functions.php:1543
+msgid "<strong>ERROR</strong>: There was a problem marking the reply as spam!"
+msgstr "<strong>خطا</strong>: اشکالی در نشانه گذاری این پاسخ به عنوان هرزنامه وجود دارد!"
+
+#: includes/replies/functions.php:1543
+msgid "<strong>ERROR</strong>: There was a problem unmarking the reply as spam!"
+msgstr "<strong>خطا</strong>: اشکالی در رفع نشانه گذاری این پاسخ به عنوان هرزنامه وجود دارد!"
+
+#: includes/replies/functions.php:1530
+msgid "<strong>ERROR:</strong> You do not have the permission to do that!"
+msgstr "<strong>خطا</strong>: شما اجازه انجام آن کار را ندارید!"
+
+#: includes/replies/functions.php:1349 includes/topics/functions.php:1538
+msgid "<strong>ERROR</strong>: You do not have the permissions to create new topics. The reply could not be converted into a topic."
+msgstr "<strong>خطا</strong>: شما نمی توانید جستار ایجاد کنید. پاسخ نمی تواند به جستار تبدیل شود."
+
+#: includes/replies/functions.php:1344 includes/topics/functions.php:1533
+msgid "<strong>ERROR</strong>: There was a problem converting the reply into the topic. Please try again."
+msgstr "<strong>خطا</strong>: اشکالی در تبدیل پاسخ به جستار وجود دارد. لطفا دوباره تلاش نمایید."
+
+#: includes/replies/functions.php:1299 includes/replies/template.php:571
+#: includes/topics/functions.php:1294 includes/topics/functions.php:1652
+#: templates/default/bbpress/form-reply.php:29
+msgid "Reply To: %s"
+msgstr "پاسخ به : %s"
+
+#: includes/replies/functions.php:1290 includes/topics/functions.php:1496
+msgid "<strong>ERROR</strong>: You do not have the permissions to edit the destination topic!"
+msgstr "<strong>خطا</strong>: شما نمی توانید جستار مقصد را ویرایش کنید."
+
+#: includes/replies/functions.php:1285
+msgid "<strong>ERROR</strong>: The topic you want to move to was not found!"
+msgstr "<strong>خطا</strong>: جستاری  که قصد جابجایی آن را دارید یافت نشد."
+
+#: includes/replies/functions.php:1275 includes/topics/functions.php:1483
+msgid "<strong>ERROR</strong>: Destination topic ID not found!"
+msgstr "<strong>خطا</strong>:  شناسه جستار مقصد یافت نشد."
+
+#: includes/replies/functions.php:1262
+msgid "<strong>ERROR</strong>: You need to choose a valid move option."
+msgstr "<strong>خطا</strong>: شما باید گزینه درست جابجایی را انتخاب نمایید."
+
+#: includes/replies/functions.php:1252 includes/topics/functions.php:1164
+#: includes/topics/functions.php:1462
+msgid "<strong>ERROR</strong>: You do not have the permissions to edit the source topic."
+msgstr "<strong>خطا</strong>: شما اجازه ویرایش منبع جستار را ندارید."
+
+#: includes/replies/functions.php:1241
+msgid "<strong>ERROR</strong>: The topic you want to move from was not found."
+msgstr "<strong>خطا</strong>: جستاری که قصد جایجایی آن را دارید یافت نشد."
+
+#: includes/replies/functions.php:1232
+msgid "<strong>ERROR</strong>: The reply you want to move was not found."
+msgstr "<strong>خطا</strong>: پاسخی که قصد جابجایی آن را دارید یافت نشد."
+
+#: includes/replies/functions.php:1223
+msgid "<strong>ERROR</strong>: Reply ID to move not found!"
+msgstr "<strong>خطا</strong>: شناسه پاسخ جهت جایجایی یافت نشد."
+
+#: includes/replies/functions.php:616
+msgid "<strong>ERROR</strong>: Your reply cannot be edited at this time."
+msgstr "<strong>خطا</strong>: پاسخ شما در این زمان قابل ویرایش نیست."
+
+#: includes/replies/functions.php:533
+msgid "<strong>ERROR</strong>: You do not have permission to edit that reply."
+msgstr "<strong>خطا</strong> : شما اجازه ویرایش آن پاسخ را ندارید."
+
+#: includes/replies/functions.php:522
+msgid "<strong>ERROR</strong>: The reply you want to edit was not found."
+msgstr "<strong>خطا</strong>: پاسخی که قصد ویرایش آن را دارید یافت نشد."
+
+#: includes/replies/functions.php:505
+msgid "<strong>ERROR</strong>: Reply ID not found."
+msgstr "<strong>خطا</strong> : ID پاسخ یافت نشد."
+
+#: includes/replies/functions.php:377 includes/replies/functions.php:702
+msgid "<strong>ERROR</strong>: There was a problem adding the tags to the topic."
+msgstr "<strong>خطا</strong>: اشکالی در افزودن برچسب ها به جستار وجود دارد."
+
+#: includes/replies/functions.php:318
+msgid "<strong>ERROR</strong>: Topic is closed."
+msgstr "<strong>خطا</strong>: جستار بسته است."
+
+#: includes/replies/functions.php:294
+msgid "<strong>ERROR</strong>: Your reply cannot be created at this time."
+msgstr "<strong>خطا</strong>: پاسخ شما نمی تواند در این زمان فرستاده شود."
+
+#: includes/replies/functions.php:289
+msgid "<strong>ERROR</strong>: Duplicate reply detected; it looks as though you&#8217;ve already said that!"
+msgstr "<strong>خطا</strong>: پاسخ تکراری شناسایی شد؛ به نظر می رسد شما قبلا این پاسخ را ارسال کرده اید."
+
+#: includes/replies/functions.php:279 includes/replies/functions.php:611
+msgid "<strong>ERROR</strong>: Your reply cannot be empty."
+msgstr "<strong>خطا</strong>: پاسخ شما نمی تواند خالی باشد."
+
+#: includes/replies/functions.php:246 includes/replies/functions.php:587
+msgid "<strong>ERROR</strong>: This forum is hidden and you do not have the capability to read or create new replies in it."
+msgstr "<strong>خطا</strong>: این انجمن پنهان است، شما توانمندی خواندن یا ایجاد پاسخ در آن را ندارید."
+
+#: includes/replies/functions.php:240 includes/replies/functions.php:581
+msgid "<strong>ERROR</strong>: This forum is private and you do not have the capability to read or create new replies in it."
+msgstr "<strong>خطا</strong> : این انجمن خصوصی است ، شما توانمندی خواندن یا ایجاد پاسخ در آن را ندارید."
+
+#: includes/replies/functions.php:234 includes/replies/functions.php:575
+msgid "<strong>ERROR</strong>: This forum has been closed to new replies."
+msgstr "<strong>خطا</strong>: این انجمن بسته شده است."
+
+#: includes/replies/functions.php:227 includes/replies/functions.php:568
+msgid "<strong>ERROR</strong>: This forum is a category. No replies can be created in this forum."
+msgstr "<strong>خطا</strong>: این انجمن یک «دسته بندی» می باشد. هیچ پاسخی در این انجمن نمی تواند ایجاد گردد."
+
+#: includes/replies/functions.php:213 includes/topics/functions.php:218
+msgid "<strong>ERROR</strong>: Forum does not exist."
+msgstr "<strong>خطا</strong>: انجمن وجود ندارد ."
+
+#: includes/replies/functions.php:209 includes/topics/functions.php:214
+msgid "<strong>ERROR</strong>: Forum ID cannot be a negative number."
+msgstr "<strong>خطا</strong>: شناسه انجمن نمی تواند منفی باشد ."
+
+#: includes/replies/functions.php:195 includes/topics/functions.php:200
+msgid "<strong>ERROR</strong>: Forum ID must be a number."
+msgstr "<strong>خطا</strong>: شناسه انجمن باید یک عدد باشد."
+
+#: includes/replies/functions.php:191 includes/replies/functions.php:205
+#: includes/topics/functions.php:196 includes/topics/functions.php:210
+#: includes/topics/functions.php:535
+msgid "<strong>ERROR</strong>: Forum ID is missing."
+msgstr "<strong>خطا</strong> : ID انجمن اشتباه است."
+
+#: includes/replies/functions.php:172
+msgid "<strong>ERROR</strong>: Topic does not exist."
+msgstr "<strong>خطا</strong>: جستار وجود ندارد ."
+
+#: includes/replies/functions.php:168
+msgid "<strong>ERROR</strong>: Topic ID cannot be a negative number."
+msgstr "<strong>خطا</strong>: شناسه جستار نمی تواند منفی باشد ."
+
+#: includes/replies/functions.php:158
+msgid "<strong>ERROR</strong>: Topic ID must be a number."
+msgstr "<strong>خطا</strong>: شناسه جستار باید یک عدد باشد."
+
+#: includes/replies/functions.php:154
+msgid "<strong>ERROR</strong>: Topic ID is missing."
+msgstr "<strong>خطا</strong> : ID جستار اشتباه است."
+
+#: includes/replies/functions.php:142
+msgid "<strong>ERROR</strong>: You do not have permission to reply."
+msgstr "<strong>خطا</strong> : شما اجازه پاسخ دادن ندارید."
+
+#: includes/forums/template.php:2021
+msgid "This forum is empty."
+msgstr "این انجمن خالی است."
+
+#: includes/forums/template.php:2017
+msgid "This forum contains %1$s."
+msgstr "این انجمن شامل %1$s است."
+
+#: includes/forums/template.php:2015
+msgid "This category contains %1$s."
+msgstr "این دسته بندی شامل %1$s است ."
+
+#: includes/forums/template.php:2007
+msgid "This forum contains %1$s and %2$s."
+msgstr "این انجمن شامل %1$s و  %2$s است."
+
+#: includes/forums/template.php:2005
+msgid "This category contains %1$s and %2$s."
+msgstr "این دسته بندی شامل %1$s و  %2$s است."
+
+#: includes/forums/template.php:1995
+msgid "This forum contains %1$s, and was last updated by %2$s %3$s."
+msgstr "این انجمن شامل  %1$s است، و آخرین بار توسط %2$s در %3$s بروز شده است."
+
+#: includes/forums/template.php:1993
+msgid "This category contains %1$s, and was last updated by %2$s %3$s."
+msgstr "این دسته بندی شامل %1$s است، و آخرین با توسط %2$s در %3$s بروز شده است."
+
+#: includes/forums/template.php:1987
+msgid "This forum contains %1$s and %2$s, and was last updated by %3$s %4$s."
+msgstr "این انجمن شامل %1$s و %2$s است ، و آخرین با توسط %3$s در %4$s بروز شده است."
+
+#: includes/forums/template.php:1985
+msgid "This category contains %1$s and %2$s, and was last updated by %3$s %4$s."
+msgstr "این دسته بندی شامل %1$s و %2$s است ، و آخرین بار توسط %3$s در %4$s بروز شده است."
+
+#: includes/forums/template.php:1965 includes/topics/template.php:2102
+msgid "%s reply"
+msgid_plural "%s replies"
+msgstr[0] "%s پاسخ"
+
+#: includes/forums/template.php:1254 includes/topics/template.php:2118
+msgid " (+ %d hidden)"
+msgstr "(+ %d پنهان)"
+
+#: includes/forums/template.php:1238 includes/forums/template.php:1976
+msgid "%s topic"
+msgid_plural "%s topics"
+msgstr[0] "%s جستار"
+
+#: includes/forums/template.php:841 includes/topics/template.php:1847
+#: includes/users/template.php:1059
+msgid "Unsubscribe"
+msgstr "قطع اشتراک"
+
+#: includes/forums/template.php:840 includes/topics/template.php:1846
+#: includes/users/template.php:1058
+msgid "Subscribe"
+msgstr "اشتراک"
+
+#: includes/forums/template.php:61 templates/default/bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr "انجمن مادر :"
+
+#: includes/forums/template.php:60
+msgid "No forums found in Trash"
+msgstr "انجمنی در زباله دان یافت نشد"
+
+#: includes/forums/template.php:59
+msgid "No forums found"
+msgstr "انجمنی یافت نشد"
+
+#: includes/forums/template.php:56 includes/forums/template.php:57
+msgid "View Forum"
+msgstr "نمایش انجمن"
+
+#: includes/forums/template.php:54
+msgid "Edit Forum"
+msgstr "ویرایش انجمن"
+
+#: includes/forums/template.php:52 templates/default/bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr "ایجاد انجمن تازه"
+
+#: includes/forums/template.php:51 includes/forums/template.php:55
+msgid "New Forum"
+msgstr "انجمن تازه"
+
+#: includes/forums/functions.php:1632
+msgctxt "Make forum hidden"
+msgid "Hidden"
+msgstr "پنهان"
+
+#: includes/forums/functions.php:1631
+msgctxt "Make forum private"
+msgid "Private"
+msgstr "خصوصی"
+
+#: includes/forums/functions.php:1630
+msgctxt "Make forum public"
+msgid "Public"
+msgstr "همگانی"
+
+#: includes/forums/functions.php:1617
+msgctxt "Forum is a category"
+msgid "Category"
+msgstr "دسته بندی"
+
+#: includes/forums/functions.php:1616
+msgctxt "Forum accepts new topics"
+msgid "Forum"
+msgstr "انجمن"
+
+#: includes/forums/functions.php:1603
+msgctxt "Close the forum"
+msgid "Closed"
+msgstr "بسته شده"
+
+#: includes/forums/functions.php:1602
+msgctxt "Open the forum"
+msgid "Open"
+msgstr "باز"
+
+#: includes/forums/functions.php:472
+msgid "<strong>ERROR</strong>: Your forum cannot be edited at this time."
+msgstr "<strong>خطا</strong>: انجمن شما در حال حاضر قابل ویرایش نیست."
+
+#: includes/forums/functions.php:405
+msgid "<strong>ERROR</strong>: You do not have permission to edit that forum."
+msgstr "<strong>خطا</strong> : شما اجازه ویرایش این انجمن را ندارید."
+
+#: includes/forums/functions.php:400
+msgid "<strong>ERROR</strong>: The forum you want to edit was not found."
+msgstr "<strong>خطا</strong>: انجمنی که خواستار ویرایش آن هستید یافت نشد."
+
+#: includes/forums/functions.php:384
+msgid "<strong>ERROR</strong>: Forum ID not found."
+msgstr "<strong>خطا</strong>: شناسه انجمن یافت نشد."
+
+#: includes/forums/functions.php:220
+msgid "<strong>ERROR</strong>: Your forum cannot be created at this time."
+msgstr "<strong>خطا</strong>: انجمن شما نمی تواند این زمان ساخته شود."
+
+#: includes/forums/functions.php:215
+msgid "<strong>ERROR</strong>: This forum already exists."
+msgstr "<strong>خطا</strong>: این انجمن هم اکنون موجود است."
+
+#: includes/forums/functions.php:210 includes/replies/functions.php:284
+#: includes/topics/functions.php:260
+msgid "<strong>ERROR</strong>: Slow down; you move too fast."
+msgstr "<strong>خطا</strong>: آهسته تر؛ شما خیلی سریع حرکت می کنید ."
+
+#: includes/forums/functions.php:203 includes/forums/functions.php:441
+msgid "<strong>ERROR</strong>: This forum is hidden and you do not have the capability to read or create new forums in it."
+msgstr "<strong>خطا</strong>: این انجمن پنهان است و شما توانمندی خواندن یا ساخت انجمن های جدید در آن را ندارید."
+
+#: includes/forums/functions.php:198 includes/forums/functions.php:436
+msgid "<strong>ERROR</strong>: This forum is private and you do not have the capability to read or create new forums in it."
+msgstr "<strong>خطا</strong>: این انجمن خصوصی است  و شما توانمندی خواندن یا ساخت یک انجمن جدید در آن را ندارید."
+
+#: includes/forums/functions.php:193 includes/forums/functions.php:431
+msgid "<strong>ERROR</strong>: This forum has been closed to new forums."
+msgstr "<strong>خطا</strong>: این انجمن برای بازگشایی انجمن های جدید بسته شده است."
+
+#: includes/forums/functions.php:188
+msgid "<strong>ERROR</strong>: This forum is a category. No forums can be created in this forum."
+msgstr "<strong>خطا</strong>: این انجمن از نوع دسته بندی است.هیچ  انجمنی نمی تواند در این انجمن ایجاد شود."
+
+#: includes/forums/functions.php:181
+msgid "<strong>ERROR</strong>: Your forum must have a parent."
+msgstr "<strong>خطا</strong>: انجمن شما باید یک مادر داشته باشد."
+
+#: includes/forums/functions.php:167 includes/forums/functions.php:467
+msgid "<strong>ERROR</strong>: Your forum description cannot be empty."
+msgstr "<strong>خطا</strong>: توضیحات انجمن شما نمی تواند خالی باشد."
+
+#: includes/forums/functions.php:155 includes/forums/functions.php:455
+msgid "<strong>ERROR</strong>: Your forum needs a title."
+msgstr "<strong>خطا</strong>: انجمن شما نیاز به یک عنوان دارد."
+
+#: includes/forums/functions.php:131
+msgid "<strong>ERROR</strong>: You do not have permission to create new forums."
+msgstr "<strong>خطا</strong>: شما اجازه ساخت انجمن های تازه را ندارید."
+
+#: includes/extend/buddypress/notifications.php:165
+msgid "<strong>ERROR</strong>: You do not have permission to mark notifications for that user."
+msgstr "<strong>خطا</strong>: شما مجوز لازم برای گزارش کردن کاربر مورد نظر را ندارید."
+
+#: includes/extend/buddypress/notifications.php:57
+msgid "You have %d new reply to %s"
+msgstr "شما %d پاسخ جدید برای %s دارید"
+
+#: includes/extend/buddypress/notifications.php:55
+msgid "You have %d new reply to %2$s from %3$s"
+msgstr "شما دارای %d پاسخ تازه به %2$s از %3$s می باشید."
+
+#: includes/extend/buddypress/notifications.php:51
+msgid "You have %d new replies"
+msgstr "شما %d پاسخ تازه دارید"
+
+#: includes/extend/buddypress/notifications.php:48
+msgid "Topic Replies"
+msgstr "پاسخ های جستار"
+
+#: includes/extend/buddypress/loader.php:293
+#: templates/default/bbpress/user-subscriptions.php:34
+msgid "Subscribed Topics"
+msgstr "جستار های مشترک شده"
+
+#: includes/extend/buddypress/loader.php:105
+msgid "Search Forums..."
+msgstr "جستجوی انجمن ها ..."
+
+#: includes/extend/buddypress/groups.php:775
+msgid "This group does not currently have a forum."
+msgstr "این گروه در حال حاضر انجمن ندارد."
+
+#: includes/extend/buddypress/groups.php:478
+msgid "Group Forum"
+msgstr "انجمن گروهی"
+
+#: includes/extend/buddypress/groups.php:437
+msgctxt "group admin edit screen"
+msgid "Discussion Forum"
+msgstr "انجمن بحث و گفتگو"
+
+#: includes/extend/buddypress/groups.php:339
+#: includes/extend/buddypress/groups.php:498
+#: includes/extend/buddypress/notifications.php:161
+#: includes/forums/functions.php:118 includes/forums/functions.php:395
+#: includes/replies/functions.php:116 includes/replies/functions.php:516
+#: includes/replies/functions.php:1246 includes/topics/functions.php:122
+#: includes/topics/functions.php:520 includes/topics/functions.php:1153
+#: includes/topics/functions.php:1456 includes/topics/functions.php:1820
+#: includes/topics/functions.php:1859 includes/topics/functions.php:1916
+#: includes/users/functions.php:459 includes/users/functions.php:1174
+#: includes/users/functions.php:1280 includes/users/functions.php:1407
+#: includes/users/functions.php:1413
+msgid "<strong>ERROR</strong>: Are you sure you wanted to do that?"
+msgstr "<strong>خطا</strong>: آیا از انجام این کار مطمئن هستید ؟"
+
+#: includes/extend/buddypress/groups.php:304
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: includes/extend/buddypress/groups.php:299
+msgid "Network administrators can reconfigure which forum belongs to this group."
+msgstr "مدیران شبکه می توانند دوباره پیکربندی کنند که چه انجمنی به این گروه تعلق دارد."
+
+#: includes/extend/buddypress/groups.php:291
+msgid "Group Forum:"
+msgstr "انجمن گروهی :"
+
+#: includes/extend/buddypress/groups.php:286
+msgid "Saying no will not delete existing forum content."
+msgstr "جواب منفی محتویات انجمن موجود را پاک نخواهد کرد."
+
+#: includes/extend/buddypress/groups.php:283
+#: includes/extend/buddypress/groups.php:483
+msgid "Yes. I want this group to have a forum."
+msgstr "بله ، من می خواهم که این گروه دارای یک انجمن باشد."
+
+#: includes/extend/buddypress/groups.php:279
+#: includes/extend/buddypress/groups.php:480
+msgid "Create a discussion forum to allow members of this group to communicate in a structured, bulletin-board style fashion."
+msgstr "ساخت یک انجمن بحث و گفتگو که به اعضا این انجمن اجازه ارتباط در یک طرح ساختاربندی شده تازه را می دهد."
+
+#: includes/extend/buddypress/groups.php:275
+#: includes/extend/buddypress/groups.php:278
+msgid "Group Forum Settings"
+msgstr "تنظیمات انجمن گروهی"
+
+#: includes/extend/buddypress/activity.php:565
+msgid "%1$s replied to the topic %2$s in the forum %3$s"
+msgstr "%1$s پاسخی برای جستار %2$s در انجمن %3$s ارسال کرد"
+
+#: includes/extend/buddypress/activity.php:420
+msgid "%1$s started the topic %2$s in the forum %3$s"
+msgstr "%1$s جستار %2$s را در انجمن %3$s آغاز کرد"
+
+#: includes/extend/buddypress/activity.php:196
+msgid "New forum reply"
+msgstr "پاسخ تازه انجمن"
+
+#: includes/extend/buddypress/activity.php:195
+msgid "New forum topic"
+msgstr "جستار تازه انجمن"
+
+#: includes/extend/akismet.php:793
+msgid "No recorded history. Akismet has not checked this post."
+msgstr "رکورد تازه ای در تاریخچه وجود ندارد، اکیسمت این نوشته را بررسی نکرده است."
+
+#: includes/extend/akismet.php:735 includes/extend/akismet.php:745
+msgid "Akismet History"
+msgstr "تاریخچه اکیسمت"
+
+#: includes/extend/akismet.php:489
+msgid "Akismet was unable to check this post (response: %s), will automatically retry again later."
+msgstr "اکیسمت قادر به بازرسی این نوشته ( پاسخ : %s) نیست، دوباره به صورت خودکار در آینده انجام خواهد شد."
+
+#: includes/extend/akismet.php:475
+msgid "Akismet cleared this post as not spam"
+msgstr "اکیسمت این نوشته را به عنوان هرزنامه پاک کرده است"
+
+#: includes/extend/akismet.php:467 includes/extend/akismet.php:482
+msgid "Post status was changed to %s"
+msgstr "وضعیت نوشته به %s تغییر کرد"
+
+#: includes/extend/akismet.php:463
+msgid "Akismet caught this post as spam"
+msgstr "اکیسمت این نوشته را به عنوان هرزنامه گرفت."
+
+#: includes/extend/akismet.php:405
+msgid "No response"
+msgstr "بدون پاسخ"
+
+#: includes/extend/akismet.php:316
+msgid "%1$s reported this %2$s as not spam"
+msgstr "%1$s گزارش مبنی بر هرزنامه نبودن %2$s ارسال کرد."
+
+#: includes/extend/akismet.php:309
+msgid "%1$s reported this %2$s as spam"
+msgstr "%1$s گزارشی مبنی بر هرزنامه بدون %2$s ارسال کرد."
+
+#: includes/core/update.php:191
+msgid "Oh, and this is what a reply looks like."
+msgstr "بله، و اینکه به نظر می رسد این یک پاسخ باشد."
+
+#: includes/core/update.php:190
+msgid "Re: Hello World!"
+msgstr "پاسخ: درود بر جهان!"
+
+#: includes/core/update.php:189
+msgid "I am the first topic in your new forums."
+msgstr "من نخستین جستار در انجمن های شما هستم."
+
+#: includes/core/update.php:188
+msgid "Hello World!"
+msgstr "درود بر جهان!"
+
+#: includes/core/update.php:187
+msgid "General chit-chat"
+msgstr "گپ اصلی"
+
+#: includes/core/update.php:186
+msgid "General"
+msgstr "اصلی"
+
+#: includes/core/capabilities.php:531
+msgid "Editable forum roles no longer exist."
+msgstr "نقش های کاربری قابل ویرایش دیگر وجود ندارند."
+
+#: includes/common/widgets.php:1252
+msgid "Recent Replies"
+msgstr "آخرین پاسخ ها"
+
+#: includes/common/widgets.php:1237
+msgid "Show reply author:"
+msgstr "نمایش نویسنده پاسخ :"
+
+#: includes/common/widgets.php:1235
+msgid "Maximum replies to show:"
+msgstr "حداکثر تعداد پاسخ ها برای نمایش :"
+
+#. translators: 1: reply link
+#: includes/common/widgets.php:1184
+msgctxt "widgets"
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: 1: reply author, 2: reply link
+#: includes/common/widgets.php:1178
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s در %2$s"
+
+#. translators: 1: reply link, 2: reply timestamp
+#: includes/common/widgets.php:1172
+msgctxt "widgets"
+msgid "%1$s %2$s"
+msgstr "%1$s  %2$s"
+
+#. translators: 1: reply author, 2: reply link, 3: reply timestamp
+#: includes/common/widgets.php:1166
+msgctxt "widgets"
+msgid "%1$s on %2$s %3$s"
+msgstr "%1$s در %2$s %3$s"
+
+#: includes/common/widgets.php:1081
+msgid "(bbPress) Recent Replies"
+msgstr "واپسین پاسخ ها (بی بی پرس)"
+
+#: includes/common/widgets.php:1078
+msgid "A list of the most recent replies."
+msgstr "یک لیست از آخرین پاسخ ها"
+
+#: includes/common/widgets.php:1048
+msgid "Forum Statistics"
+msgstr "آمار انجمن"
+
+#: includes/common/widgets.php:951
+msgid "(bbPress) Statistics"
+msgstr "آمار (بی بی پرس )"
+
+#: includes/common/widgets.php:948
+msgid "Some statistics from your forum."
+msgstr "تعدادی آمار از انجمن شما"
+
+#: includes/common/widgets.php:914
+msgid "Recent Topics"
+msgstr "آخرین جستار ها"
+
+#: includes/common/widgets.php:897
+msgid "Topics With Recent Replies"
+msgstr "جستار هایی که اخیرا پاسخ داده شده اند."
+
+#: includes/common/widgets.php:896
+#: templates/default/extras/page-forum-statistics.php:34
+msgid "Popular Topics"
+msgstr "محبوبترین جستار ها"
+
+#: includes/common/widgets.php:895
+msgid "Newest Topics"
+msgstr "جدیدترین جستار ها"
+
+#: includes/common/widgets.php:893
+msgid "Order By:"
+msgstr "چیدمان براساس:"
+
+#: includes/common/widgets.php:890
+msgid "Show topic author:"
+msgstr "نمایش نویسنده جستار:"
+
+#: includes/common/widgets.php:889 includes/common/widgets.php:1236
+msgid "Show post date:"
+msgstr "نمایش تاریخ ارسال :"
+
+#: includes/common/widgets.php:877
+msgid "Maximum topics to show:"
+msgstr "حداکثر تعداد جستار ها برای نمایش :"
+
+#: includes/common/widgets.php:815
+msgctxt "widgets"
+msgid "by %1$s"
+msgstr "بدست %1$s"
+
+#: includes/common/widgets.php:695
+msgid "(bbPress) Recent Topics"
+msgstr "واپسین جستار ها (بی بی پرس )"
+
+#: includes/common/widgets.php:692
+msgid "A list of recent topics, sorted by popularity or freshness."
+msgstr "یک لیست از واپسین جستار ها، مرتب شده بر اساس محبوبیت یا زمان بروز شدن"
+
+#: includes/common/widgets.php:646 includes/common/widgets.php:886
+msgid "\"0\" to show only root - \"any\" to show all"
+msgstr "فقط \"0\" ریشه نمایش داده می شود - \"any\" همه موارد نمایش داده می شوند"
+
+#: includes/common/widgets.php:640 includes/common/widgets.php:880
+msgid "Parent Forum ID:"
+msgstr "شناسه انجمن مادر"
+
+#: includes/common/widgets.php:515
+msgid "(bbPress) Forums List"
+msgstr "لیست انجمن ها (بی بی پرس)"
+
+#: includes/common/widgets.php:512
+msgid "A list of forums with an option to set the parent."
+msgstr "یک لیست از انجمن ها به همراه گزینه ای جهت تنظیم مادر انجمن"
+
+#: includes/common/widgets.php:483 includes/forums/template.php:58
+msgid "Search Forums"
+msgstr "جستجوی انجمن ها"
+
+#: includes/common/widgets.php:387
+msgid "(bbPress) Forum Search Form"
+msgstr "فرم جستجوی انجمن (بی بی پرس)"
+
+#: includes/common/widgets.php:384
+msgid "The bbPress forum search form."
+msgstr "فرم جستجوی انجمن بی بی پرس"
+
+#: includes/common/widgets.php:246
+msgid "(bbPress) Topic Views List"
+msgstr "لیست نمایش ها جستار (بی بی پرس)"
+
+#: includes/common/widgets.php:243
+msgid "A list of registered optional topic views."
+msgstr "یک لیست اختیاری برای نمایش جستار های کاربران عضو"
+
+#: includes/common/widgets.php:195
+msgid "Lost Password URI:"
+msgstr "آدرس فراموشی گذرواژه"
+
+#: includes/common/widgets.php:190
+msgid "Register URI:"
+msgstr "آدرس نام نویسی"
+
+#: includes/common/widgets.php:185 includes/common/widgets.php:337
+#: includes/common/widgets.php:465 includes/common/widgets.php:634
+#: includes/common/widgets.php:876 includes/common/widgets.php:1030
+#: includes/common/widgets.php:1234
+msgid "Title:"
+msgstr "عنوان:"
+
+#: includes/common/widgets.php:128
+#: templates/default/bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr "فراموشی گذرواژه"
+
+#: includes/common/widgets.php:122
+#: templates/default/bbpress/form-user-register.php:36
+msgid "Register"
+msgstr "نام نویسی"
+
+#: includes/common/widgets.php:103
+msgid "Remember Me"
+msgstr "مرا به یاد داشته باش"
+
+#: includes/common/widgets.php:97
+#: templates/default/bbpress/form-user-login.php:22
+msgid "Password"
+msgstr "گذرواژه"
+
+#: includes/common/widgets.php:92
+#: templates/default/bbpress/form-user-edit.php:98
+#: templates/default/bbpress/form-user-login.php:17
+#: templates/default/bbpress/form-user-register.php:23
+msgid "Username"
+msgstr "نام کاربری"
+
+#: includes/common/widgets.php:89 includes/common/widgets.php:110
+#: templates/default/bbpress/form-user-login.php:14
+#: templates/default/bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr "ورود"
+
+#: includes/common/widgets.php:42
+msgid "(bbPress) Login Widget"
+msgstr "ابزارک ورود (بی بی پرس)"
+
+#: includes/common/widgets.php:39
+msgid "A simple login form with optional links to sign-up and lost password pages."
+msgstr "یک فرم ساده ورود به همراه لینک های اختیاری به صفحات عضویت و گم شدن رمز"
+
+#: includes/common/template.php:2646
+msgid "View: %s"
+msgstr "نمایش : %s"
+
+#: includes/common/template.php:2638
+#: templates/default/bbpress/user-details.php:65
+msgid "Edit %s's Profile"
+msgstr "پروفایل %s را ویرایش کنید"
+
+#: includes/common/template.php:2633
+msgid "Edit Your Profile"
+msgstr "پروفایل خود را ویرایش کنید"
+
+#: includes/common/template.php:2625
+msgid "%s Profile"
+msgstr "پروفایل %s"
+
+#: includes/common/template.php:2621
+msgid "%s Subscriptions"
+msgstr "اشتراک ها %s"
+
+#: includes/common/template.php:2617
+msgid "%s Favorites"
+msgstr "%s مورد پسندها"
+
+#: includes/common/template.php:2613
+msgid "%s Replies"
+msgstr "%s پاسخها"
+
+#: includes/common/template.php:2609
+msgid "%s Topics"
+msgstr "%s جستارها"
+
+#: includes/common/template.php:2604
+msgctxt "User viewing another users profile"
+msgid "%s's"
+msgstr "%s'ها"
+
+#: includes/common/template.php:2600
+msgctxt "User viewing his/her own profile"
+msgid "Your"
+msgstr "برای شما"
+
+#: includes/common/template.php:2582
+msgid "Topic: %s"
+msgstr "جستار: %s"
+
+#: includes/common/template.php:2577
+msgid "Forum: %s"
+msgstr "انجمن : %s"
+
+#: includes/common/template.php:2570
+msgid "Topic Tag Edit: %s"
+msgstr "ویرایش برچسب جستار: %s"
+
+#: includes/common/template.php:2565
+msgid "Reply Edit: %s"
+msgstr "ویرایش پاسخ : %s"
+
+#: includes/common/template.php:2560
+msgid "Topic Edit: %s"
+msgstr "ویرایش جستار: %s"
+
+#: includes/common/template.php:2555
+msgid "Forum Edit: %s"
+msgstr "ویرایش انجمن: %s"
+
+#: includes/common/template.php:2501
+msgid "Log Out"
+msgstr "خروج"
+
+#: includes/common/template.php:2233
+msgid "&rsaquo;"
+msgstr "&lsaquo;"
+
+#: includes/common/template.php:2233
+msgid "&lsaquo;"
+msgstr "&rsaquo;"
+
+#: includes/common/template.php:2216 includes/forums/template.php:53
+#: includes/replies/template.php:53 includes/replies/template.php:1910
+#: includes/topics/template.php:53 includes/topics/template.php:2491
+#: templates/default/bbpress/user-details.php:65
+msgid "Edit"
+msgstr "ویرایش"
+
+#: includes/common/template.php:2212 includes/common/template.php:2326
+#: includes/common/template.php:2591 includes/core/theme-compat.php:739
+#: templates/default/extras/taxonomy-topic-tag-edit.php:17
+#: templates/default/extras/taxonomy-topic-tag.php:17
+msgid "Topic Tag: %s"
+msgstr "برچسب جستار:  %s"
+
+#: includes/common/template.php:2208
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#: includes/common/template.php:2138
+msgid "Home"
+msgstr "خانه"
+
+#: includes/common/template.php:1467
+msgid "None available"
+msgstr "هیچ موردی در دسترس نیست"
+
+#: includes/common/template.php:1462
+msgid "No forums available"
+msgstr "انجمنی در دسترس نیست"
+
+#: includes/common/template.php:1457
+msgid "No topics available"
+msgstr "جستاری در دسترس نیست"
+
+#: includes/common/functions.php:2024
+msgid "Conditional query tags do not work before the query is run. Before then, they always return false."
+msgstr "تگ های درخواست شرطی قبل از اجرای درخواست کار نمی کنند. قبل از این ، آن ها معمولا مقدار نادرست را باز می گردانند"
+
+#: includes/common/functions.php:1256
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Topic Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+"%1$s نوشت:\n"
+"\n"
+"%2$s\n"
+"\n"
+"لینک مطلب: %3$s\n"
+"\n"
+"-----------\n"
+"چون مشترک یکی از انجمن های ما هستید، این پیام برای شما فرستاده شده است.\n"
+"\n"
+"اگر دوست ندارید دیگر این اینگونه پیام ها را دریافت کنید، روی لینک کلیک کرده و هموندی (عضویت) خود را بردارید."
+
+#: includes/common/functions.php:1099
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Post Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum topic.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+"%1$s نوشت ::\n"
+"\n"
+"%2$s\n"
+"\\لینک نوشته :  %3$s \n"
+"\n"
+"-----------\n"
+"\n"
+" شما به دلیل این که مشترک این انجمن هستید، این پیام برای شما فرستاده شده است.\n"
+"\n"
+" به منظور قطع اشتراک از این پیام ها وارد سایت شده و جستار را بازدید نمایید."
+
+#: includes/common/functions.php:628
+msgid "<strong>ERROR</strong>: Invalid email address submitted!"
+msgstr "<strong>خطا</strong> : آدرس رایانامه اشتباه ارسال شد!"
+
+#: includes/common/functions.php:624
+msgid "<strong>ERROR</strong>: Invalid author name submitted!"
+msgstr "<strong>خطا</strong> : نام اشتباه برای نویسنده ارسال شد!"
+
+#: includes/common/functions.php:514 includes/common/functions.php:546
+msgid "Trashed: %s"
+msgstr "زباله دان:  %s"
+
+#: includes/common/functions.php:513 includes/common/functions.php:545
+msgid "Spammed: %s"
+msgstr "هرزنامه : %s"
+
+#: includes/common/functions.php:512 includes/common/functions.php:544
+msgid "Private: %s"
+msgstr "خصوصی : %s"
+
+#: includes/common/functions.php:179
+msgctxt "Separator in time since"
+msgid ","
+msgstr "،"
+
+#: includes/common/functions.php:124
+msgid "second"
+msgstr "ثانیه"
+
+#: includes/common/functions.php:123
+msgid "minute"
+msgstr "دقیقه"
+
+#: includes/common/functions.php:122
+msgid "hours"
+msgstr "ساعت"
+
+#: includes/common/functions.php:122
+msgid "hour"
+msgstr "ساعت"
+
+#: includes/common/functions.php:121
+msgid "days"
+msgstr "روز"
+
+#: includes/common/functions.php:121
+msgid "day"
+msgstr "روز"
+
+#: includes/common/functions.php:120
+msgid "weeks"
+msgstr "هفته"
+
+#: includes/common/functions.php:120
+msgid "week"
+msgstr "هفته"
+
+#: includes/common/functions.php:119
+msgid "months"
+msgstr "ماه"
+
+#: includes/common/functions.php:119
+msgid "month"
+msgstr "ماه"
+
+#: includes/common/functions.php:118
+msgid "years"
+msgstr "سال"
+
+#: includes/common/functions.php:118
+msgid "year"
+msgstr "سال"
+
+#: includes/common/functions.php:114
+msgid "%s ago"
+msgstr "%s پیش"
+
+#: includes/common/functions.php:113
+msgid "right now"
+msgstr "هم اکنون"
+
+#: includes/common/functions.php:112
+msgid "sometime"
+msgstr "بعضی اوقات"
+
+#: includes/admin/users.php:217
+msgid "Site Role"
+msgstr "نقش کاربری تارنما"
+
+#: includes/admin/users.php:144
+msgid "Change"
+msgstr "تغییر"
+
+#: includes/admin/users.php:138 includes/admin/users.php:140
+msgid "Change forum role to&hellip;"
+msgstr "تغییر نقش کاربری انجمن به&hellip;"
+
+#: includes/admin/users.php:96 includes/admin/users.php:100
+#: includes/users/template.php:1290
+msgid "&mdash; No role for these forums &mdash;"
+msgstr "&mdash; هیچ نقش کاربری برای انجمن نیست &mdash;"
+
+#: includes/admin/users.php:87 includes/admin/users.php:218
+#: templates/default/bbpress/form-user-roles.php:20
+msgid "Forum Role"
+msgstr "نقش کاربری انجمن"
+
+#: includes/admin/topics.php:953
+msgid "Topic draft updated. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr "جستار پیش نویس بروز رسانی شد. <a target=\"_blank\" href=\"%s\">پیش نمایش جستار</a>"
+
+#: includes/admin/topics.php:946
+msgid "Topic scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview topic</a>"
+msgstr "جستار برای : <strong>%1$s</strong> زمان بندی شد. <a target=\"_blank\" href=\"%2$s\">پیش نمایش جستار</a>"
+
+#: includes/admin/topics.php:943
+msgid "Topic submitted. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr "جستار فرستاده شد. <a target=\"_blank\" href=\"%s\">پیش نمایش جستار</a>"
+
+#: includes/admin/topics.php:940
+msgid "Topic saved."
+msgstr "جستار ذخیره شد."
+
+#: includes/admin/topics.php:937
+msgid "Topic created. <a href=\"%s\">View topic</a>"
+msgstr "جستار ساخته شد. <a href=\"%s\">نمایش جستار</a>"
+
+#. translators: %s: date and time of the revision
+#: includes/admin/topics.php:933
+msgid "Topic restored to revision from %s"
+msgstr "جستار به نسخه پیش نویس %s بازگردانی شد."
+
+#: includes/admin/topics.php:928
+msgid "Topic updated."
+msgstr "جستار به روز شد."
+
+#: includes/admin/topics.php:919
+msgid "Topic updated. <a href=\"%s\">View topic</a>"
+msgstr "جستار بروز رسانی شد. <a href=\"%s\">نمایش جستار</a>"
+
+#: includes/admin/topics.php:809
+msgid "Mark this topic as spam"
+msgstr "نشانه گذاری این جستار به عنوان هرزنامه"
+
+#: includes/admin/topics.php:807
+msgid "Mark the topic as not spam"
+msgstr "نشانه گذاری جستار به عنوان غیر هرزنامه"
+
+#: includes/admin/topics.php:800 includes/topics/template.php:2747
+msgid "(to front)"
+msgstr "(نمایش همگانی)"
+
+#: includes/admin/topics.php:800
+msgid "Stick this topic to front"
+msgstr "سنجاق کردن این جستار در صفحه اصلی"
+
+#: includes/admin/topics.php:800 includes/topics/template.php:2745
+msgid "Stick"
+msgstr "سنجاق"
+
+#: includes/admin/topics.php:800
+msgid "Stick this topic to its forum"
+msgstr "سنجاق کردن این جستار در انجمن خود"
+
+#: includes/admin/topics.php:797 includes/topics/template.php:2746
+msgid "Unstick"
+msgstr "عدم چسبندگی"
+
+#: includes/admin/topics.php:797
+msgid "Unstick this topic"
+msgstr "آزاد کردن جستار"
+
+#: includes/admin/topics.php:788
+msgctxt "Open a Topic"
+msgid "Open"
+msgstr "باز کردن"
+
+#: includes/admin/topics.php:788
+msgid "Open this topic"
+msgstr "باز کردن این جستار"
+
+#: includes/admin/topics.php:786
+msgctxt "Close a Topic"
+msgid "Close"
+msgstr "بستن"
+
+#: includes/admin/topics.php:786
+msgid "Close this topic"
+msgstr "بستن این جستار"
+
+#: includes/admin/topics.php:729 includes/topics/template.php:2064
+msgid "No Replies"
+msgstr "بدون پاسخ"
+
+#: includes/admin/topics.php:694 includes/extend/buddypress/groups.php:295
+#: templates/default/bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr "(بدون انجمن)"
+
+#: includes/admin/topics.php:635 templates/default/bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr "کاربران"
+
+#: includes/admin/topics.php:599
+msgid "Topic \"%1$s\" successfully unmarked as spam."
+msgstr "جستار \"%1$s\"  با موفقیت از حالت هرزنامه خارج شد."
+
+#: includes/admin/topics.php:599
+msgid "There was a problem unmarking the topic \"%1$s\" as spam."
+msgstr "اشکالی در تبدیل جستار \"%1$s\" به غیر هرزنامه وجود داشت."
+
+#: includes/admin/topics.php:595
+msgid "Topic \"%1$s\" successfully marked as spam."
+msgstr "جستار \"%1$s\" با موفقیت به عنوان هرزنامه نشانه گذاری شد."
+
+#: includes/admin/topics.php:595
+msgid "There was a problem marking the topic \"%1$s\" as spam."
+msgstr "اشکالی در نشانه گذاری جستار \"%1$s\" به عنوان هرزنامه وجود داشت."
+
+#: includes/admin/topics.php:591
+msgid "Topic \"%1$s\" successfully unsticked."
+msgstr "جستار \"%1$s\" آزاد شد."
+
+#: includes/admin/topics.php:591
+msgid "There was a problem unsticking the topic \"%1$s\"."
+msgstr "برای آزاد کردن \"%1$s\" از سنجاق، مشکلی وجود دارد."
+
+#: includes/admin/topics.php:587
+msgid "Topic \"%1$s\" successfully sticked."
+msgstr "جستار \"%1$s\"  سنجاق شد."
+
+#: includes/admin/topics.php:587
+msgid "There was a problem sticking the topic \"%1$s\"."
+msgstr "اشکالی در سنجاق کردن جستار \"%1$s\" وجود دارد."
+
+#: includes/admin/topics.php:583
+msgid "Topic \"%1$s\" successfully sticked to front."
+msgstr "جستار \"%1$s\" به صفحه اصلی سنجاق شد."
+
+#: includes/admin/topics.php:583
+msgid "There was a problem sticking the topic \"%1$s\" to front."
+msgstr "اشکالی در چسباندن جستار \"%1$s\" به صفحه اصلی وجود دارد."
+
+#: includes/admin/topics.php:579
+msgid "Topic \"%1$s\" successfully closed."
+msgstr "جستار\"%1$s\" بسته شد."
+
+#: includes/admin/topics.php:579
+msgid "There was a problem closing the topic \"%1$s\"."
+msgstr "اشکالی در بستن جستار \"%1$s\" وجود دارد."
+
+#: includes/admin/topics.php:575
+msgid "Topic \"%1$s\" successfully opened."
+msgstr "جستار \"%1$s\" باز شد."
+
+#: includes/admin/topics.php:575
+msgid "There was a problem opening the topic \"%1$s\"."
+msgstr "اشکالی در بازکردن جستار \"%1$s\" وجود دارد."
+
+#: includes/admin/topics.php:485
+msgid "The topic was not found!"
+msgstr "جستار یافت نشد."
+
+#: includes/admin/topics.php:223
+msgid "<strong>Topic Type</strong> dropdown indicates the sticky status of the topic. Selecting the super sticky option would stick the topic to the front of your forums, i.e. the topic index, sticky option would stick the topic to its respective forum. Selecting normal would not stick the topic anywhere."
+msgstr "<strong>نوع جستار</strong> منوی بازشو وضعیت چسبندگی جستار را مشخص می کند. انتخاب گزینه چسبندگی فوق العاده ، جستار را به صفحه اصلی انجمن های شما می چسباند، همچنین در صدر صفحه اصلی جستار ها. گزینه چسبندگی ، جستار را به صدر انجمن مورد نظر می چسباند. انتخاب گزینه عادی ، جستار را به هیچ صفحه ای نمی چسباند."
+
+#: includes/admin/topics.php:222
+msgid "<strong>Forum</strong> dropdown determines the parent forum that the topic belongs to. Select the forum or category from the dropdown, or leave the default (No Forum) to post the topic without an assigned forum."
+msgstr "<strong>انجمن</strong> منوی بازشو انجمن مادری که جستار متعلق به آن است را محاسبه خواهد کرد. دسته بندی یا انجمنی را از منوی بازشو انتخاب کنید، یا در حالت پیش فرض (بدون انجمن) رها کنید تا جستار بدون اختصاص به انجمن خاصی ارسال شود."
+
+#: includes/admin/topics.php:220
+msgid "Select the attributes that your topic should have:"
+msgstr "صفاتی که جستار شما باید داشته باشد انتخاب کنید :"
+
+#: includes/admin/topics.php:218 includes/admin/topics.php:255
+msgid "Topic Attributes"
+msgstr "صفات جستار"
+
+#: includes/admin/topics.php:213
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your topic without inserting it. This is usually useful only if your theme makes use of the featured image as a topic thumbnail on the home page, a custom header, etc."
+msgstr "<strong>تصویر شاخص</strong> - این به شما اجازه می دهد تصویری را به جستار اختصاص دهید بدون قرار دادن این تصویر در متن جستار . معمولا زمانی مفید است که پوسته شما از تصاویر شاخص برای نمایش تصویر بند انگشتی جستار در صفحه اصلی یا یک سرتیتر دلخواه استفاده کند."
+
+#: includes/admin/topics.php:210
+msgid "<strong>Publish</strong> - You can set the terms of publishing your topic in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a topic or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a topic to be published in the future or backdate a topic."
+msgstr "<strong>انتشار</strong> - شما می توانید قوانین انتشار جستار را در جعبه انتشار تنظیم نمایید. برای وضعیت ، نمایانی، و انتشار (فوری)، برای دستیابی به گزینه های بیشتر روی لینک ویرایش کلیک نمایید. نمایانی شامل گزینه هایی برای محافظت یک جستار با گذرواژه و سنجاق کردن جستار مورد نظر در وبلاگ شما است. انتشار (فوری) به شما اجازه می دهد زمانی را در آینده یا گذشته تنظیم نمایید ، بنابراین شما می توانید برای انتشار جستار در آینده یا گذشته زمانبندی کنید."
+
+#: includes/admin/topics.php:207
+msgid "<strong>Topic Editor</strong> - Enter the text for your topic. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your topic text. You can insert media files by clicking the icons above the topic editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular topic editor."
+msgstr "<strong>ویرایشگر جستار</strong> - متن جستار را وارد نمایید. دو حالت برای ویرایش وجود دارد : دیداری و متن. حالت مورد نظر را با کلیک بر روی تب مورد نظر انتخاب نمایید. حالت دیداری ویرایشگر WYSIWYG را در اختیار شما قرار خواهد داد. روی آخرین آیکون در سطر آیکون ها کلیک کنید تا سطر دوم کنترل ها نمایش داده شود.  حالت متن ، به شما اجازه می دهد کدهای HTML را همراه با متن جستار وارد نمایید. شما می توانید پرونده های چند رسانه ای را با کلیک بر روی آیکون مورد نظر در بالای ویرایشگر جستار به صورت مستقیم  در جستار قرار دهید. شما می توانید با کلیک بر روی آیکون نمایش تمام صفحه در حالت دیدرای یا متن  به ویرایشگر در نمایش تمام صفحه بروید. آنجا ، با نشانه روی موس در بخش فوقانی دکمه ها نمایان خواهند شد. از حالت نمایش تمام صفحه به صفحه ویرایش عادی بازگردید."
+
+#: includes/admin/topics.php:206
+msgid "<strong>Title</strong> - Enter a title for your topic. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>عنوان</strong> - عنوان جستار را وارد نمایید.بعد از وارد کردن عنوان، پیوند یکتای موضوع در زیر عنوان قابل مشاهده است ، که می توانید ویرایش نمایید."
+
+#: includes/admin/topics.php:204
+msgid "Title and Topic Editor"
+msgstr "ویرایشگر عنوان و جستار "
+
+#: includes/admin/topics.php:194
+msgid "The title field and the big topic editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "این فیلد عنوان و بخش ویرایش متن ثابت هستند ، اما شما می توانید بقیه بخش ها را با استفاده از موس جابه جا نموده و یا با کلیک بر روی عنوان بخش کوچک یا بزرگ نمایید . از تب تنظیمات صفحه برای نمایش بخش های بیشتر (خلاصه، ارسال بازتاب، بخش های سفارشی، گفتگو ، نامک ، نویسنده ) استفاده نموده یا چیدمان یک یا دو ستون ر برای صفحه انتخاب کنید."
+
+#: includes/admin/topics.php:173
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected topics at once. To remove a topic from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "زمانی که از ویرایش دسته جمعی استفاده می نمایید، شما می توانید اطلاعات متا ( دسته بندی ها، نویسنده و . . . ) را برای تمام جستار ها به صورت همزمان تغییر دهید . برای خارج کردن جستار از گروه تنها روی  x کنار جستار در صفحه ویرایش دسته جمعی کلیک نمایید ."
+
+#: includes/admin/topics.php:172
+msgid "You can also edit or move multiple topics to the trash at once. Select the topics you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "شما همچنین می توانید چند جستار را همزمان ویرایش کرده یا حذف نمایید. جستار هایی را که می خواهید با کلیک روی چک باکس ها انتخاب کنید، سپس عملیات مورد نظر را از منوی بازشو کارهای دسته جمعی انتخاب نموده رو دکمه اجرا کلیک نمایید."
+
+#: includes/admin/topics.php:163
+msgid "<strong>Stick <em>(to front)</em></strong> will keep the selected topic &#8217;pinned&#8217; to the top of ALL forums and be visable in any forums topics list."
+msgstr "<strong>سنجاق کردن<em>(به صفحه اصلی)</em></strong> جستار مورد نظر را در بالاترین ردیف همه انجمن ها نمایش داده و در تمام لیست های جستار های انجمن ها نمایان خواهد کرد."
+
+#: includes/admin/topics.php:162
+msgid "<strong>Stick</strong> will keep the selected topic &#8217;pinned&#8217; to the top the parent forum topic list."
+msgstr "<strong>سنجاق کردن </strong> جستار مورد نظر را در لیست جستار های انجمن مادر، در بالاترین ردیف و به صورت ثابت نمایش خواهد داد."
+
+#: includes/admin/topics.php:161
+msgid "<strong>Close</strong> will mark the selected topic as &#8217;closed&#8217; and disable the option to post new replies to the topic."
+msgstr "<strong>بستن</strong> جستار انتخاب شده را به عنوان جستار بسته شده علامت گذاری می کند. و گزینه ارسال نوشته جدید را در این جستار غیر فعال می کند."
+
+#: includes/admin/topics.php:160
+msgid "<strong>Preview</strong> will show you what your draft topic will look like if you publish it. View will take you to your live site to view the topic. Which link is available depends on your topic&#8217;s status."
+msgstr "<strong>پیش نمایش</strong> جستار پیش نویس را پیش از انتشار در حالت نهایی نمایش می دهد. که بسته به وضعیت جستار شما لینک ها قابل دسترس خواهند بود."
+
+#: includes/admin/topics.php:159
+msgid "<strong>Spam</strong> removes your topic from this list and places it in the spam queue, from which you can permanently delete it."
+msgstr "<strong>هرزنامه</strong> جستار را از لیست حذف کرده به صف هرزنامه ها انتقال می دهد، جایی که شما می توانید جستار را به صورت کامل حذف نمایید."
+
+#: includes/admin/topics.php:158
+msgid "<strong>Trash</strong> removes your topic from this list and places it in the trash, from which you can permanently delete it."
+msgstr "<strong>زباله دان</strong> جستار را از لیست حذف کرده به زباله دان انتقال می دهد، از جایی که شما می توانید به صورت کامل جستار را حذف نمایید."
+
+#: includes/admin/topics.php:157
+msgid "<strong>Edit</strong> takes you to the editing screen for that topic. You can also reach that screen by clicking on the topic title."
+msgstr "<strong>ویرایش</strong> شما را به صفحه ویرایش آن جستار انتقال می دهد. شما همچنین می توانید با کلیک بر روی عنوان جستار به این صفحه دست پیدا کنید ."
+
+#: includes/admin/topics.php:155
+msgid "Hovering over a row in the topics list will display action links that allow you to manage your topic. You can perform the following actions:"
+msgstr "با نشانه روی موس بر روی هر سطر در لیست جستار ها لینک ها عملیاتی نمایش داده می شود که به شما اجازه مدیریت جستار را خواهد داد. شما می توانید عملیات زیر را انجام دهید :"
+
+#: includes/admin/topics.php:146
+msgid "You can refine the list to show only topics from a specific month by using the dropdown menus above the topics list. Click the Filter button after making your selection. You also can refine the list by clicking on the topic creator in the topics list."
+msgstr "شما می توانید با استفاده از منوی بازشو بالای لیست جستارها، لیست جستارها را دوباره به گونه ای مرتب کنید که جستار های یک ماه ویژه را نمایش دهد. بعد از انتخاب گزینه ها بر روی دکمه صافی کلیک کنید. شما همچنین می توانید با کلیک بر روی سازنده جستار در لیست جستارها، لیست را دوباره بازسازی نمایید."
+
+#: includes/admin/topics.php:145
+msgid "You can filter the list of topics by topic status using the text links in the upper left to show All, Published, or Trashed topics. The default view is to show all topics."
+msgstr "شما می توانید لیست جستار ها را براساس وضعیت جستار و با استفاده از لینک متنی در بالا سمت چپ فیلتر نمایید تا همه جستار ها، انتشار یافته ها یا جستار ها موجود در زباله دان نمایش داده شود. در حالت پیش فرض همه جستار ها نمایش داده می شود."
+
+#: includes/admin/topics.php:144
+msgid "You can hide/display columns based on your needs and decide how many topics to list per screen using the Screen Options tab."
+msgstr "شما با استفاده از تب تنظیمات صفحه و براساس نیاز خود و اینکه می خواهید چه تعداد جستار در هر برگه لیست شود، می توانید ستون ها را پنها کرده یا نمایش دهید."
+
+#: includes/admin/topics.php:134
+msgid "This screen displays the individual topics on your site. You can customize the display of this screen to suit your workflow."
+msgstr "این صفحه جستار های تارنمای شما را نمایش خواهد داد. شما می توانید بر اساس گردش کاری خود نمایش این صفحه را سفارشی سازی کنید."
+
+#: includes/admin/tools.php:1370
+msgid "Deleting Roles and Capabilities&hellip; %s"
+msgstr "حذف نقش های کاربری و توانمندی ها&hellip; %s"
+
+#: includes/admin/tools.php:1364
+msgid "Deleting Settings&hellip; %s"
+msgstr "زدودن تنظیمات&hellip; %s"
+
+#: includes/admin/tools.php:1352
+msgid "Deleting Conversion Table&hellip; %s"
+msgstr "حذف جدول تبدیل&hellip; %s"
+
+#: includes/admin/tools.php:1336 includes/admin/tools.php:1344
+msgid "Deleting User Meta&hellip; %s"
+msgstr "زدودن اطلاعات متای کاربر&hellip; %s"
+
+#: includes/admin/tools.php:1331
+msgid "Deleting User&hellip; %s"
+msgstr "زدودن کاربر&hellip; %s"
+
+#: includes/admin/tools.php:1316
+msgid "Deleting Topic Tags&hellip; %s"
+msgstr "زدودن برچسب های جستار&hellip; %s"
+
+#: includes/admin/tools.php:1307
+msgid "Deleting Post Meta&hellip; %s"
+msgstr "زدودن اطلاعات متای نوشته &hellip; %s"
+
+#: includes/admin/tools.php:1294
+msgid "Deleting Posts&hellip; %s"
+msgstr "زدودن نوشته ها&hellip; %s"
+
+#: includes/admin/tools.php:1287
+msgid "Success!"
+msgstr "موفقیت آمیز بود!"
+
+#: includes/admin/tools.php:1286
+msgid "Failed"
+msgstr "شکست"
+
+#: includes/admin/tools.php:1253
+msgid "Reset bbPress"
+msgstr "بازگردانی بی بی پرس"
+
+#: includes/admin/tools.php:1245
+msgid "Human sacrifice, dogs and cats living together... mass hysteria!"
+msgstr ""
+"بنی آدم اعضای یکدیگرند ... که در آفرینش ز یک گوهرند\n"
+"چو عضوی به درد آورد روزگار ... دگر عضوها را نماند قرار"
+
+#: includes/admin/tools.php:1244
+msgid "This process cannot be undone."
+msgstr "این عملیات قابل بازگشت نیست."
+
+#: includes/admin/tools.php:1240
+msgid "Are you sure you want to do this?"
+msgstr "آیا باور دارید که می خواهید اینکار انجام شود؟"
+
+#: includes/admin/tools.php:1235
+msgid "Note: Resetting without this checked will delete the meta-data necessary to delete these users."
+msgstr "گوشزد: در صورتیکه بدون انتخاب این مورد عملیات بازنشانی را انجام دهید اطلاعات اضافی مورد نیاز برای زدودن این کاربران از بین خواهد رفت."
+
+#: includes/admin/tools.php:1234
+msgid "This option will delete all previously imported users, and cannot be undone."
+msgstr "این گزینه تمام کاربران که پیشین درون ریزی شده اند را پاک خواهد کرد و غیر قابل بازگشت است."
+
+#: includes/admin/tools.php:1233 includes/admin/tools.php:1243
+msgid "Say it ain't so!"
+msgstr "بگو این طوری نیست!"
+
+#: includes/admin/tools.php:1230
+msgid "Delete imported users?"
+msgstr "کاربران درون ریز شده زدوده شوند؟"
+
+#: includes/admin/tools.php:1226
+msgid "Importer Helper Data"
+msgstr "داده های راهنمای درون ریزی"
+
+#: includes/admin/tools.php:1225
+msgid "Forum User Roles"
+msgstr "نقش های کاربری انجمن"
+
+#: includes/admin/tools.php:1224
+msgid "Forum Activity"
+msgstr "فعالیت انجمن"
+
+#: includes/admin/tools.php:1223
+msgid "Forum Settings"
+msgstr "پیکربندی انجمن"
+
+#: includes/admin/tools.php:1222
+msgid "Related Meta Data"
+msgstr "اطلاعات متای مرتبط"
+
+#: includes/admin/tools.php:1221
+msgid "All Topic Tags"
+msgstr "همه برچسب های جستار"
+
+#: includes/admin/tools.php:1220 includes/replies/functions.php:1994
+#: includes/replies/template.php:50
+msgid "All Replies"
+msgstr "همه پاسخ ها"
+
+#: includes/admin/tools.php:1219 includes/topics/functions.php:3439
+#: includes/topics/template.php:50
+msgid "All Topics"
+msgstr "همه جستار ها"
+
+#: includes/admin/tools.php:1218 includes/forums/template.php:50
+msgid "All Forums"
+msgstr "همه انجمن ها"
+
+#: includes/admin/tools.php:1216
+msgid "The following data will be removed:"
+msgstr "این داده ها حذف خواهند شد:"
+
+#: includes/admin/tools.php:1210
+msgid "Backup your database before proceeding."
+msgstr "پیش از انجام اینکار، از پایگاه داده خود پشتیبان تهیه کنید."
+
+#: includes/admin/tools.php:1209
+msgid "Revert your forums back to a brand new installation. This process cannot be undone."
+msgstr "بازگشت انجمن به حالت ابتدایی پس از نصب. این اقدام غیرقابل برگشت است."
+
+#: includes/admin/tools.php:1100
+msgid "Recalculating the topic for each post &hellip; %s"
+msgstr "محاسبه دوباره جستار برای هر نوشته &hellip; %s"
+
+#: includes/admin/tools.php:1046
+msgid "Recalculating the forum for each post &hellip; %s"
+msgstr "محاسبه دوباره انجمن برای هر نوشته &hellip; %s"
+
+#: includes/admin/tools.php:1022
+msgid "Recalculating forum visibility &hellip; %s"
+msgstr "محاسبه دوباره نمایانی انجمن  &hellip; %s"
+
+#: includes/admin/tools.php:965
+msgid "Repairing the sticky topic to the parent forum relationships&hellip; %s"
+msgstr "تعمیر جستار سنجاق شده در روابط انجمن مادر&hellip; %s"
+
+#: includes/admin/tools.php:859
+msgid "Recomputing latest post in every topic and forum&hellip; %s"
+msgstr "محاسبه دوباره واپسین هر جستار و انجمن &hellip; %s"
+
+#: includes/admin/tools.php:843
+msgid "Complete! %s users updated."
+msgstr "کامل شد! %s کاربر بروز شد."
+
+#: includes/admin/tools.php:805
+msgid "Remapping forum role for each user on this site&hellip; %s"
+msgstr "اختصاص نقش کاربری پیش فرض انجمن به کاربران این تارنما&hellip; %s"
+
+#: includes/admin/tools.php:743
+msgid "Removing trashed forums from user subscriptions&hellip; %s"
+msgstr "زدودن جستارهای پاک شده از اشتراک خبرنامه کاربر&hellip; %s"
+
+#: includes/admin/tools.php:682
+msgid "Removing trashed topics from user subscriptions&hellip; %s"
+msgstr "زدودن جستارهای زباله دان از اشتراکات کاربر &hellip; %s"
+
+#: includes/admin/tools.php:650 includes/admin/tools.php:711
+#: includes/admin/tools.php:772
+msgid "Nothing to remove!"
+msgstr "موردی برای زدودن وجود ندارد!"
+
+#: includes/admin/tools.php:620
+msgid "Removing trashed topics from user favorites&hellip; %s"
+msgstr "زدودن جستارهای زباله دان از علاقمندی های کاربر&hellip; %s"
+
+#: includes/admin/tools.php:575
+msgid "Counting the number of topics to which each user has replied&hellip; %s"
+msgstr "شمارش تعداد جستارهایی که هر کاربر پاسخ داده است&hellip; %s"
+
+#: includes/admin/tools.php:530
+msgid "Counting the number of topics each user has created&hellip; %s"
+msgstr "شمارش تعداد جستار هایی که هر کاربر ارسال کرده است&hellip; %s"
+
+#: includes/admin/tools.php:487
+msgid "Counting the number of replies in each forum&hellip; %s"
+msgstr "شمارش تعداد پاسخ های هر انجمن&hellip; %s"
+
+#: includes/admin/tools.php:453
+msgid "Counting the number of topics in each forum&hellip; %s"
+msgstr "شمارش تعداد جستارهای هر انجمن &hellip; %s"
+
+#: includes/admin/tools.php:434
+msgid "Complete! %s groups updated; %s forums updated; %s forum statuses synced."
+msgstr "کامل شد ! %s گروه ها بروز شدند؛ %s انجمن ها بروز شدند؛  %s وضعیت های انجمن همگام سازی شد. "
+
+#: includes/admin/tools.php:418
+msgid "group-forums"
+msgstr "انجمن های-گروهی"
+
+#: includes/admin/tools.php:417
+msgid "Group Forums"
+msgstr "انجمن های گروهی"
+
+#: includes/admin/tools.php:316
+msgid "Repairing BuddyPress group-forum relationships&hellip; %s"
+msgstr " تعمیر روابط انجمن گروهی بادی پرس&hellip; %s"
+
+#: includes/admin/tools.php:291
+msgid "Counting the number of spammed and trashed replies in each topic&hellip; %s"
+msgstr "شمارش تعداد هرزنامه ها و پاسخ های زباله دان در هر جستار&hellip; %s"
+
+#: includes/admin/tools.php:249
+msgid "Counting the number of voices in each topic&hellip; %s"
+msgstr "شمارش تعداد کاربران در هر جستار &hellip; %s"
+
+#: includes/admin/tools.php:233 includes/admin/tools.php:276
+#: includes/admin/tools.php:302 includes/admin/tools.php:469
+#: includes/admin/tools.php:514 includes/admin/tools.php:559
+#: includes/admin/tools.php:604 includes/admin/tools.php:666
+#: includes/admin/tools.php:727 includes/admin/tools.php:788
+#: includes/admin/tools.php:950 includes/admin/tools.php:1007
+#: includes/admin/tools.php:1030 includes/admin/tools.php:1085
+#: includes/admin/tools.php:1130 includes/admin/tools.php:1186
+msgid "Complete!"
+msgstr "کامل شد!"
+
+#: includes/admin/tools.php:199 includes/admin/tools.php:250
+#: includes/admin/tools.php:292 includes/admin/tools.php:337
+#: includes/admin/tools.php:454 includes/admin/tools.php:488
+#: includes/admin/tools.php:531 includes/admin/tools.php:576
+#: includes/admin/tools.php:621 includes/admin/tools.php:683
+#: includes/admin/tools.php:744 includes/admin/tools.php:812
+#: includes/admin/tools.php:860 includes/admin/tools.php:966
+#: includes/admin/tools.php:1026 includes/admin/tools.php:1047
+#: includes/admin/tools.php:1101
+msgid "Failed!"
+msgstr "خطا !"
+
+#: includes/admin/tools.php:198
+msgid "Counting the number of replies in each topic&hellip; %s"
+msgstr "شمارش تعداد پاسخ های هر جستار &hellip;  %s"
+
+#: includes/admin/tools.php:178
+msgid "Remap existing users to default forum roles"
+msgstr "اختصاص نقش کاربری پیش فرض انجمن به کاربران موجود"
+
+#: includes/admin/tools.php:177
+msgid "Remove trashed forums from user subscriptions"
+msgstr "زدودن انجمن های زدوده شده از اشتراک های کاربر"
+
+#: includes/admin/tools.php:176
+msgid "Remove trashed topics from user subscriptions"
+msgstr "زدودن جستارهای زدوده شده از اشتراک های کاربر"
+
+#: includes/admin/tools.php:175
+msgid "Remove trashed topics from user favorites"
+msgstr "زدودن جستارهای زدوده شده از موارد مورد علاقه کاربر"
+
+#: includes/admin/tools.php:174
+msgid "Count replies for each user"
+msgstr "تعداد پاسخ هر کاربر"
+
+#: includes/admin/tools.php:173
+msgid "Count topics for each user"
+msgstr "تعداد جستار های هر کاربر"
+
+#: includes/admin/tools.php:172
+msgid "Count spammed & trashed replies in each topic"
+msgstr "تعداد پاسخ هرزنامه و زدوده شده در هر جستار"
+
+#: includes/admin/tools.php:171
+msgid "Count voices in each topic"
+msgstr "شمارش کاربران در هر جستار"
+
+#: includes/admin/tools.php:170
+msgid "Count replies in each topic"
+msgstr "شمارش پاسخ ها در هر جستار"
+
+#: includes/admin/tools.php:169
+msgid "Count replies in each forum"
+msgstr "شمارش پاسخ ها در هر انجمن"
+
+#: includes/admin/tools.php:168
+msgid "Count topics in each forum"
+msgstr "شمارش جستارها در هر انجمن"
+
+#: includes/admin/tools.php:167
+msgid "Repair BuddyPress Group Forum relationships"
+msgstr "تعمیر روابط انجمن گروهی بادی پرس"
+
+#: includes/admin/tools.php:165
+msgid "Recalculate the sticky relationship of each topic"
+msgstr "محاسبه رابطه سنجاق شده درهر جستار"
+
+#: includes/admin/tools.php:164
+msgid "Recalculate last activity in each topic and forum"
+msgstr "محاسبه آخرین فعالیت در هر جستار و انجمن"
+
+#: includes/admin/tools.php:163
+msgid "Recalculate private and hidden forums"
+msgstr "محاسبه انجمن های پنهان و خصوصی"
+
+#: includes/admin/tools.php:162
+msgid "Recalculate the parent forum for each post"
+msgstr "بازشماری انجمن مادر برای هر نوشته"
+
+#: includes/admin/tools.php:161
+msgid "Recalculate the parent topic for each post"
+msgstr "بازشماری جستار مادر برای هر نوشته"
+
+#: includes/admin/tools.php:61
+msgid "Repair Items"
+msgstr "بازسازی گزینه ها"
+
+#: includes/admin/tools.php:46
+msgid "Repair"
+msgstr "بازسازی"
+
+#: includes/admin/tools.php:43
+msgid "Relationships to Repair:"
+msgstr "روابط جهت تعمیر :"
+
+#: includes/admin/tools.php:37
+msgid "Some of these tools create substantial database overhead. Avoid running more than 1 repair job at a time."
+msgstr "برخی از این ابزار باعث می شود پایگاه داده به شکل قابل توجهی سنگین شود. از اجرای بیش از یک فعالیت تعمیر همزمان خودداری فرمایید."
+
+#: includes/admin/tools.php:36
+msgid "bbPress keeps track of relationships between forums, topics, replies, and topic tags, and users. Occasionally these relationships become out of sync, most often after an import or migration. Use the tools below to manually recalculate these relationships."
+msgstr "بی بی پرس مسیر ارتباط بین انجمن ها ، جستار ها ، پاسخ ها و برچسب جستار ها و کاربران را حفظ خواهد کرد. در برخی موارد این روابط خارج از دسترس است ، بیشتر در هنگام درون ریزی یا ادغام . از ابزار زیر جهت محاسبه مجدد این روابط استفاده نمایید."
+
+#: includes/admin/settings.php:1755
+msgid "Possible %1$s conflict: %2$s"
+msgstr "%1$s احتمالا با %2$s ناسازگاری دارد"
+
+#: includes/admin/settings.php:1736
+msgid "%s page"
+msgstr "%s نمایش"
+
+#: includes/admin/settings.php:1724
+msgid "Topic tag slug"
+msgstr "نامک برچسب جستار"
+
+#: includes/admin/settings.php:1721
+msgid "View base"
+msgstr "پایه نمایش"
+
+#: includes/admin/settings.php:1718
+msgid "User base"
+msgstr "پایه کاربر"
+
+#: includes/admin/settings.php:1715
+msgid "Reply slug"
+msgstr "نامک پاسخ"
+
+#: includes/admin/settings.php:1712
+msgid "Topic slug"
+msgstr "نامک جستار"
+
+#: includes/admin/settings.php:1709
+msgid "Forum slug"
+msgstr "نامک انجمن"
+
+#: includes/admin/settings.php:1706
+msgid "Topics base"
+msgstr "ریشه جستارها"
+
+#: includes/admin/settings.php:1703
+msgid "Forums base"
+msgstr "ریشه انجمن ها"
+
+#: includes/admin/settings.php:1698
+msgid "Category base"
+msgstr "ریشه دسته بندی"
+
+#: includes/admin/settings.php:1695
+msgid "Tag base"
+msgstr "ریشه برچسب"
+
+#: includes/admin/settings.php:1692
+msgid "Menus"
+msgstr "فهرست ها"
+
+#: includes/admin/settings.php:1691
+msgid "Attachments"
+msgstr "پیوست ها"
+
+#: includes/admin/settings.php:1689
+msgid "Pages"
+msgstr "برگه ها"
+
+#: includes/admin/settings.php:1688
+#: templates/default/bbpress/loop-forums.php:21
+#: templates/default/bbpress/loop-replies.php:24
+#: templates/default/bbpress/loop-replies.php:66
+#: templates/default/bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr "نوشته ها"
+
+#: includes/admin/settings.php:1590
+msgid "In the event of a slug collision with WordPress or BuddyPress, a warning will appear next to the problem slug(s)."
+msgstr "در هنگام تداخل نامک ها با وردپرس و بادی پرس، یک پیغام خطا بعد از نامک مورد نظر ظاهر خواهد شد."
+
+#: includes/admin/settings.php:1589
+msgid "\"Single Slugs\" are used as a prefix when viewing an individual forum, topic, reply, user, or view."
+msgstr "\"نامک های صفحات تکی\" به منظور پیشوند پیوند یکتای صفحات تکی انجمن، جستار، پاسخ، کاربر یا نمایش استفاده می شود."
+
+#: includes/admin/settings.php:1588
+msgid "\"Archive Slugs\" are used as the \"root\" for your forums and topics. If you combine these values with existing page slugs, bbPress will attempt to output the most correct title and content."
+msgstr "\"نامک های صفحات آرشیو\"  مانند \"ریشه\" برای انجمن ها و جستار ها شما استفاده می شوند. (مانند صفحه اصلی ، صفحه جستجوی مطالب ، صفحه آرشیو برچسب ها و دسته بندی ها ) اگر شما این مقادیر را با نامک های صفحات موجود ادغام کنید ، بی بی پرس تلاش خواهد کرد درست ترین عنوان و محتوای مطلب را نمایش دهد."
+
+#: includes/admin/settings.php:1587
+msgid "The Slugs section allows you to control the permalink structure for your forums."
+msgstr "بخش نامک ها به شما اجازه می دهد ساختار پیوند یکتای انجمن ها خود را کنترل کنید."
+
+#: includes/admin/settings.php:1586
+msgid "Slugs"
+msgstr "نامک ها"
+
+#: includes/admin/settings.php:1580
+msgid "These are broken up into two separate groups: one for what appears in your theme, another for RSS feeds."
+msgstr "این گزینه ها به دو قسمت تقسیم شده اند : یک مورد در پوسته شما نمایان می شود و دیگری در خوراک سایت."
+
+#: includes/admin/settings.php:1579
+msgid "This is comparable to the WordPress \"Reading Settings\" page, where you can set the number of posts that should show on blog pages and in feeds."
+msgstr "این قابل مقایسه با \\\"تنظیمات خواندن\" صفحات در وردپرس است ، جایی که شما تنظیم می کنید چه تعداد پست باید در هر صفحه وبلاگ و خوراک سایت نمایش داده شود."
+
+#: includes/admin/settings.php:1578
+msgid "Per Page settings allow you to control the number of topics and replies appear on each page."
+msgstr "گزینه در هر صفحه ، به شما اجازه می دهد تعداد پاسخ ها و جستار هایی را که در هر صفحه نمایش داده می شود را کنترل نمایید."
+
+#: includes/admin/settings.php:1577
+msgid "Per Page"
+msgstr "هر برگه"
+
+#: includes/admin/settings.php:1571
+msgid "You must click the Save Changes button at the bottom of the screen for new settings to take effect."
+msgstr "برای استفاده از تنظیمات جدید باید بر روی دکمه ذخیره تنظیمات در انتهای صفحه کلیک نمایید."
+
+#: includes/admin/settings.php:1568
+msgid "Auto-embed will embed the media content from a URL directly into the replies. For example: links to Flickr and YouTube."
+msgstr "جاسازی-خودکار، رسانه را از یک آدرس مستقیم در پاسخ ها جاسازی خواهد کرد. برای نمونه : لینک به فلیکر یا یوتیوب"
+
+#: includes/admin/settings.php:1567
+msgid "The Fancy Editor brings the luxury of the Visual editor and HTML editor from the traditional WordPress dashboard into your theme."
+msgstr "ویرایشگر فانتزی قابلیت ها ویرایشگر دیداری و ویرایشگر متنی را به جای پیشخوان سنتی وردپرس به پوسته شما می آورد ."
+
+#: includes/admin/settings.php:1566
+msgid "\"Anonymous Posting\" allows guest users who do not have accounts on your site to both create topics as well as replies."
+msgstr "\"پست میهمان\" به کاربران میهمان اجازه می دهد به ارسال پاسخ یا ایجاد جستار تازه بپردازند."
+
+#: includes/admin/settings.php:1565
+msgid "Topic-Tags allow users to filter topics between forums. This is enabled by default."
+msgstr "برچسب جستار ها به کاربر اجازه می دهد جستار مورد نظر را از میان انجمن ها فیلتر نماید. این گزینه به صورت پیش فرض فعال است."
+
+#: includes/admin/settings.php:1564
+msgid "Subscriptions allow users to subscribe for notifications to topics that interest them. This is enabled by default."
+msgstr "اشتراک به کاربران اجازه می دهد مشترک اطلاع رسانی های جستار مورد علاقه خود شوند. این گزینه به صورت پیش فرض فعال است."
+
+#: includes/admin/settings.php:1563
+msgid "Favorites are a way for users to save and later return to topics they favor. This is enabled by default."
+msgstr "علاقمندی ها یک روش برای ذخیره یک جستار دلخواه و بازگشت در زمان آینده است. این گزینه به صورت پیش فرض فعال است."
+
+#: includes/admin/settings.php:1562
+msgid "\"Throttle time\" is the amount of time required between posts from a single author. The higher the throttle time, the longer a user will need to wait between posting to the forum."
+msgstr "\"زمان انتظار\" زمانی است لازم بین نوشته ها برای یک کاربر عادی است. هرچه زمان انتظار بیشتر باشد ، کاربر باید زمان بیشتری را برای فرستادن نوشته بعدی بردبار باشد."
+
+#: includes/admin/settings.php:1561
+msgid "You can choose to lock a post after a certain number of minutes. \"Locking post editing\" will prevent the author from editing some amount of time after saving a post."
+msgstr "شما می توانید یک نوشته را برای زمان خاصی قفل نمایید. \"قفل کردن ویرایش نوشته\" که برای زمان خاصی از ویرایش نوشته ذخیره شده توسط نویسنده جلوگیری خواهد کرد."
+
+#: includes/admin/settings.php:1558
+msgid "In the Main Settings you have a number of options:"
+msgstr "در پیکربندی شما تعدادی گزینه دارید:"
+
+#: includes/admin/settings.php:1557
+msgid "Main Settings"
+msgstr "پیکربندی"
+
+#: includes/admin/settings.php:1551
+msgid "Please see the additional help tabs for more information on each indiviual section."
+msgstr "لطفا تبهای راهنما را در هر بخش به منظور دریافت اطلاعات بیشتر مشاهده نمایید."
+
+#: includes/admin/settings.php:1550
+msgid "This screen provides access to all of the Forums settings."
+msgstr "این صفحه امکان دسترسی به همه تنظیمات انجمن ها را فراهم می کند."
+
+#: includes/admin/settings.php:1519
+msgid "Stop"
+msgstr "توقف"
+
+#: includes/admin/settings.php:1518
+msgid "Start"
+msgstr "آغاز"
+
+#: includes/admin/settings.php:1488
+msgid "Non-bbPress passwords cannot be automatically converted. They will be converted as each user logs in."
+msgstr "گذرواژه هایی که توسط بی بی پرس تنظیم نشده اند به صورت خودکار تبدیل نمی شوند. آنها زمانی که کاربر وارد می شود تبدیل خواهند شد."
+
+#: includes/admin/settings.php:1487
+msgid "Attempt to import user accounts from previous forums"
+msgstr "تلاش برای درون ریزی اکانت کاربران از انجمن های قبلی "
+
+#: includes/admin/settings.php:1473
+msgid "Use this if an import failed and you want to remove that incomplete data."
+msgstr "اگر عملیات درون ریزی با موفقیت انجام نشد. از این گزینه برای حذف اطلاعات ناقص استفاده نمایید."
+
+#: includes/admin/settings.php:1472
+msgid "Purge all information from a previously attempted import"
+msgstr "خالی کردن همه اطلاعات عملیات درون ریزی قبلی"
+
+#: includes/admin/settings.php:1458
+msgid "You should clean old conversion information before starting over."
+msgstr "شما باید اطلاعات گفتگوی قبلی را قبل از شروع گفتگوی دوباره پاک کنید."
+
+#: includes/admin/settings.php:1457
+msgid "Start a fresh conversion from the beginning"
+msgstr "شروع یک گفتگوی تازه از ابتدا"
+
+#: includes/admin/settings.php:1443
+msgid "Keep this high to prevent too-many-connection issues."
+msgstr "مقدار این فیلد را بالا تنظیم کنید تا از اتصال بیش از حد به پایگاه داده جلوگیری شود."
+
+#: includes/admin/settings.php:1442
+msgid "second(s) delay between each group of rows"
+msgstr "ثانیه (ها) تاخیر بین پردازش هر گروه از سطر ها"
+
+#: includes/admin/settings.php:1428
+msgid "Keep this low if you experience out-of-memory issues."
+msgstr "مقدار این فیلد را پایین نگاه دارید در صورتی که با مشکل خروج حافظه مواجه هستید."
+
+#: includes/admin/settings.php:1427
+msgid "rows to process at a time"
+msgstr "سطرهایی که باید در یک زمان تحت عملیات قرار بگیرند."
+
+#: includes/admin/settings.php:1413
+msgid "(If converting from BuddyPress Forums, use \"wp_bb_\" or your custom prefix)"
+msgstr "(اگر از انجمن ها بادی پرس به بی بی پرس تبدیل می کنید، از \"wp_bb_\" یا پیشوند دلخواه خود استفاده نمایید)"
+
+#: includes/admin/settings.php:1399
+msgid "Some optional parameters to help tune the conversion process."
+msgstr "تعدادی پارامتر اختیاری که به عملیات تبدیل کمک می کند."
+
+#: includes/admin/settings.php:1386
+msgid "Name of the database with your old forum data"
+msgstr "نام پایگاه داده که حاوی اطلاعات انجمن قدیمی شماست"
+
+#: includes/admin/settings.php:1372
+msgid "Password to access the database"
+msgstr "گذرواژه جهت دسترسی به پایگاه داده"
+
+#: includes/admin/settings.php:1358
+msgid "User for your database connection"
+msgstr "نام کاربری جهت اتصال به پایگاه داده"
+
+#: includes/admin/settings.php:1344
+msgid "Use default 3306 if unsure"
+msgstr "مقدار پیش فرض 3306 را انتخاب کنید اگر مطمئن نیستید"
+
+#: includes/admin/settings.php:1330
+msgid "IP or hostname"
+msgstr "IP  یا نام هاست"
+
+#: includes/admin/settings.php:1316
+msgid "is the previous forum software"
+msgstr "آیا نرم افزار انجمن ساز قبلی "
+
+#: includes/admin/settings.php:1286
+msgid "Information about your previous forums database so that they can be converted. <strong>Backup your database before proceeding.</strong>"
+msgstr "مطلع شوید از پایگاه داده انجمن های پیشن شما که قابل تبدیل شدن هستند. <strong>قبل از شروع عملیات از پایگاه داده خود نسخه پشتیبان تهیه فرمایید.</strong>"
+
+#: includes/admin/settings.php:1267
+#: templates/default/bbpress/form-user-edit.php:173
+msgid "Save Changes"
+msgstr "ذخیره تنظیمات"
+
+#: includes/admin/settings.php:1258
+msgid "Forums Settings"
+msgstr "پیکربندی انجمن ها"
+
+#: includes/admin/settings.php:1235
+msgid "Allow Akismet to actively prevent forum spam."
+msgstr "اجازه به اکیسمت برای جلوگیری فعالانه از هرزنامه های انجمن"
+
+#: includes/admin/settings.php:1218
+msgid "Forum settings for Akismet"
+msgstr "پیکربندی انجمن برای اکیسمت"
+
+#: includes/admin/settings.php:1203
+msgid "Using the Forum Root is not recommended. Changing this does not move existing forums."
+msgstr "استفاده از ریشه انجمن اصلی پیشنهاد نمی شود، تغییر این مقدار انجمن های موجود را جابجا نخواهد کرد."
+
+#: includes/admin/settings.php:1202
+msgid "is the parent for all group forums"
+msgstr "آیا مادر همه انجمن های گروهی هست"
+
+#: includes/admin/settings.php:1194
+msgid "&mdash; Forum root &mdash;"
+msgstr "&mdash;ریشه انجمن اصلی &mdash;"
+
+#: includes/admin/settings.php:1177
+msgid "Allow BuddyPress Groups to have their own forums"
+msgstr "اجازه دهید گروه های بادی پرس انجمن های خود را داشته باشند"
+
+#: includes/admin/settings.php:1161
+msgid "Forum settings for BuddyPress"
+msgstr "پیکربندی انجمن برای بادی پرس"
+
+#: includes/admin/settings.php:1043
+msgid "Custom slugs for single forums, topics, replies, tags, views, and search."
+msgstr "نامکهای دلخواه برای تالارهای تکی، جستارها ، پاسخها، برچسب ها، تعداد مشاهده و جستجو."
+
+#: includes/admin/settings.php:943
+msgid "Customize your user profile slugs."
+msgstr "شخصی سازی نامکهای کرانه کاربری."
+
+#: includes/admin/settings.php:916
+msgid "Topics by Freshness"
+msgstr "جستارها براساس تازه ترین"
+
+#: includes/admin/settings.php:913
+msgid "Forum Index"
+msgstr "فهرست انجمن"
+
+#: includes/admin/settings.php:893
+msgid "Prefix all forum content with the Forum Root slug (Recommended)"
+msgstr "همه محتوای انجمن"
+
+#: includes/admin/settings.php:860
+msgid "Customize your Forums root. Partner with a WordPress Page and use Shortcodes for more flexibility."
+msgstr "آدرس ریشه انجمن خود را تعیین کنید. برای انعطاف پذیری بیشتر یک برگه در وردپرس ایجاد کنید و با استفاده از کد، انجمن را در آن قرار دهید."
+
+#: includes/admin/settings.php:810
+msgid "How many topics and replies to show per RSS page"
+msgstr "چه تعداد جستار و پاسخ در هر صفحه RSS نمایش داده شود"
+
+#: includes/admin/settings.php:779 includes/admin/settings.php:795
+#: includes/admin/settings.php:826 includes/admin/settings.php:842
+msgid "per page"
+msgstr "در هر برگه"
+
+#: includes/admin/settings.php:763
+msgid "How many topics and replies to show per page"
+msgstr "چه تعداد پاسخ و جستار در هر صفحه نمایش داده شود"
+
+#: includes/admin/settings.php:748
+msgid "Embed media (YouTube, Twitter, Flickr, etc...) directly into topics and replies"
+msgstr "جاسازی فایل های چند رسانه ای ( یوتیوب ، تویتر، فلیکر، آپارات و . . . ) به صورت مستقیم در جستار ها و پاسخ ها"
+
+#: includes/admin/settings.php:732
+msgid "No template packages available."
+msgstr "هیچ بسته قالبی موجود نیست."
+
+#: includes/admin/settings.php:728
+msgid "will serve all bbPress templates"
+msgstr "آیا همه پوسته ها بی بی پرس به کار برده شود"
+
+#: includes/admin/settings.php:722
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: includes/admin/settings.php:698
+msgid "How your forum content is displayed within your existing theme."
+msgstr "چطور محتوای انجمن در پوسته موجود شما نمایش داده خواهد شد."
+
+#: includes/admin/settings.php:685
+msgid "Add toolbar & buttons to textareas to help with HTML formatting"
+msgstr "افزودن نوار ابزار و دکمه به ناحیه متن برای کمک با نوع HTML"
+
+#: includes/admin/settings.php:669
+msgid "Allow topic and reply revision logging"
+msgstr "اجازه تجدید نظر برای جستار ها و پاسخ ها "
+
+#: includes/admin/settings.php:652
+msgid "Enable threaded (nested) replies %s levels deep"
+msgstr "فعال کردن پاسخ‌های تورفته با عمق %s."
+
+#: includes/admin/settings.php:613
+msgid "Allow forum wide search"
+msgstr "اجازه جستجو در انجمن"
+
+#: includes/admin/settings.php:597
+msgid "Allow topics to have tags"
+msgstr "اجازه دادن به جستار ها برای برچسب خوردن"
+
+#: includes/admin/settings.php:581
+msgid "Allow users to subscribe to forums and topics"
+msgstr "اجازه دادن به کاربران جهت اشتراک در انجمن‌ها و جستارها"
+
+#: includes/admin/settings.php:565
+msgid "Allow users to mark topics as favorites"
+msgstr "اجازه دادن به کاربران برای افزودن جستار به علاقمندی ها"
+
+#: includes/admin/settings.php:549
+msgid "Forum features that can be toggled on and off"
+msgstr "ویژگی های انجمن می تواندن در حالت خاموش یا روشن باشد"
+
+#: includes/admin/settings.php:533
+msgid "Automatically give registered visitors the %s forum role"
+msgstr "به صورت خودکار به کاربران تازه نقش %s داده شود."
+
+#: includes/admin/settings.php:499
+msgid "Allow guest users without accounts to create topics and replies"
+msgstr "اجازه دادن به کاربران میهمان برای ارسال جستار ها و پاسخ ها بدون عضویت "
+
+#: includes/admin/settings.php:483 includes/common/functions.php:124
+msgid "seconds"
+msgstr "ثانیه"
+
+#: includes/admin/settings.php:467 includes/common/functions.php:123
+msgid "minutes"
+msgstr "دقیقه"
+
+#: includes/admin/settings.php:450
+msgid "Setting time limits and other user posting capabilities"
+msgstr "پیکربندی محدودیت زمان و ظرفیت ارسال دیگر کاربران"
+
+#: includes/admin/settings.php:412
+msgid "Use Akismet"
+msgstr "استفاده از اکیسمت"
+
+#: includes/admin/settings.php:399
+msgid "Group Forums Parent"
+msgstr "مادر انجمن های گروهی"
+
+#: includes/admin/settings.php:391
+msgid "Enable Group Forums"
+msgstr "فعال کردن انجمن های گروهی"
+
+#: includes/admin/settings.php:378
+msgid "Topic Subscriptions"
+msgstr "درخواست اطلاع رسانی جستار"
+
+#: includes/admin/settings.php:370 includes/extend/buddypress/loader.php:285
+msgid "Favorite Topics"
+msgstr "جستارهای مورد علاقه"
+
+#: includes/admin/settings.php:362 includes/extend/buddypress/loader.php:207
+#: includes/extend/buddypress/loader.php:277
+#: templates/default/bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr "پاسخ ها ارسال شده"
+
+#: includes/admin/settings.php:354 includes/extend/buddypress/loader.php:196
+#: includes/extend/buddypress/loader.php:269
+#: templates/default/bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr "جستار های آغاز شده"
+
+#: includes/admin/settings.php:346
+msgid "User Base"
+msgstr "ریشه کاربر "
+
+#: includes/admin/settings.php:317
+msgid "Topic View"
+msgstr "مشاهده جستار"
+
+#: includes/admin/settings.php:280
+msgid "Forum root should show"
+msgstr "ریشه ی انجمن باید نمایش داده شود"
+
+#: includes/admin/settings.php:272
+msgid "Forum Prefix"
+msgstr "پیشوند انجمن"
+
+#: includes/admin/settings.php:264
+msgid "Forum Root"
+msgstr "ریشه انجمن"
+
+#: includes/admin/settings.php:209
+msgid "Current Package"
+msgstr "بسته جاری"
+
+#: includes/admin/settings.php:190
+msgid "Reply Threading"
+msgstr "تورفتگی پاسخ"
+
+#: includes/admin/settings.php:182
+msgid "Auto-embed links"
+msgstr "جاسازی خودکار لینک ها"
+
+#: includes/admin/settings.php:174
+msgid "Post Formatting"
+msgstr "نوع نوشته"
+
+#: includes/admin/settings.php:166 includes/admin/settings.php:333
+#: includes/common/template.php:2330 includes/search/template.php:225
+#: templates/default/bbpress/form-search.php:17
+msgid "Search"
+msgstr "جستجو"
+
+#: includes/admin/settings.php:158
+msgid "Topic tags"
+msgstr "برچسب های جستاری"
+
+#: includes/admin/settings.php:150 includes/extend/buddypress/loader.php:230
+#: templates/default/bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr "اشتراک ها"
+
+#: includes/admin/settings.php:142 includes/extend/buddypress/loader.php:218
+#: templates/default/bbpress/user-details.php:48
+msgid "Favorites"
+msgstr "علاقمندی ها"
+
+#: includes/admin/settings.php:134 includes/admin/settings.php:1690
+msgid "Revisions"
+msgstr "رونوشت ها"
+
+#: includes/admin/settings.php:115
+msgid "Auto role"
+msgstr "نقش خودکار"
+
+#: includes/admin/settings.php:107
+msgid "Anonymous posting"
+msgstr "پست میهمان"
+
+#: includes/admin/settings.php:99
+msgid "Throttle posting every"
+msgstr "تاخیر در ارسال مطلب هر"
+
+#: includes/admin/settings.php:91
+msgid "Disallow editing after"
+msgstr "جلوگیری از ویرایش بعد از"
+
+#: includes/admin/settings.php:69
+msgid "Akismet Integration"
+msgstr "هماهنگی با اکیسمت"
+
+#: includes/admin/settings.php:64
+msgid "BuddyPress Integration"
+msgstr "هماهنگی با بادی پرس"
+
+#: includes/admin/settings.php:59
+msgid "Forum User Slugs"
+msgstr "نامک کاربر تالار"
+
+#: includes/admin/settings.php:54
+msgid "Single Forum Slugs"
+msgstr "نامک تک انجمن"
+
+#: includes/admin/settings.php:49
+msgid "Forum Root Slug"
+msgstr "نامک ریشه ی انجمن"
+
+#: includes/admin/settings.php:44
+msgid "Topics and Replies Per RSS Page"
+msgstr "تعداد جستارها و پاسخ ها در هر برگه فید خوان"
+
+#: includes/admin/settings.php:39
+msgid "Topics and Replies Per Page"
+msgstr "تعداد جستارها و پاسخ ها در هر برگه"
+
+#: includes/admin/settings.php:34
+msgid "Forum Theme Packages"
+msgstr "بسته های پوسته انجمن"
+
+#: includes/admin/settings.php:29
+msgid "Forum Features"
+msgstr "ویژگی های انجمن"
+
+#: includes/admin/settings.php:24
+msgid "Forum User Settings"
+msgstr "پیکربندی کاربر انجمن"
+
+#: includes/admin/replies.php:883
+msgid "Reply draft updated. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr "پیش نویس پاسخ به روز شد. <a target=\"_blank\" href=\"%s\">پیش نمایش جستار</a>"
+
+#: includes/admin/replies.php:876
+msgid "Reply scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview topic</a>"
+msgstr "پاسخ برای <strong>%1$s</strong>  زمانبندی شد. <a target=\"_blank\" href=\"%2$s\">پیش نمایش جستار</a>"
+
+#: includes/admin/replies.php:873
+msgid "Reply submitted. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr "پاسخ ارسال شد. <a target=\"_blank\" href=\"%s\">پیش نمایش جستار</a>"
+
+#: includes/admin/replies.php:870
+msgid "Reply saved."
+msgstr "پاسخ ذخیره شد."
+
+#: includes/admin/replies.php:867
+msgid "Reply created. <a href=\"%s\">View topic</a>"
+msgstr "پاسخ ایجاد شد. <a href=\"%s\">نمایش جستار</a>"
+
+#. translators: %s: date and time of the revision
+#: includes/admin/replies.php:863
+msgid "Reply restored to revision from %s"
+msgstr "پاسخ از نسخه %s بازیافت شد."
+
+#: includes/admin/replies.php:858
+msgid "Reply updated."
+msgstr "پاسخ به روز شد."
+
+#: includes/admin/replies.php:849
+msgid "Reply updated. <a href=\"%s\">View topic</a>"
+msgstr "پاسخ بروز شد. <a href=\"%s\">نمایش جستار</a>"
+
+#: includes/admin/replies.php:789 includes/admin/topics.php:859
+msgid "In all forums"
+msgstr "در تمام انجمن ها"
+
+#: includes/admin/replies.php:779 includes/admin/topics.php:849
+msgid "Empty Spam"
+msgstr "خالی کردن هرزنامه ها"
+
+#: includes/admin/replies.php:753 includes/admin/topics.php:823
+msgid "Delete Permanently"
+msgstr "زدودن برای همیشه"
+
+#: includes/admin/replies.php:753 includes/admin/topics.php:823
+#: includes/replies/template.php:2053 includes/topics/template.php:2634
+msgid "Delete this item permanently"
+msgstr "زدودن این مورد برای همیشه"
+
+#: includes/admin/replies.php:749 includes/admin/topics.php:819
+#: includes/replies/template.php:2034 includes/topics/template.php:2615
+msgid "Trash"
+msgstr "زباله دان"
+
+#: includes/admin/replies.php:749 includes/admin/topics.php:819
+#: includes/replies/template.php:2049 includes/topics/template.php:2630
+msgid "Move this item to the Trash"
+msgstr "فرستادن این مورد به زباله دان"
+
+#: includes/admin/replies.php:747 includes/admin/topics.php:817
+#: includes/replies/template.php:2035 includes/topics/template.php:2616
+msgid "Restore"
+msgstr "بازیافت"
+
+#: includes/admin/replies.php:747 includes/admin/topics.php:817
+#: includes/replies/template.php:2047 includes/topics/template.php:2628
+msgid "Restore this item from the Trash"
+msgstr "بازیافت این مورد از زباله دان"
+
+#: includes/admin/replies.php:738 includes/admin/topics.php:809
+#: includes/replies/template.php:2105 includes/topics/template.php:2872
+msgid "Spam"
+msgstr "هرزنامه"
+
+#: includes/admin/replies.php:738
+msgid "Mark this reply as spam"
+msgstr "خارج کردن این پاسخ از حالت هرزنامه"
+
+#: includes/admin/replies.php:736 includes/admin/topics.php:807
+msgid "Not spam"
+msgstr "هرزنامه نیست"
+
+#: includes/admin/replies.php:736
+msgid "Mark the reply as not spam"
+msgstr "علامت زدن پاسخ به حالت هرزنامه"
+
+#: includes/admin/replies.php:725 includes/admin/topics.php:776
+msgid "View"
+msgstr "نمایش"
+
+#: includes/admin/replies.php:725 includes/admin/topics.php:776
+msgid "View &#8220;%s&#8221;"
+msgstr "نمایش &#8220;%s&#8221;"
+
+#: includes/admin/replies.php:657
+msgid "(Mismatch)"
+msgstr "(غیر منطبق)"
+
+#: includes/admin/replies.php:651 includes/admin/replies.php:666
+#: includes/admin/topics.php:687
+msgid "No Forum"
+msgstr "بدون انجمن"
+
+#: includes/admin/replies.php:625 includes/admin/replies.php:633
+msgid "No Topic"
+msgstr "بدون جستار"
+
+#: includes/admin/replies.php:572 includes/admin/topics.php:636
+#: templates/default/bbpress/loop-replies.php:18
+#: templates/default/bbpress/loop-replies.php:60
+#: templates/default/bbpress/loop-search.php:18
+#: templates/default/bbpress/loop-search.php:40
+msgid "Author"
+msgstr "نویسنده"
+
+#: includes/admin/replies.php:569
+msgid "Title"
+msgstr "عنوان"
+
+#: includes/admin/replies.php:536
+msgid "Reply \"%1$s\" successfully unmarked as spam."
+msgstr "پاسخ \"%1$s\" از حالت هرزنامه خارج شد."
+
+#: includes/admin/replies.php:536
+msgid "There was a problem unmarking the reply \"%1$s\" as spam."
+msgstr "اشکالی در خارج کردن پاسخ \"%1$s\" از حالت هرزنامه وجود دارد."
+
+#: includes/admin/replies.php:532
+msgid "Reply \"%1$s\" successfully marked as spam."
+msgstr "پاسخ \"%1$s\" با موفقیت به عنوان هرزنامه انتخاب شد."
+
+#: includes/admin/replies.php:532
+msgid "There was a problem marking the reply \"%1$s\" as spam."
+msgstr "اشکالی در انتخاب پاسخ \"%1$s\" به عنوان هرزنامه وجود دارد."
+
+#: includes/admin/replies.php:464 includes/admin/topics.php:488
+msgid "You do not have the permission to do that!"
+msgstr "شما دسترسی لازم برای انجام اینکار را ندارید."
+
+#: includes/admin/replies.php:461
+msgid "The reply was not found!"
+msgstr "پاسخ یافت نشد!"
+
+#: includes/admin/replies.php:347 includes/admin/topics.php:363
+#: templates/default/bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr "اطلاعات نویسنده"
+
+#: includes/admin/replies.php:223
+msgid "<strong>Reply To</strong> determines the threading of the reply."
+msgstr "<strong>پاسخ به</strong> مشخص کننده ی تو در تو بودن پاسخ می باشد."
+
+#: includes/admin/replies.php:222
+msgid "<strong>Topic</strong> determines the parent topic that the reply belongs to."
+msgstr "<strong>جستار</strong> جستار مادری را که پاسخ متعلق به آن است محاسبه می کند."
+
+#: includes/admin/replies.php:221
+msgid "<strong>Forum</strong> dropdown determines the parent forum that the reply belongs to. Select the forum, or leave the default (Use Forum of Topic) to post the reply in forum of the topic."
+msgstr "<strong>انجمن</strong>منوی بازشو انجمن مادری که پاسخ متعلق به آن است محاسبه می کند. انجمنی را انتخاب کنید، یا در حالت پیش فرض (استفاده از انجمن جستار) رها کنید تا پاسخ به انجمن آن جستار ارسال شود."
+
+#: includes/admin/replies.php:219
+msgid "Select the attributes that your reply should have:"
+msgstr "صفاتی را که پاسخ شما باید داشته باشد انتخاب کنید :"
+
+#: includes/admin/replies.php:217 includes/admin/replies.php:255
+msgid "Reply Attributes"
+msgstr "صفات پاسخ"
+
+#: includes/admin/replies.php:212
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your reply without inserting it. This is usually useful only if your theme makes use of the featured image as a reply thumbnail on the home page, a custom header, etc."
+msgstr "<strong>تصویر شاخص</strong> - این گزینه به شما امکان تخصیص دادن یک تصویر را به پاسخ بدون قرار دادن آن در متن پاسخ را خواهد داد. این معمولا زمانی مفید است که پوسته شما از تصاویر شاخص برای نمایش تصاویر بندانگشتی در صفحه اصلی ، یا یک سرتیتر دلخواه و . . . استفاده کند."
+
+#: includes/admin/replies.php:209
+msgid "<strong>Publish</strong> - You can set the terms of publishing your reply in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a reply or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a reply to be published in the future or backdate a reply."
+msgstr "<strong>انتشار</strong> - شما می توانید قوانین انتشار پاسخ ها را در جعبه انتشار (ابزارک انتشار) تنظیم نمایید. برای وضعیت ها ، نمایانی و انتشار (فوری) روی لینک ویرایش کلیک کنید تا گزینه های بیشتری را مشاهده نمایید. نمایانی شامل گزینه های محافظت یک پاسخ با پسورد و قرار دادن پاسخ در صدر پاسخ ها (چسبندگی)  است. انتشار (فوری)  به شما اجازه می دهد زمانی را در آینده یا گذشته تنظیم نمایید، بنابراین شما می تونید یک پاسخ را برای انتشار در آینده یا گذشته زمانبندی نمایید."
+
+#: includes/admin/replies.php:206
+msgid "<strong>Reply Editor</strong> - Enter the text for your reply. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your reply text. You can insert media files by clicking the icons above the reply editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular reply editor."
+msgstr "<strong>ویرایشگر پاسخ</strong> - متن پاسخ خود را وارد نمایید. 2 حالت برای ویرایش وجود دارد : دیداری و متن . حالت ویرایش را با کلیک بر روی تب مورد نظر انتخاب نمایید. حالت دیداری ویرایشگر WYSIWYG را در اختیار شما قرار می دهد. بر روی آخرین آیکون در سطر آیکون ها کلیک نمایید تا سطر دوم آیکون ها نمایش داده شود. حالت متن به شما اجازه می دهد کدهای HTML را به همراه متن پاسخ وارد نمایید. شما می توانید فایل های چند رسانه ای را با کلیک بر روی آیکونی که در بالای ویرایشگر می بینید در در پاسخ خود قرار دهید.با کلیک بر روی آیکون تمام صفحه در حالت دیداری یا متن ، شما می توانید به صفحه نمایش تمام صفحه بروید. که در آنجا ، شما می توانید با نشانه روی موس روی بخش فوقانی دکمه های ویرایش را نمایان سازید . از حال نمایش تمام صفحه خارج شده و به ویرایشگر پاسخ در حالت عادی باز گردید."
+
+#: includes/admin/replies.php:205
+msgid "<strong>Title</strong> - Enter a title for your reply. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>عنوان</strong> - عنوان پاسخ را وارد نمایید. بعد از اینکه عنوان را وارد کردید، شما می توانید پیوند یکتا را در قسمت پایین مشاهده نمایید، که می توانید آن را ویرایش کنید."
+
+#: includes/admin/replies.php:203
+msgid "Title and Reply Editor"
+msgstr "ویرایشگر عنوان و پاسخ"
+
+#: includes/admin/replies.php:193
+msgid "The title field and the big reply editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "فیلد عنوان و ویرایش متن پاسخ در مکان خود ثابت هستند ، اما شما می تانید بقیه جعبه ها (بخش ها ) را با استفاده از موس تغییر مکان داده و یا با کلیک بر روی عنوان هر بخش مخفی کرده و یا نمایش دهید. از تب تنظیمات صفحه برای نمایش بخش های بیشتر (خلاصه ، ارسال بازتاب ، فیلدهای دلخواه، گفتگو ، نامک، نویسنده ) استفاده نمایید. یا حالت تک ستونه یا دو ستونه را برای چیدمان صفحه انتخاب نمایید."
+
+#: includes/admin/replies.php:172
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected replies at once. To remove a reply from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "زمانی که از ویرایش دسته جمعی استفاده می نمایید ، شما می توانید اطلاعات پاسخ (دسته بندی ها،نویسنده و . . . ) تمام پاسخ ها انتخاب شده را یکجا تغییر دهید . برای حذف پاسخ از گروه ، تنها روی  x کنار پاسخ مورد نظر در صفحه ویرایش دسته جمعی کلیک نمایید تا غیر فعال شود."
+
+#: includes/admin/replies.php:171
+msgid "You can also edit or move multiple replies to the trash at once. Select the replies you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "همچنین شما می توانید چند پاسخ را به صورت همزمان ویرایش کنید یا به زباله دان انتقال دهید. با استفاده از چک باکس ها ، پاسخ های مورد نظر را انتخاب نموده ، سپس عملیات را که می خواهید انجام دهید از منوی عملیات دسته جمعی انتخاب و روی دکمه اجرا کلیک نمایید."
+
+#: includes/admin/replies.php:162
+msgid "<strong>Preview</strong> will show you what your draft reply will look like if you publish it. View will take you to your live site to view the reply. Which link is available depends on your reply&#8217;s status."
+msgstr "<strong>پیش نمایش</strong> که به شما نشان خواهد داد پاسخ پیش نویس شما در صورت انتشار به چه صورت خواهد بود. پیش نمایش پاسخ مورد نظر را به صورت زنده در سایت نمایش خواهد داد. لینک ها بسته به وضعیت پاسخ در دسترس خواهند بود."
+
+#: includes/admin/replies.php:161
+msgid "<strong>Spam</strong> removes your reply from this list and places it in the spam queue, from which you can permanently delete it."
+msgstr "<strong>هرزنامه</strong> پاسخ را از این لیست حذف کرده و در صف اسپم ها قرار خواهد داد، که از آن جا شما می توانید برای همیشه پاسخ مورد نظر را حذف نمایید."
+
+#: includes/admin/replies.php:160
+msgid "<strong>Trash</strong> removes your reply from this list and places it in the trash, from which you can permanently delete it."
+msgstr "<strong>زباله دان</strong> پاسخ شما را از این لیست حذف کرده و در زباله دان قرار خواهد داد، که از آن جا شما می توانید پاسخ مورد نظر را برای همیشه حذف نمایید."
+
+#: includes/admin/replies.php:158
+msgid "<strong>Edit</strong> takes you to the editing screen for that reply. You can also reach that screen by clicking on the reply title."
+msgstr "<strong>ویرایش</strong> شما را به صفحه ویرایش پاسخ مورد نظر می برد. همچنین شما می توانید با کلیک بر روی عنوان پاسخ به صفحه ویرایش مراجعه نمایید."
+
+#: includes/admin/replies.php:156
+msgid "Hovering over a row in the replies list will display action links that allow you to manage your reply. You can perform the following actions:"
+msgstr "با نشانه روی موس بر روی سطرهای پاسخ ها لینک های عملیاتی نمایش داده می شود که به شما اجازه مدیریت پاسخ را خواهد داد. شما می توانید عملیات زیر را انجام دهید :"
+
+#: includes/admin/replies.php:147
+msgid "You can refine the list to show only replies in a specific category or from a specific month by using the dropdown menus above the replies list. Click the Filter button after making your selection. You also can refine the list by clicking on the reply author, category or tag in the replies list."
+msgstr "شما می توانید با استفاده از منوی بازشو در بالای لیست ، لیست را مجددا به گونه ای پالایش کنید که تنها دسته بندی خاص یا پاسخ هایی را که در یک ماه خاص ارسال شده اند مشاهده نمایید. بعد از انتخاب گزینه مورد نظر روی دکمه صافی کلیک نمایید. همچنین شما می توانید با کلیک بر روی نویسنده پاسخ ، دسته بندی یا برچسب در لیست پاسخ ها مجددا لیست جدیدی را بسازید."
+
+#: includes/admin/replies.php:146
+msgid "You can view replies in a simple title list or with an excerpt. Choose the view you prefer by clicking on the icons at the top of the list on the right."
+msgstr "شما می توانید لیستی از عنوان پاسخ ها را مشاهده کنید یا لیستی از عنوان ها به همراه توضیح مختصر . نمایی را که ترجیج می دهید با کلیک بر روی آیکون ها در بالای لیست سمت راست انتخاب کنید."
+
+#: includes/admin/replies.php:145
+msgid "You can filter the list of replies by reply status using the text links in the upper left to show All, Published, Draft, or Trashed replies. The default view is to show all replies."
+msgstr "شما می توانید با استفاده از لینک متنی در قسمت بالا سمت چپ  لیست پاسخ ها را با توجه به وضعیت پاسخ ها صافی نمایید  برای نمایش همه موارد ، انتشار یافته ها ، پیش نویس ها یا پاسخ های موجود در زباله دان . در حالت پیش فرض تمامی پاسخ ها نمایش داده می شود."
+
+#: includes/admin/replies.php:144
+msgid "You can hide/display columns based on your needs and decide how many replies to list per screen using the Screen Options tab."
+msgstr "با استفاده از گزینه های این تب شما می توانید بر اساس نیاز خود و اینکه تصمیم دارد چه تعداد پاسخ را در هر صفحه نمایش دهید، ستون ها را پنهان کنید / نمایش دهید ."
+
+#: includes/admin/replies.php:134
+msgid "This screen provides access to all of your replies. You can customize the display of this screen to suit your workflow."
+msgstr "این صفحه امکان دسترسی به تمامی پاسخ ها را فراهم می نماید. شما می توانید نمایش این صفحه را به منظور بهتر شدن جریان کاری خود سفارش نمایید."
+
+#: includes/admin/metaboxes.php:525
+msgid "IP Address"
+msgstr "آدرس آی پی"
+
+#: includes/admin/metaboxes.php:524
+msgid "IP:"
+msgstr "آی پی:"
+
+#: includes/admin/metaboxes.php:517
+msgid "ID"
+msgstr "شناسه"
+
+#: includes/admin/metaboxes.php:516
+msgid "ID:"
+msgstr "شناسه:"
+
+#: includes/admin/metaboxes.php:509
+#: templates/default/bbpress/form-user-edit.php:57
+msgid "Website"
+msgstr "تارنما"
+
+#: includes/admin/metaboxes.php:508
+#: templates/default/bbpress/form-anonymous.php:32
+msgid "Website:"
+msgstr "تارنما:"
+
+#: includes/admin/metaboxes.php:503
+#: templates/default/bbpress/form-user-edit.php:103
+#: templates/default/bbpress/form-user-register.php:28
+msgid "Email"
+msgstr "رایانامه"
+
+#: includes/admin/metaboxes.php:502
+msgid "Email:"
+msgstr "رایانامه:"
+
+#: includes/admin/metaboxes.php:497
+#: templates/default/bbpress/form-user-edit.php:14
+#: templates/default/bbpress/form-user-edit.php:19
+msgid "Name"
+msgstr "نام"
+
+#: includes/admin/metaboxes.php:496
+#: templates/default/bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr "نام:"
+
+#: includes/admin/metaboxes.php:464
+msgid "Reply To"
+msgstr "پاسخ به"
+
+#: includes/admin/metaboxes.php:463
+msgid "Reply To:"
+msgstr "پاسخ به:"
+
+#: includes/admin/metaboxes.php:457 includes/replies/template.php:61
+msgid "Topic:"
+msgstr "جستار:"
+
+#: includes/admin/metaboxes.php:379 includes/admin/metaboxes.php:433
+#: includes/extend/buddypress/groups.php:1042 includes/topics/template.php:61
+#: templates/default/bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr "انجمن :"
+
+#: includes/admin/metaboxes.php:368
+msgid "Select whether to open or close the topic."
+msgstr "گزینش بسته بودن یا باز کردن یک جستار"
+
+#: includes/admin/metaboxes.php:356
+msgid "Topic Type"
+msgstr "نوع جستار"
+
+#: includes/admin/metaboxes.php:322
+msgid "Forum Order"
+msgstr "چیدمان انجمن"
+
+#: includes/admin/metaboxes.php:321
+msgid "Order:"
+msgstr "چیدمان:"
+
+#: includes/admin/metaboxes.php:314 includes/admin/metaboxes.php:394
+#: includes/admin/metaboxes.php:448
+msgid "&mdash; No parent &mdash;"
+msgstr "&mdash; بدون مادر &mdash;"
+
+#: includes/admin/metaboxes.php:300
+msgid "Forum Parent"
+msgstr "مادر انجمن"
+
+#: includes/admin/metaboxes.php:299
+msgid "Parent:"
+msgstr "مادر:"
+
+#: includes/admin/metaboxes.php:285 includes/admin/metaboxes.php:286
+#: templates/default/bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr "نمایانی:"
+
+#: includes/admin/metaboxes.php:273 includes/admin/metaboxes.php:274
+#: includes/admin/metaboxes.php:367
+#: templates/default/bbpress/form-forum.php:100
+msgid "Status:"
+msgstr "وضعیت:"
+
+#: includes/admin/metaboxes.php:261 includes/admin/metaboxes.php:262
+#: includes/admin/metaboxes.php:355
+msgid "Type:"
+msgstr "نوع:"
+
+#: includes/admin/metaboxes.php:222
+msgid "You are using <span class=\"b\">bbPress %s</span>."
+msgstr "شما از <span class=\"b\">  بی بی پرس  %s</span> پارسی استفاده می کنید."
+
+#: includes/admin/metaboxes.php:198
+msgid "Empty Topic Tag"
+msgid_plural "Empty Topic Tags"
+msgstr[0] "برچسب جستار خالی می باشد"
+
+#: includes/admin/metaboxes.php:176
+msgid "Hidden Reply"
+msgid_plural "Hidden Replies"
+msgstr[0] "پاسخ های پنهان"
+
+#: includes/admin/metaboxes.php:154
+msgid "Hidden Topic"
+msgid_plural "Hidden Topics"
+msgstr[0] "جستار های پنهان"
+
+#: includes/admin/metaboxes.php:135
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "کاربر"
+
+#: includes/admin/metaboxes.php:127
+msgid "Users &amp; Moderation"
+msgstr "کاربران و مدیریت"
+
+#: includes/admin/metaboxes.php:103 includes/admin/settings.php:309
+#: includes/topics/template.php:3367
+msgid "Topic Tag"
+msgid_plural "Topic Tags"
+msgstr[0] "برچسب جستار"
+
+#: includes/admin/metaboxes.php:84 includes/admin/settings.php:325
+#: includes/replies/template.php:49 includes/replies/template.php:1621
+#: includes/topics/template.php:2921
+msgid "Reply"
+msgid_plural "Replies"
+msgstr[0] "پاسخ"
+
+#: includes/admin/metaboxes.php:67 includes/admin/metaboxes.php:458
+#: includes/admin/replies.php:571 includes/admin/settings.php:301
+#: includes/topics/template.php:49
+#: templates/default/bbpress/content-single-topic-lead.php:22
+#: templates/default/bbpress/content-single-topic-lead.php:94
+#: templates/default/bbpress/loop-topics.php:19
+msgid "Topic"
+msgid_plural "Topics"
+msgstr[0] "جستار"
+
+#: includes/admin/metaboxes.php:42
+msgid "Discussion"
+msgstr "گفتگو"
+
+#: includes/admin/forums.php:563
+msgid "Forum draft updated. <a target=\"_blank\" href=\"%s\">Preview forum</a>"
+msgstr "پیش نویس انجمن بروز شد. <a target=\"_blank\" href=\"%s\">پیش نمایش انجمن</a>"
+
+#. translators: Publish box date format, see http://php.net/date
+#: includes/admin/forums.php:558 includes/admin/replies.php:878
+#: includes/admin/topics.php:948
+msgid "M j, Y @ G:i"
+msgstr "j F , Y  @ G:i"
+
+#: includes/admin/forums.php:556
+msgid "Forum scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview forum</a>"
+msgstr "انجمن برای <strong>%1$s</strong> زمانبندی شد. <a target=\"_blank\" href=\"%2$s\">پیش نمایش انجمن</a>"
+
+#: includes/admin/forums.php:553
+msgid "Forum submitted. <a target=\"_blank\" href=\"%s\">Preview forum</a>"
+msgstr "انجمن فرستاده شد. <a target=\"_blank\" href=\"%s\">پیش نمایش انجمن</a>"
+
+#: includes/admin/forums.php:550
+msgid "Forum saved."
+msgstr "انجمن ذخیره شد."
+
+#: includes/admin/forums.php:547
+msgid "Forum created. <a href=\"%s\">View forum</a>"
+msgstr "انجمن ساخته شد. <a href=\"%s\">نمایش انجمن</a>"
+
+#. translators: %s: date and time of the revision
+#: includes/admin/forums.php:543
+msgid "Forum restored to revision from %s"
+msgstr "انجمن بازیافت شده از نسخه %s"
+
+#: includes/admin/forums.php:538
+msgid "Forum updated."
+msgstr "انجمن بروز شد."
+
+#: includes/admin/forums.php:535 includes/admin/replies.php:855
+#: includes/admin/topics.php:925
+msgid "Custom field deleted."
+msgstr "بخش سفارشی زدوده شد."
+
+#: includes/admin/forums.php:532 includes/admin/replies.php:852
+#: includes/admin/topics.php:922
+msgid "Custom field updated."
+msgstr "بخش سفارشی بروز شد."
+
+#: includes/admin/forums.php:529
+msgid "Forum updated. <a href=\"%s\">View forum</a>"
+msgstr "انجمن بروز شد. <a href=\"%s\">نمایش انجمن</a>"
+
+#: includes/admin/forums.php:463 includes/forums/template.php:601
+msgid "No Topics"
+msgstr "بدون جستار"
+
+#: includes/admin/forums.php:414 includes/admin/topics.php:638
+#: templates/default/bbpress/loop-forums.php:22
+#: templates/default/bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr "بروز شدن"
+
+#: includes/admin/forums.php:413 includes/admin/replies.php:573
+#: includes/admin/topics.php:637
+msgid "Created"
+msgstr "ساخته شده در"
+
+#: includes/admin/forums.php:412
+#: templates/default/bbpress/content-single-topic-lead.php:18
+#: templates/default/bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr "سازنده"
+
+#: includes/admin/forums.php:411 includes/admin/settings.php:230
+#: includes/admin/settings.php:251 includes/admin/topics.php:634
+#: includes/core/theme-compat.php:646
+#: includes/extend/buddypress/activity.php:355
+#: includes/forums/template.php:2665 includes/replies/template.php:47
+#: includes/replies/template.php:48
+#: templates/default/bbpress/content-statistics.php:32
+#: templates/default/bbpress/loop-forums.php:21
+#: templates/default/bbpress/loop-replies.php:32
+#: templates/default/bbpress/loop-replies.php:70
+#: templates/default/bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr "پاسخ ها"
+
+#: includes/admin/forums.php:410 includes/admin/settings.php:222
+#: includes/admin/settings.php:243 includes/admin/topics.php:632
+#: includes/extend/buddypress/activity.php:354
+#: includes/forums/template.php:2601 includes/topics/template.php:47
+#: includes/topics/template.php:48
+#: templates/default/bbpress/content-statistics.php:27
+#: templates/default/bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr "جستار ها"
+
+#: includes/admin/forums.php:409 includes/admin/metaboxes.php:50
+#: includes/admin/metaboxes.php:380 includes/admin/metaboxes.php:434
+#: includes/admin/replies.php:570 includes/admin/settings.php:293
+#: includes/admin/topics.php:633 includes/extend/buddypress/groups.php:52
+#: includes/extend/buddypress/groups.php:53 includes/forums/template.php:49
+#: templates/default/bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr "انجمن"
+
+#: includes/admin/forums.php:217 includes/admin/replies.php:229
+#: includes/admin/topics.php:229
+msgid "Publish Box"
+msgstr "جعبه انتشار"
+
+#: includes/admin/forums.php:211
+msgid "<strong>Order</strong> allows you to order your forums numerically."
+msgstr "<strong>چیدمان</strong> به شما اجازه می دهد انجمن های خود را توسط اعداد چیدمان نمایید."
+
+#: includes/admin/forums.php:210
+msgid "<strong>Parent</strong> dropdown determines the parent forum. Select the forum or category from the dropdown, or leave the default (No Parent) to create the forum at the root of your forums."
+msgstr "<strong>مادر</strong>در نظر گرفتن انجمن مادر. انجمن یا دسته را از منوی بازشو انتخاب کنید، یا آن را در حالت پیش فرض (بدون مادر) رها کنید تا انجمن در بالاترین سطح انجمن ها شما تشکیل شود."
+
+#: includes/admin/forums.php:209
+msgid "<strong>Visibility</strong> lets you pick the scope of each forum and what users are allowed to access it."
+msgstr "<strong>نمایانی</strong> به شما اجازه می دهد دامنه نمایش و اینکه چه کاربرانی قادر به دسترسی به آن هستند را  تنظیم نمایید."
+
+#: includes/admin/forums.php:208
+msgid "<strong>Status</strong> allows you to close a forum to new topics and forums."
+msgstr "<strong>وضعیت</strong> به شما اجازه می دهد که یک انجمن را ببندید برای شروع یک جستار یا انجمن جدید."
+
+#: includes/admin/forums.php:207
+msgid "<strong>Type</strong> indicates if the forum is a category or forum. Categories generally contain other forums."
+msgstr "<strong>نوع</strong> مشخص می کند که انجمن از نوع دسته بندی است یا یک انجمن است. دسته بندی ها معمولا  حاوی دیگر انجمن ها هستند."
+
+#: includes/admin/forums.php:205
+msgid "Select the attributes that your forum should have:"
+msgstr "صفاتی را که انجمن شما باید دارا باشد انتخاب نمایید:"
+
+#: includes/admin/forums.php:203 includes/admin/forums.php:243
+msgid "Forum Attributes"
+msgstr "صفات انجمن"
+
+#: includes/admin/forums.php:198
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your forum without inserting it. This is usually useful only if your theme makes use of the featured image as a forum thumbnail on the home page, a custom header, etc."
+msgstr "<strong>تصویر شاخص</strong> - شما می توانید بدون قرار دادن تصویری در متن انجمن ، تصویر شاخصی را به انجمن خود اختصاص دهید. این گزینه معمولا زمانی مفید خواهد بود که شما تصویر شاخص انجمن خود را به عنوان تصویر بند انگشتی در صفحه نخست یا یک صفحه سرتیتر سفارشی استفاده نمایید."
+
+#: includes/admin/forums.php:195
+msgid "<strong>Publish</strong> - You can set the terms of publishing your forum in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a forum or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a forum to be published in the future or backdate a forum."
+msgstr "<strong>انتشار</strong> - شما می توانید با ستفاده از بخش انتشار قوانین انتشار انجمن خود را تنظیم نمایید. برای وضعیت ها ، انتشار (فوری) ، بر روی لینک ویرایش کلیک نمایید تا گزینه های بیشتری نمایش داده شود. نمایانی حاوی گزینه هایی جهت حفاظت یک انجمن با پسورد و  نمایش آن در صدر مطالب انجمن (چسبنده ) است. انتشار (فوری) به شما اجازه می دهد که تاریخ ارسال انجمن را به گذشته یا آینده انتقال دهید، بنابراین شما می توانید برای ارسال یک انجمن در آینده یا انتقال آن به گذشته برنامه ریزی نمایید."
+
+#: includes/admin/forums.php:192
+msgid "<strong>Forum Editor</strong> - Enter the text for your forum. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your forum text. You can insert media files by clicking the icons above the forum editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular forum editor."
+msgstr "<strong>ویرایشگر انجمن</strong> متنی را برای انجمن خود وارد نمایید. دو روش جهت ویرایش و نگارش انجمن وجود دارد :دیداری و متن (HTML )  حالت ویرایش را با کلیک بر روی تب مورد نظر انتخاب کنید . حالت دیداری ویرایشگر WYSIWYG را در اختیار شما قرار می دهد. بر روی آخرین آیکون در سطر اول کیک کنید تا سطر دوم آیکون ها نمایش داده شود. شما می توانید با کلیک بر روی آیکون بالا ویرایشگر انجمن پرونده های چند رسانه ای را به انجمن اضافه نمایید. شما می توانید به صفحه ویرایش بدون مزاحم بروید با کلیک بر روی آیکون حالت بدون مزاحم در حالت دیداری و نمایش تمام صفحه در حالت ویرایش متنی . در این صفحه با نشانه روی موس روی قسمت فوقانی دکمه ها فعال خواهند شد. خروج از نمایش تمام صفحه شما را به صفحه ویرایش معمولی انجمن باز می گرداند."
+
+#: includes/admin/forums.php:191
+msgid "<strong>Title</strong> - Enter a title for your forum. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>عنوان</strong> عنوان انجمن خود را وارد نمایید. بعد از وارد کردن عنوان لینک یکتای انجمن در زیر عنوان قابل مشاهده است که می توانید آن را ویرایش کنید ."
+
+#: includes/admin/forums.php:189
+msgid "Title and Forum Editor"
+msgstr "ویرایشگر عنوان و انجمن"
+
+#: includes/admin/forums.php:183 includes/admin/replies.php:197
+#: includes/admin/topics.php:198
+msgid "Customizing This Display"
+msgstr "سفارشی سازی نمایش"
+
+#: includes/admin/forums.php:179
+msgid "The title field and the big forum editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "فلید عنوان و  فیلد بزرگ ویرایش انجمن ثابت هستند ، اما شما می توانید جعبه های دیگر را با استفاده از موس جابه جا کرده ، و  توسط بخش عنوان هر جعبه آنها را باز یا بسته نمایید. از تب تنظیمات صفحه جهت آشکار کردن جعبه های بیشتر ( خلاصه ، فلیدهای سفارشی ، بحث و گفتگو ، نامک ، نویسنده ) استفاده کرده یا با انتخاب 1 یا 2 ستون چیدمان صفحه را تغییر دهید."
+
+#: includes/admin/forums.php:165 includes/admin/forums.php:224
+#: includes/admin/replies.php:179 includes/admin/replies.php:236
+#: includes/admin/settings.php:1597 includes/admin/topics.php:180
+#: includes/admin/topics.php:236
+msgid "<a href=\"http://bbpress.org/forums/\" target=\"_blank\">bbPress Support Forums</a>"
+msgstr "<a href=\"http://bbpress.org/forums/\" target=\"_blank\">انجمن پشتیبانی بی بی پرس</a>"
+
+#: includes/admin/forums.php:164 includes/admin/forums.php:223
+#: includes/admin/replies.php:178 includes/admin/replies.php:235
+#: includes/admin/settings.php:1596 includes/admin/topics.php:179
+#: includes/admin/topics.php:235
+msgid "<a href=\"http://codex.bbpress.org\" target=\"_blank\">bbPress Documentation</a>"
+msgstr "<a href=\"http://codex.bbpress.org\" target=\"_blank\">دانشنامه بی بی پرس</a>"
+
+#: includes/admin/forums.php:163 includes/admin/forums.php:222
+#: includes/admin/replies.php:177 includes/admin/replies.php:234
+#: includes/admin/settings.php:1595 includes/admin/topics.php:178
+#: includes/admin/topics.php:234
+msgid "For more information:"
+msgstr "برای اطلاعات بیشتر:"
+
+#: includes/admin/forums.php:158
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected forums at once. To remove a forum from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "زمانی که از ویرایش دسته جمعی استفاده می کنید ، شما می توانید اطلاعات انجمن (دسته بندی ها ، نویسنده و . . . ) را برای تمام انجمن های انتخاب شده یکجا تغییر دهید. برای زدودن یک انجمن از عملیات گروهی تنها بر روی X کنار نام انجمن در صفحه ویرایش دسته جمعی کلیک نمایید."
+
+#: includes/admin/forums.php:157
+msgid "You can also edit or move multiple forums to the trash at once. Select the forums you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "همچنین شما می توانید تعدادی از انجمن ها را به صورت دسته جمعی به زباله دان منتقل کنید. انجمن هایی را که می خواهید با کلیک بر روی جعبه تیک آنها انتخاب کنید ، سپس عملیاتی را که می خواهید از منوی باز شو کارهای دسته جمعی انتخاب و بر روی دکمه اجرا کلیک نمایید."
+
+#: includes/admin/forums.php:155 includes/admin/replies.php:169
+#: includes/admin/topics.php:170
+msgid "Bulk Actions"
+msgstr "عملیات دسته جمعی"
+
+#: includes/admin/forums.php:148
+msgid "<strong>View</strong> will show you what your draft forum will look like if you publish it. View will take you to your live site to view the forum. Which link is available depends on your forum&#8217;s status."
+msgstr "<strong>نمایش</strong> این گزینه به شما نشان خواهد داد که در صورت انتشار ، انجمن به چه صورتی نمایش خواهد یافت . برای نمایش انجمن شما به سایت منتقل خواهید شد . که لینک بسته به وضعیت انجمن در دسترس است."
+
+#: includes/admin/forums.php:147
+msgid "<strong>Trash</strong> removes your forum from this list and places it in the trash, from which you can permanently delete it."
+msgstr "<strong>زباله دان</strong> انجمن را از لیست حذف کرده و به زباله دان منتقل خواهد کرد ، از آن جا شما می توانید به برای همیشه انجمن را حذف نمایید."
+
+#: includes/admin/forums.php:146
+msgid "<strong>Edit</strong> takes you to the editing screen for that forum. You can also reach that screen by clicking on the forum title."
+msgstr "<strong>ویرایش</strong> این گزینه شما را به صفحه ویرایش انجمن خواهد برد. شما همچنین با کیک بر روی عنوان انجمن به صفحه ویرایش منتقل خواهید شد."
+
+#: includes/admin/forums.php:144
+msgid "Hovering over a row in the forums list will display action links that allow you to manage your forum. You can perform the following actions:"
+msgstr "در صورتی که موس را بر روی سطر های لیست انجمن ها نشانه بروید لینک های عملیاتی نمایش داده می شود که به شما اجازه می دهد انجمن خود را مدیریت کنید. شما می توانید عملیات های زیر را انجام دهید :"
+
+#: includes/admin/forums.php:142 includes/admin/replies.php:154
+#: includes/admin/topics.php:153
+msgid "Available Actions"
+msgstr "کارهای مجاز"
+
+#: includes/admin/forums.php:135
+msgid "You can refine the list to show only forums from a specific month by using the dropdown menus above the forums list. Click the Filter button after making your selection. You also can refine the list by clicking on the forum creator in the forums list."
+msgstr "شما می توانید با استفاده از منوی بازشو زیر انجمن ها  ، تنها انجمن های ماه خاصی را نمایش دهید. بعد از انتخاب موارد مورد نظر بر روی دکمه صافی کلیک نمایید. شما همچنین می توانید لیست را با توجه به سازنده انجمن بازسازی نمایید."
+
+#: includes/admin/forums.php:134
+msgid "You can filter the list of forums by forum status using the text links in the upper left to show All, Published, or Trashed forums. The default view is to show all forums."
+msgstr "شما می توانید لیست انجمن ها را با توجه به وضعیت انجمن صافی نمایید ، از لینک بالا سمت چپ جهت نمایش همه موارد ، انتشار یافته ها ، و انجمن های موجود در زباله دادن استفاده کنید . در حالت پیش فرض تمام انجمن ها نمایش داده خواهد شد."
+
+#: includes/admin/forums.php:133
+msgid "You can hide/display columns based on your needs and decide how many forums to list per screen using the Screen Options tab."
+msgstr "با استفاده از تب تنظیمات صفحه ،  شما می توانید بر اساس نیاز خود و با توجه به این که تصمیم دارید در هر نمایش چه تعداد انجمن را لیست نمایید ستون ها را نمایش داده یا مخفی نمایید. "
+
+#: includes/admin/forums.php:131 includes/admin/replies.php:142
+#: includes/admin/topics.php:142
+msgid "You can customize the display of this screen&#8217;s contents in a number of ways:"
+msgstr "شما می توانید محتوای نمایش داده شده را به روش های متعددی سفارش سازی کنید :"
+
+#: includes/admin/forums.php:129 includes/admin/replies.php:140
+#: includes/admin/topics.php:140
+msgid "Screen Content"
+msgstr "محتوای نمایش"
+
+#: includes/admin/forums.php:123
+msgid "This screen displays the individual forums on your site. You can customize the display of this screen to suit your workflow."
+msgstr "این صفحه انجمن های شخصی تارنمای شما را نمایش می دهد. شما می توانید نمایش این صفحه را با توجه به گردش کار خود سفارشی سازی کنید."
+
+#: includes/admin/forums.php:121 includes/admin/replies.php:132
+#: includes/admin/settings.php:1549 includes/admin/topics.php:132
+msgid "Overview"
+msgstr "پیش نمایش"
+
+#: includes/admin/converters/AEF.php:688
+#: includes/admin/converters/FluxBB.php:643
+#: includes/admin/converters/Invision.php:525
+#: includes/admin/converters/Kunena1.php:543
+#: includes/admin/converters/Kunena2.php:585
+#: includes/admin/converters/Kunena3.php:812
+#: includes/admin/converters/PHPFox3.php:649
+#: includes/admin/converters/PunBB.php:677
+#: includes/admin/converters/SMF.php:656
+#: includes/admin/converters/SimplePress5.php:537
+#: includes/admin/converters/Vanilla.php:535
+#: includes/admin/converters/XMB.php:705
+#: includes/admin/converters/XenForo.php:722
+#: includes/admin/converters/bbPress1.php:636
+#: includes/admin/converters/phpBB.php:816
+#: includes/admin/converters/vBulletin.php:652
+#: includes/admin/converters/vBulletin3.php:652
+msgid "Re: "
+msgstr "پاسخ:"
+
+#: includes/admin/converter.php:515
+msgid "Calculating reply_to parents (%1$s - %2$s)"
+msgstr "محاسبه پاسخهای داده شده به مادرها (سرپرست ها) (%1$s - %2$s)"
+
+#: includes/admin/converter.php:511
+msgid "No reply_to parents to convert"
+msgstr "پاسخی_به مادرها (سرپرست ها) جهت تبدیل وجود ندارد."
+
+#: includes/admin/converter.php:500
+msgid "Converting replies (%1$s - %2$s)"
+msgstr "تبدیل پاسخ ها (%1$s - %2$s)"
+
+#: includes/admin/converter.php:496
+msgid "No replies to convert"
+msgstr "پاسخی جهت تبدیل وجود ندارد"
+
+#: includes/admin/converter.php:485
+msgid "Converting topic tags (%1$s - %2$s)"
+msgstr "تبدیل برچسب ها (%1$s - %2$s)"
+
+#: includes/admin/converter.php:481
+msgid "No tags to convert"
+msgstr "برچسبی جهت تبدیل وجود ندارد "
+
+#: includes/admin/converter.php:470
+msgid "Calculating topic super stickies (%1$s - %2$s)"
+msgstr "محاسبه ی جستارهای ابر سنجاق (%1$s - %2$s)"
+
+#: includes/admin/converter.php:466
+msgid "No super stickies to stick"
+msgstr "ابرسنجاق شده ای برای سنجاق وجود ندارد."
+
+#: includes/admin/converter.php:455
+msgid "Calculating topic stickies (%1$s - %2$s)"
+msgstr "محاسبه عنوانهای مهم (%1$s - %2$s)"
+
+#: includes/admin/converter.php:451
+msgid "No stickies to stick"
+msgstr "هیچ سنجاق شده ای برای سنجاق کردن موجود نیست"
+
+#: includes/admin/converter.php:440
+msgid "Converting topics (%1$s - %2$s)"
+msgstr "تبدیل جستار ها  (%1$s - %2$s)"
+
+#: includes/admin/converter.php:436
+msgid "No topics to convert"
+msgstr "جستاری جهت تبدیل وجود ندارد"
+
+#: includes/admin/converter.php:425
+msgid "Calculating forum hierarchy (%1$s - %2$s)"
+msgstr "محاسبه سلسله مراتب انجمن (%1$s - %2$s)"
+
+#: includes/admin/converter.php:421
+msgid "No forum parents to convert"
+msgstr "انجمن مادری جهت تبدیل وجود ندارد"
+
+#: includes/admin/converter.php:410
+msgid "Converting forums (%1$s - %2$s)"
+msgstr "تبدیل انجمن ها (%1$s - %2$s)"
+
+#: includes/admin/converter.php:406
+msgid "No forums to convert"
+msgstr "انجمنی جهت تبدیل وجود ندارد"
+
+#: includes/admin/converter.php:391
+msgid "Delete users WordPress default passwords (%1$s - %2$s)"
+msgstr "پاکسازی گذرواژه پیش فرض کاربران وردپرس (%1$s - %2$s)"
+
+#: includes/admin/converter.php:387
+msgid "No passwords to clear"
+msgstr "گذرواژه جهت پاکسازی وجود ندارد"
+
+#: includes/admin/converter.php:371
+msgid "Converting users (%1$s - %2$s)"
+msgstr "تبدیل کاربران  (%1$s - %2$s)"
+
+#: includes/admin/converter.php:367
+msgid "No users to convert"
+msgstr "کاربری جهت تبدیل وجود ندارد"
+
+#: includes/admin/converter.php:351
+msgid "Deleting previously converted data (%1$s - %2$s)"
+msgstr "پاکسازی اطلاعات تبدیل شده قبلی (%1$s - %2$s)"
+
+#: includes/admin/converter.php:347
+msgid "No data to clean"
+msgstr "اطلاعاتی جهت پاکسازی وجود ندارد"
+
+#: includes/admin/converter.php:248 includes/admin/converter.php:525
+msgid "Conversion Complete"
+msgstr "عملیات تبدیل کامل شد"
+
+#: includes/admin/converter.php:223
+msgid "Starting Conversion"
+msgstr "آغاز عملیات تبدیل"
+
+#: includes/admin/converter.php:134
+msgid "Purge Previous Import"
+msgstr "پاکسازی درون ریزی های قبلی"
+
+#: includes/admin/converter.php:130
+msgid "Start Over"
+msgstr "آغاز"
+
+#: includes/admin/converter.php:126
+msgid "Convert Users"
+msgstr "تبدیل کاربران"
+
+#: includes/admin/converter.php:122
+msgid "Delay Time"
+msgstr "زمان تاخیر"
+
+#: includes/admin/converter.php:118
+msgid "Rows Limit"
+msgstr "محدودیت سطرها"
+
+#: includes/admin/converter.php:115
+msgid "Options"
+msgstr "تنظیمات"
+
+#: includes/admin/converter.php:111
+msgid "Table Prefix"
+msgstr "پیشوند جداول"
+
+#: includes/admin/converter.php:107
+msgid "Database Password"
+msgstr "گذرواژه پایگاه داده"
+
+#: includes/admin/converter.php:103
+msgid "Database User"
+msgstr "نام کاربری پایگاه داده"
+
+#: includes/admin/converter.php:99
+msgid "Database Name"
+msgstr "نام پایگاه داده"
+
+#: includes/admin/converter.php:95
+msgid "Database Port"
+msgstr "پورت پایگاه داده"
+
+#: includes/admin/converter.php:91
+msgid "Database Server"
+msgstr "سرور پایگاه داده"
+
+#: includes/admin/converter.php:87
+msgid "Select Platform"
+msgstr "گزینش نرم افزار"
+
+#: includes/admin/converter.php:84
+msgid "Database Settings"
+msgstr "پیکربندی پایگاه داده"
+
+#: includes/admin/admin.php:1096
+msgid "You can update all the forums on your network through this page. It works by calling the update script of each site automatically. Hit the link below to update."
+msgstr "شما می توانید تمام انجمن های شبکه خود را از طریق این برگه ب روز نمایید. در این روش اسکریپت بروز رسانی هر تارنما به گونه خودکار فراخوانی خواهد شد. جهت بروز رسانی بر روی لینک زیر کلیک نمایید."
+
+#: includes/admin/admin.php:1078
+msgid "Next Forums"
+msgstr "انجمن های بعد"
+
+#: includes/admin/admin.php:1077
+msgid "If your browser doesn&#8217;t start loading the next page automatically, click this link:"
+msgstr "اگر مرورگر شما صفحه بعد را به صورت خودکار اجرا نمی کند، بر روی این لینک کلیک نمایید :"
+
+#: includes/admin/admin.php:1053
+msgid "Warning! Problem updating %1$s. Your server may not be able to connect to sites running on it. Error message: <em>%2$s</em>"
+msgstr "هشدار! اشکال در بروز رسانی %1$s . امکان دارد اتصال سرور شما به سایتی که بر روی آن اجرا می شود امکان پذیر نباشد. پیغام خطا : <em>%2$s</em>"
+
+#: includes/admin/admin.php:983
+msgid "You can update your forum through this page. Hit the link below to update."
+msgstr "شما می توانید انجمن خود را از طریق این صفحه بروز نمایید. برای بروز رسانی بر روی لینک زیر کلیک نمایید."
+
+#: includes/admin/admin.php:974 includes/admin/admin.php:1028
+msgid "Go Back"
+msgstr "بازگشت"
+
+#: includes/admin/admin.php:973 includes/admin/admin.php:1027
+msgid "All done!"
+msgstr "همه موارد انجام شد !"
+
+#: includes/admin/admin.php:962 includes/admin/admin.php:984
+msgid "Update Forum"
+msgstr "بروز رسانی انجمن"
+
+#: includes/admin/admin.php:905
+msgid "Core Contributors to bbPress 2.5"
+msgstr "مشارکت کنندگان اصلی در بی بی پرس نسخه ی 2.5"
+
+#: includes/admin/admin.php:896
+msgid "Bug Testing"
+msgstr "تست اشکال"
+
+#: includes/admin/admin.php:815
+msgid "Theme Compatibility"
+msgstr "سازگاری پوسته"
+
+#: includes/admin/admin.php:257 includes/admin/admin.php:258
+#: includes/admin/admin.php:266 includes/admin/admin.php:267
+msgid "Welcome to bbPress"
+msgstr "به بی بی پرس پارسی خوش آمدید"
+
+#: includes/admin/admin.php:530
+msgid "Right Now in Forums"
+msgstr "هم اکنون در انجمن ها"
+
+#: includes/admin/admin.php:545
+msgid "About bbPress"
+msgstr "در باره ی بی بی پرس"
+
+#: includes/admin/admin.php:887
+msgid "Converter Specialist"
+msgstr "متخصص تبدیل"
+
+#: bbpress.php:485
+msgid "bbPress Forums"
+msgstr "انجمن های بی بی پرس"
+
+#: includes/admin/admin.php:816
+msgid "Better handling of styles and scripts in the template stack."
+msgstr "مدیریت بهتر شیوه ها و اسکریپت ها در بسته ی پوسته."
+
+#: includes/admin/admin.php:515
+msgid "About"
+msgstr "درباره"
+
+#: includes/admin/admin.php:865
+msgid "bbPress is created by a worldwide swarm of busy, busy bees."
+msgstr "بی بی پرس توسط جهانی از زنبورهای عسل پرتلاش ساخته می شود !"
+
+#: includes/admin/admin.php:867
+msgid "Project Leaders"
+msgstr "رهبران پروژه"
+
+#: bbpress.php:581
+msgctxt "post"
+msgid "Spam"
+msgstr "هرزنامه"
+
+#: includes/admin/admin.php:208 includes/admin/functions.php:277
+#: includes/admin/settings.php:1509
+msgid "Import Forums"
+msgstr "درون ریزی انجمن ها"
+
+#: bbpress.php:608
+msgctxt "post"
+msgid "Hidden <span class=\"count\">(%s)</span>"
+msgid_plural "Hidden <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> پنهان"
+
+#: bbpress.php:595
+msgctxt "post"
+msgid "Orphan <span class=\"count\">(%s)</span>"
+msgid_plural "Orphans <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> بلاتکلیف"
+
+#: bbpress.php:405 templates/default/bbpress-functions.php:51
+msgid "bbPress Default"
+msgstr "پیش فرض بی بی پرس"
+
+#: bbpress.php:510
+msgid "bbPress Topics"
+msgstr "جستار های بی بی پرس"
+
+#: bbpress.php:678
+msgid "Most popular topics"
+msgstr "محبوبترین برچسب ها"
+
+#: bbpress.php:607
+msgctxt "post"
+msgid "Hidden"
+msgstr "پنهان"
+
+#: bbpress.php:571
+msgctxt "post"
+msgid "Closed <span class=\"count\">(%s)</span>"
+msgid_plural "Closed <span class=\"count\">(%s)</span>"
+msgstr[0] "بسته شده <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:133 bbpress.php:140
+msgid "Cheatin&#8217; huh?"
+msgstr "می خواهید ما را دور بزنید؟!"
+
+#: bbpress.php:535
+msgid "bbPress Replies"
+msgstr "پاسخ های بی بی پرس"
+
+#: includes/admin/admin.php:832 includes/admin/admin.php:936
+msgid "Go to Forum Settings"
+msgstr "رفتن به پیکربندی انجمن"
+
+#: includes/admin/admin.php:854
+msgid "Thank you for updating! bbPress %s is waxed, polished, and ready for you to take it for a lap or two around the block!"
+msgstr "شما بی بی پرس را به %s به روز کرده اید! از شما سپاسگزاریم. بی بی پرس آماده ی بهره برداری شما می باشد!"
+
+#: bbpress.php:570
+msgctxt "post"
+msgid "Closed"
+msgstr "بسته"
+
+#: bbpress.php:582
+msgctxt "post"
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "هرزنامه <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:594
+msgctxt "post"
+msgid "Orphan"
+msgstr "بدون مادر"
+
+#: bbpress.php:690
+msgid "Topics with no replies"
+msgstr "جستار های بدون پاسخ"
+
+#: includes/admin/admin.php:218 includes/admin/functions.php:281
+#: includes/admin/tools.php:1208
+msgid "Reset Forums"
+msgstr "بازسازی  انجمن ها"
+
+#: includes/admin/admin.php:219
+msgid "Forum Reset"
+msgstr "بازسازی انجمن"
+
+#: includes/admin/admin.php:233 includes/admin/admin.php:234
+#: includes/admin/admin.php:244 includes/admin/admin.php:245
+#: includes/admin/users.php:82 includes/common/widgets.php:662
+#: includes/extend/buddypress/loader.php:42
+#: includes/extend/buddypress/loader.php:175
+#: includes/extend/buddypress/loader.php:261
+#: includes/extend/buddypress/loader.php:312 includes/forums/template.php:47
+#: includes/forums/template.php:48
+#: templates/default/bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr "انجمن ها"
+
+#: includes/admin/admin.php:280 includes/admin/admin.php:281
+#: includes/admin/admin.php:302 includes/admin/admin.php:303
+#: includes/admin/admin.php:1010 includes/admin/admin.php:1097
+msgid "Update Forums"
+msgstr "بروز رسانی انجمن ها"
+
+#: includes/admin/admin.php:510
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/admin/admin.php:639
+msgctxt "admin color scheme"
+msgid "Evergreen"
+msgstr "سبز"
+
+#: includes/admin/admin.php:720 includes/admin/admin.php:758
+msgid "%s - %s"
+msgstr "%s - %s"
+
+#: includes/admin/admin.php:776 includes/admin/admin.php:853
+msgid "Welcome to bbPress %s"
+msgstr "به بی بی پرس %s خوش آمدید"
+
+#: includes/admin/admin.php:777
+msgid "Thank you for updating! bbPress %s is bundled up and ready to weather the storm of users in your community!"
+msgstr "از اینکه بی بی پرس را به روز کرده اید، از شما سپاسگزاریم! بی بی پرس پارسی نسخه %s آماده یاری رسانی به شما می باشد."
+
+#: includes/admin/admin.php:778 includes/admin/admin.php:855
+msgid "Version %s"
+msgstr "نگارش %s"
+
+#: includes/admin/admin.php:782 includes/admin/admin.php:859
+msgid "What&#8217;s New"
+msgstr "چه خبرا؟"
+
+#: includes/admin/admin.php:784 includes/admin/admin.php:861
+msgid "Credits"
+msgstr "سازندگان"
+
+#: includes/admin/admin.php:789
+msgid "Forum Subscriptions"
+msgstr "اشتراکات انجمن"
+
+#: includes/admin/admin.php:793
+msgid "Subscribe to Forums"
+msgstr "اشتراک در انجمن ها"
+
+#: includes/admin/admin.php:794
+msgid "Now your users can subscribe to new topics in specific forums."
+msgstr "اکنون کاربران شما میتوانند در جستارهای تازه انجمن های خاص مشارکت کنند."
+
+#: includes/admin/admin.php:798
+msgid "Manage Subscriptions"
+msgstr "مدیریت اشتراک ها"
+
+#: includes/admin/admin.php:799
+msgid "Your users can manage all of their subscriptions in one convenient location."
+msgstr "کاربران شما میتوانند تمام مشارکت هایشان را در یک مکان مناسب مدیریت کنند."
+
+#: includes/admin/admin.php:805
+msgid "Converters"
+msgstr "مبدل ها"
+
+#: includes/admin/admin.php:809
+msgid "We&#8217;re all abuzz about the hive of new importers, AEF, Drupal, FluxBB, Kunena Forums for Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, Xenforo and XMB. Existing importers are now sweeter than honey with improved importing stickies, topic tags, forum categories and the sting is now gone if you need to remove imported users."
+msgstr ""
+"در حال حاضر از انبوهی از موارد نظیر AEF, Drupal, FluxBB, Kunena Forums for Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, Xenforo and XMB. پشتیبانی می نماییم.\n"
+"قابلیتهای متنوعی برای وارد کردن اطلاعات انجمن ها موجود می باشد."
+
+#: includes/admin/admin.php:820
+msgid "Polyglot support"
+msgstr "پشتیبانی از چند زبان"
+
+#: includes/admin/admin.php:821
+msgid "bbPress fully supports automatic translation updates."
+msgstr "بی بی پرس به طور کامل از بروزرسانی خودکار برگردان (ترجمه) ها پشتیبانی می نماید."
+
+#: includes/admin/admin.php:825
+msgid "User capabilities"
+msgstr "قابلیت های کاربر"
+
+#: includes/admin/admin.php:826
+msgid "Roles and capabilities have been swept through, cleaned up, and simplified."
+msgstr "نقش ها و قابلیت ها دور ریخته شده، پاک شده و ساده گشته اند."
+
+#: includes/admin/admin.php:877
+msgid "Lead Developer"
+msgstr "رهبر و توسعه دهنده"
+
+#: includes/admin/admin.php:872
+msgid "Founding Developer"
+msgstr "بنیانگذار و توسعه دهنده"
+
+#: includes/admin/admin.php:630
+msgctxt "admin color scheme"
+msgid "Mint"
+msgstr "نعنایی"
+
+#: includes/admin/admin.php:198 includes/admin/functions.php:273
+#: includes/admin/tools.php:34
+msgid "Repair Forums"
+msgstr "تعمیر انجمن ها"
+
+#: includes/admin/admin.php:891
+msgid "Contributing Developers"
+msgstr "توسعه دهندگان مشارکت کننده"
+
+#: includes/admin/admin.php:199
+msgid "Forum Repair"
+msgstr "تعمیر انجمن"
+
+#: includes/admin/admin.php:209
+msgid "Forum Import"
+msgstr "درون ریزی انجمن"
+
+#: includes/admin/admin.php:882 includes/admin/admin.php:901
+msgid "Feature Developer"
+msgstr "ویژه توسعه دهنده"

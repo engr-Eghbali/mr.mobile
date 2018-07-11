@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Taqyeem Addon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-02 09:53+0300\n"
+"PO-Revision-Date: 2017-06-22 13:52+0430\n"
+"Last-Translator: Fouad Badawy <support@tielabs.com>\n"
+"Language-Team: محمد قاسمی <info@tielabs.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../taqyeem-buttons.php:28
+msgid ""
+"&quot;Taqyeem Predefined Criteria&quot; plugin is an extension for and "
+"requires  <a href=\"http://codecanyon.net/item/taqyeem-wordpress-review-"
+"plugin/4558799?ref=tielabs\">Taqyeem Plugin</a>"
+msgstr ""
+
+#: ../taqyeem-buttons.php:33
+msgid ""
+"&quot;Taqyeem Predefined Criteria&quot; plugin requires <a href=\"http://"
+"codecanyon.net/item/taqyeem-wordpress-review-plugin/4558799?ref=tielabs"
+"\">Taqyeem Plugin</a> Version 2.1 or above."
+msgstr ""
+
+#: ../taqyeem-buttons.php:95 ../taqyeem-buttons.php:106
+msgid "Buttons Settings"
+msgstr "تنظیمات دکمه ها"
+
+#: ../taqyeem-buttons.php:108
+msgid "FontAwesome Icons"
+msgstr ""
+
+#: ../taqyeem-buttons.php:111
+msgid "Don't include the FontAwesome icon set files"
+msgstr ""
+
+#: ../taqyeem-buttons.php:115
+msgid "Enable this option if your theme already includes it."
+msgstr ""
+
+#: ../taqyeem-buttons.php:128
+msgid "Download"
+msgstr "دانلود"
+
+#: ../taqyeem-buttons.php:133
+msgid "Learn More"
+msgstr "بیشتر بخوانید"
+
+#: ../taqyeem-buttons.php:138
+msgid "Warning"
+msgstr "هشدار"
+
+#: ../taqyeem-buttons.php:143
+msgid "Like"
+msgstr "لایک"
+
+#: ../taqyeem-buttons.php:148
+msgid "Follow"
+msgstr "دنبال کردن"
+
+#: ../taqyeem-buttons.php:153
+msgid "Danger"
+msgstr "خطر"
+
+#: ../taqyeem-buttons.php:158
+msgid "Contact"
+msgstr "تماس"
+
+#: ../taqyeem-buttons.php:163
+msgid "Shop Now"
+msgstr "فروشگاه"
+
+#: ../taqyeem-buttons.php:168
+msgid "View Now"
+msgstr "مشاهده"
+
+#: ../taqyeem-buttons.php:241
+msgid "Button Preview"
+msgstr "پیش نمایش دکمه"
+
+#: ../taqyeem-buttons.php:256
+msgid "Add Button?"
+msgstr "افزودن دکمه؟"
+
+#: ../taqyeem-buttons.php:267
+msgid "Predefined Buttons"
+msgstr ""
+
+#: ../taqyeem-buttons.php:284
+msgid "Button text"
+msgstr "متن دکمه"
+
+#: ../taqyeem-buttons.php:289
+msgid "Button URL"
+msgstr "آدرس اینترنتی دکمه"
+
+#: ../taqyeem-buttons.php:294
+msgid "Open links in a new window ?"
+msgstr "بازشدن در صفحه جدید؟"
+
+#: ../taqyeem-buttons.php:299
+msgid "Nofollow?"
+msgstr ""
+
+#: ../taqyeem-buttons.php:304
+msgid "Button Size"
+msgstr "اندازه دکمه"
+
+#: ../taqyeem-buttons.php:307
+msgid "Medium"
+msgstr "متوسط"
+
+#: ../taqyeem-buttons.php:307
+msgid "Small"
+msgstr "کوچک"
+
+#: ../taqyeem-buttons.php:307
+msgid "Large"
+msgstr "بزرگ"
+
+#: ../taqyeem-buttons.php:310
+msgid "Button Shape"
+msgstr "شکل دکمه"
+
+#: ../taqyeem-buttons.php:313
+msgid "Square"
+msgstr ""
+
+#: ../taqyeem-buttons.php:313
+msgid "Round"
+msgstr "گرد"
+
+#: ../taqyeem-buttons.php:313
+msgid "Pill"
+msgstr ""
+
+#: ../taqyeem-buttons.php:316
+msgid "Button Type"
+msgstr "نوع دکمه"
+
+#: ../taqyeem-buttons.php:319
+msgid "Flat"
+msgstr "فلت"
+
+#: ../taqyeem-buttons.php:319
+msgid "Gradient"
+msgstr "گرادیان"
+
+#: ../taqyeem-buttons.php:323
+msgid "Button Color"
+msgstr "رنگ دکمه "
+
+#: ../taqyeem-buttons.php:349
+msgid "Button Icon"
+msgstr "آیکن دکمه"

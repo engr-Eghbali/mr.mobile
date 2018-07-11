@@ -1,0 +1,342 @@
+.dark-skin{
+	background-color: $darker-bg;
+	color: $dark-base-color;
+
+	textarea,
+	input:not([type="submit"]),
+	select{
+		color: $dark-base-color;
+	}
+
+	a:not(:hover),
+	.single-big-img .post-meta,
+	.single-big-img .post-meta a:not(:hover),
+	.pages-nav .next-prev a:not(:hover),
+	.pages-nav .pages-numbers a:not(:hover),
+	.page-title,
+	.entry h1,
+	.entry h2,
+	.entry h3,
+	.entry h4,
+	.entry h5,
+	.entry h6{
+		color: #ffffff;
+	}
+
+	.post-meta,
+	.post-meta a:not(:hover),
+	.timeline-widget ul li .date,
+	#check-also-close:hover,
+	.multiple-post-pages a:not(:hover),
+	.video-playlist-nav-wrapper .video-playlist-item .video-duration,
+	.login-widget .forget-text:not(:hover),
+	.autocomplete-suggestions,
+	#mobile-menu-icon:not(:hover) .menu-text,
+	.about-author .social-icons li.social-icons-item a:not(:hover) span{
+		color: $dark-base-color;
+	}
+
+	@include breakpoint_min(1600px){
+		#story-index li a:not(.is-current){
+			color: $dark-base-color;
+		}
+
+		#story-index ul{
+			background-color: $dark-bg;
+		}
+	}
+
+	textarea,
+	input:not([type=submit]),
+	select,
+	code, kbd, pre, samp,
+	.latest-tweets-slider-widget .latest-tweets-slider .slider-nav li a:not(:hover),
+	.show-more-button,
+	.pages-nav .next-prev a,
+	.pages-nav .next-prev span.pages-nav-item,
+	.pages-nav .pages-numbers a,
+	.pages-nav .pages-numbers span.pages-nav-item,
+	.pages-nav .next-prev .first-last-pages .fa,
+	.pages-nav .pages-numbers .first-last-pages .fa,
+	.multiple-post-pages span,
+	.latest-tweets-widget .slider-links .slider-nav span{
+		border-color: $base-border-color-in-white;
+	}
+
+	#tie-wrapper,
+	#theme-header{
+		background-color: $dark-bg;
+	}
+
+	&.one-column-no-sidebar{
+		.entry-header-outer{
+			border-bottom: $base-border-in-white;
+		}
+	}
+
+	.subscribe-widget .subscribe-widget-content h4:after,
+	.boxed-slider-three-slides-wrapper li:not(.slick-active) button:not(:hover),
+	.boxed-four-taller-slider li:not(.slick-active) button:not(:hover),
+	.boxed-five-slides-slider li:not(.slick-active) button:not(:hover){
+		background-color: $base-border-color-in-white;
+	}
+
+	.slider-nav span{
+		background: $darker-bg;
+	}
+
+	// Boxed Layout -------------------
+
+	&.boxed-layout.wrapper-has-shadow {
+		#tie-wrapper {
+			box-shadow: 0 1px 10px rgba(0,0,0, 0.3);
+		}
+	}
+
+	//Widgets -------------------------
+
+	.container-wrapper{
+		background-color: $darker-bg;
+		border-color: $base-border-color-in-white;
+	}
+
+	.tie-popup-container .container-wrapper{
+		background-color: $darker-bg !important;
+	}
+
+	.widget a:not(:hover),
+	.widget-title,
+	.widget-title a:not(:hover){
+		color: #ffffff;
+	}
+
+	.widget-title-icon {
+		color: $dark-base-color;
+	}
+
+	// tags/cats cloud
+	.widget_product_tag_cloud,
+	.widget_tag_cloud .tagcloud,
+	.post-tags,
+	.widget_layered_nav_filters{
+		a {
+			border-color: $base-border-color-in-white;
+		}
+	}
+
+	// timeline
+	.timeline-widget {
+		ul:before{
+			background: rgba(0,0,0,0.3);
+		}
+
+		.date:before {
+			background: $dark-bg;
+			border-color: rgba(0,0,0,0.3);
+		}
+	}
+
+	// tabs
+	.woocommerce-tabs ul.tabs li,
+	.tabs-menu li{
+		a{
+			background: rgba(0,0,0,0.1);
+			border-color: $base-border-color-in-white;
+		}
+	}
+
+	.tabs-menu li.is-active a{
+		background: transparent;
+	}
+
+	.woocommerce-tabs ul.tabs li.active a{
+		background-color: $darker-bg;
+	}
+
+	//Calendar
+	#wp-calendar tbody td{
+		background-color: rgba(0,0,0,0.1);
+	}
+
+	//NewsLetter
+	.subscribe-widget{
+		.subscribe-widget-content {
+			h3{
+				color: #ffffff;
+			}
+		}
+
+		.fa-envelope,
+		form:before{
+			color: rgba(255,255,255,0.3);
+		}
+	}
+
+	&.magazine1 .entry-header-outer + .mag-box{
+		border-top: 1px solid $base-border-color-in-white;
+	}
+
+	&.post-layout-8 #content{
+		background-color: $darker-bg;
+	}
+
+	// instagram
+
+	.tie-instagram.lite-skin,
+	.tie-instagram.default-skin{
+		background-color: #ffffff;
+
+		a{
+			color: $base-color;
+		}
+	}
+
+
+	//Magazine 2 ----------------------
+	// &.magazine2 .main-content-row:not(.one-column-no-sidebar) {
+	// 	background: $darker-bg;
+	// }
+
+	// &.magazine2.post-layout-8 .main-content-row:not(.one-column-no-sidebar) {
+	// 	background-color: transparent;
+	// }
+
+	// &.magazine2 .main-content-row:not(.one-column-no-sidebar) {
+	// 	.main-content:after,
+	// 	.sidebar:after {
+	// 		background: #323639;
+	// 	}
+	// }
+
+	// &.magazine2{
+	// 	.entry-header,
+	// 	.main-content,
+	// 	.main-content .container-wrapper,
+	// 	.sidebar .container-wrapper,
+	// 	.widget-content-only,
+	// 	.main-content .half-box:after,
+	// 	.main-content .half-box.second-half-box:after,
+	// 	.main-content .half-box-clearfix{
+	// 		border-color: $base-border-color-in-white;
+	// 	}
+	// }
+
+	// Magazine 3 ---------------------
+
+	// &.magazine3{
+	// 	&.archive{
+	// 		.entry-header-outer{
+	// 			padding-bottom: 30px;
+	// 			border-color: #323639;
+	// 		}
+	// 	}
+
+	// 	.container-wrapper,
+	// 	.mag-box.mag-box .container-wrapper,
+	// 	.one-column-no-sidebar .main-content,
+	// 	.box-dark-skin.mag-box .container-wrapper,
+	// 	.post-footer{
+	// 		background: transparent;
+	// 		padding: 0;
+	// 	}
+
+	// 	.about-author{
+	// 		border-width: 0 0 1px !important;
+	// 		padding-bottom: 30px;
+	// 	}
+
+	// 	article.container-wrapper{
+	// 		border-color: $base-border-color-in-white;
+	// 	}
+
+	// 	/*Woocommerce*/
+	// 	&.woocommerce{
+	// 		.woocommerce-tabs ul.tabs {
+	// 			li.active a {
+	// 				background: $dark-bg;
+	// 			}
+	// 		}
+	// 	}
+	// }
+
+	// Post Elements ------------------
+	@include breakpoint(max_min_md){
+		&.post-has-toggle{
+			#the-post .entry{
+				&:not(.is-expanded):before {
+					background-image: linear-gradient(to bottom, rgba(0,0,0,0) 50%, $darker-bg 100%);
+				}
+			}
+		}
+	}
+
+	.sticky{
+	  background: #1c1c1d;
+	  padding: 10px;
+	}
+
+	.entry-header .entry-title {
+		color: #ffffff;
+	}
+
+	.post-footer {
+		background: $darker-bg;
+		border-color: $base-border-color-in-white;
+	}
+
+	.post-footer-inner,
+	.post-footer.post-footer-on-top .post-footer-inner,
+	.comment-list li,
+	.commentlist li,
+	.entry table *,
+	.woocommerce table.shop_table tfoot *{
+		border-color: $base-border-color-in-white;
+	}
+
+	.comment-list,
+	.commentlist{
+		.comment-author img {
+			box-shadow: 0 0 8px #000;
+			border-color: $base-border-color-in-white;
+		}
+	}
+
+
+	// ShortCodes ---------------------
+
+	.post-content-slideshow,
+	.post-content-slideshow .slider-nav-wrapper,
+	.post-content-slideshow .slider-nav li span,
+	.divider,
+	.toggle,
+	// &.magazine2.woocommerce .main-content .woocommerce-tabs,
+	.tabs-wrapper.tabs-vertical:after,
+	.tabs-wrapper.tabs-vertical .tabs-menu li a{
+		border-color: $base-border-color-in-white;
+	}
+
+	.tabs-wrapper.tabs-vertical .tabs-menu li.is-active a{
+		background-color: $darker-bg;
+	}
+
+	// &.magazine3{
+	// 	.tabs-wrapper.tabs-vertical .tabs-menu li.is-active a{
+	// 		background-color: $dark-bg;
+	// 	}
+	// }
+
+	.entry .tabs-wrapper.container-wrapper{
+		border: $base-border-in-white! important;
+	}
+
+	// General Elements ---------------
+
+	#check-also-box{
+		border-color: $base-border-color-in-white;
+		background-color: $darker-bg;
+	}
+
+	#footer{
+		background-color: #1c1d21;
+	}
+}

@@ -1,6 +1,12 @@
+@font-face {
+  font-family: 'normal';
+  src: url('./Vazir-Bold.woff');
+  font-weight: normal;
+  font-style: normal;
+}
 body {
   background: teal;
-  font: 300 18px/18px Roboto;
+  font: 300 18px/18px normal;
   margin:0 !important;
 }
 
@@ -63,7 +69,7 @@ body {
 }
 
 .mobile .header>.title {
-  font-size: 16px;
+  font-size: 3vh;
   line-height: 24px;
   margin-left: 15px
 }
@@ -85,8 +91,8 @@ body {
 }
 
 .mobile .header .ion-ios-navicon>i {
-  height: 1px;
-  width: 20px;
+  height: 2px;
+  width: 30px;
   margin-top: 5px;
   background: #fff;
   position: relative;
@@ -150,7 +156,8 @@ body {
   position: fixed;
   line-height: 45px;
   border-radius: 50%;
-  box-shadow: 0 0 5px 0 rgba(0, 0, 0, .75)
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, .75);
+  font-family:'roboto';
 }
 
 .mask {
@@ -159,10 +166,12 @@ body {
   width: inherit;
   height: inherit;
   cursor: pointer;
-  font-size: 28px;
+  font-size: 4vh;
   text-align: center;
   border-radius: 50%;
   position: absolute;
+  padding-top: 16%;
+  padding-bottom: 25%;
   background: #f23363;
   transition: all .1s ease-in-out 0s
 }
@@ -936,4 +945,84 @@ body {
   margin-top: 10px;
   line-height: 22px;
   text-align: center
+}
+.sidebar-content{
+  overflow-y: scroll;
+}
+#shopSearch{
+  width: 100vh;
+  height: fit-content;
+  margin-top: 0;
+  position: fixed;
+}
+#searchInput{
+  margin-left: 14vh;
+  height: 6vh;
+  border: 2px solid #cf0e3f;
+  width: 25vh;
+  border-radius: 8px;
+  direction: rtl;
+  padding-right: 1vh;
+  outline: none;
+
+}
+#searchBTN{
+  width: 12vh;
+  height: 6vh;
+  border: 1px solid black;
+  background-color: #cf0e3f;
+  border-radius: 10px;
+  font-size: 4vh;
+  color: white;
+  outline: none;
+  position: fixed;
+  margin-left: 0vh
+}
+
+
+.container {
+  width: 200px;
+  height: 100%;
+  margin: 0 auto 0;
+}
+
+.pulse-button {
+
+  position: relative;
+  width: 10vh;
+  height: 10vh;
+  border: 2px solid rgba(84, 202, 218, 1);
+  box-shadow: 0 0 0 0 rgba(84, 202, 218, 0.8);
+  border-radius: 50%;
+  background-color: #fff;
+  background-image: url("../img/tile.png");
+  background-size:70%;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  -webkit-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+  -moz-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+  -ms-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+  animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+}
+.pulse-button:hover 
+{
+  -webkit-animation: none;-moz-animation: none;-ms-animation: none;animation: none;
+}
+
+@-webkit-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);}}
+@-moz-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);}}
+@-ms-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);}}
+@keyframes pulse {to {box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);}}
+
+
+#pulse{
+  position: fixed;
+  bottom: 6vh;
+  left: 6vh;
+
+}
+
+#header{
+  width: 38vh;
 }

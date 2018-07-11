@@ -1,0 +1,122 @@
+@import "../utils/mixins";
+@import "../utils/variables";
+
+/* IE10 and Less ------------------------------ */
+// .ie-lt-11{
+  textarea,
+  input,
+  select{
+    line-height: 16px;
+  }
+
+  input[type=text]::-ms-clear {
+      display: none;
+  }
+
+  // Top Nav
+  #top-nav{
+    &.has-breaking-news{
+      .tie-alignleft{
+        width: 100%;
+      }
+    }
+
+    &.has-date-breaking-components,
+    &.has-date-breaking-menu,
+    &.has-breaking-menu,
+    &.has-breaking-components{
+      .tie-alignleft{
+        width: 50%;
+      }
+    }
+
+    .ticker-wrapper.has-js{
+      width: auto;
+    }
+  }
+
+  // Main Nav
+  .menu-tiny-label{
+    vertical-align: baseline;
+    line-height: 20px;
+  }
+
+  .half-box .mag-box-filter-links{
+    max-width: 120px;
+  }
+
+  // Magazine Blocks
+  .mag-box-filter-links{
+    max-width: 250px;
+
+    @include breakpoint_max(670px){
+      max-width: 135px;
+    }
+  }
+
+  .rtl .mag-box .mag-box-options .mag-box-filter-links{
+    float: right;
+  }
+
+  .tabs-box .tabs-widget .tabs-wrapper .tabs-menu li.flexMenu-viewMore a{
+    border-width: 0 1px 1px 0 !important;
+
+    .rtl &{
+      border-width: 0 0 1px 1px !important;
+    }
+  }
+
+  .tabs-box .tabs-widget .tabs-wrapper .tabs-menu .flexMenu-popup li:last-child a{
+      border-bottom-width: 0 !important;
+  }
+
+  // css arrow with border in rtl
+  .rtl {
+    .breaking-title:after,
+    .widget-title:before,
+    .mag-box-title:before,
+    #comments-title:before,
+    .comment-reply-title:before,
+    .woocommerce-tabs .panel h2:before,
+    .related.products h2:before,
+    #bbpress-forums #new-post > fieldset.bbp-form > legend:before,
+    .review-box-header:before,
+    #theme-header .menu li.menu-item-has-children .menu-item-has-children > a:before,
+    #theme-header .main-menu .mega-menu .menu-item-has-children > a:before {
+        direction: ltr;
+    }
+  }
+
+  // Widgets
+  input[type="text"],
+  input[type="search"],
+  input[type="password"],
+  .search-submit,
+  .search-field,
+  .subscribe-widget .subscribe-input{
+    line-height: 35px;
+    height: 35px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .subscribe-widget .subscribe-input{
+    height: 44px;
+  }
+
+  .review-box .review-summary,
+  .review-box .review-short-summary{
+    display: block;
+  }
+
+  @include breakpoint_min(321px){
+    .normal-side .tabs-container-wrapper .tabs-menu li{
+      width: calc((100% /3) - 0.5px);
+    }
+  }
+
+  // flexmenu fix
+  .main-content .tabs-box .tabs-widget .tabs-wrapper .tabs-menu{
+    display: block;
+  }
+// }

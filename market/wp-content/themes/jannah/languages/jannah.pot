@@ -1,0 +1,5581 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jannah\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-15 21:40+0400\n"
+"PO-Revision-Date: 2016-06-19 14:44+0200\n"
+"Last-Translator: Fouad Badawy <support@tielabs.com>\n"
+"Language-Team: TieLabs <info@tielabs.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__;esc_attr__;esc_html__;"
+"esc_html_e;_n:1,2;_n_noop:1,2;_nx:1,2;_nx_noop:1,2;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: framework/admin/inc/tgm\n"
+"X-Poedit-SearchPathExcluded-1: framework/admin/assets\n"
+"X-Poedit-SearchPathExcluded-2: js\n"
+"X-Poedit-SearchPathExcluded-3: framework/admin/inc/one-click-demo-import\n"
+
+#. translators: %s: post title
+#: comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/admin/category-options.php:43
+#: framework/admin/category-options/category-layout.php:7
+msgid "Category Layout"
+msgstr ""
+
+#: framework/admin/category-options.php:48
+msgid "Posts Layout"
+msgstr ""
+
+#: framework/admin/category-options.php:53
+#: framework/admin/post-options/general.php:218 framework/widgets/slider.php:13
+msgid "Slider"
+msgstr ""
+
+#: framework/admin/category-options.php:58 framework/admin/posts-options.php:76
+#: framework/admin/theme-options.php:209
+#: framework/admin/theme-options/amp.php:35
+#: framework/admin/theme-options/logo.php:11
+msgid "Logo"
+msgstr ""
+
+#: framework/admin/category-options.php:63 framework/admin/page-builder.php:382
+#: framework/admin/posts-options.php:81
+#: framework/headers/header-components.php:41
+msgid "Sidebar"
+msgstr ""
+
+#: framework/admin/category-options.php:68 framework/admin/page-builder.php:144
+#: framework/admin/theme-options.php:245
+#: framework/admin/theme-options/amp.php:142
+msgid "Styling"
+msgstr ""
+
+#: framework/admin/category-options.php:72 framework/admin/posts-options.php:91
+msgid "Main Menu"
+msgstr ""
+
+#: framework/admin/category-options.php:80
+msgid "Category Options"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:18
+#: framework/admin/category-options/category-layout.php:43
+#: framework/admin/category-options/category-layout.php:71
+#: framework/admin/category-options/layout.php:23
+#: framework/admin/category-options/layout.php:50
+#: framework/admin/category-options/layout.php:87
+#: framework/admin/category-options/layout.php:99
+#: framework/admin/category-options/layout.php:111
+#: framework/admin/category-options/sidebar.php:18
+#: framework/admin/category-options/sidebar.php:32
+#: framework/admin/framework-admin.php:506
+#: framework/admin/framework-options.php:477
+#: framework/admin/framework-options.php:488
+#: framework/admin/framework-options.php:499
+#: framework/admin/framework-options.php:516
+#: framework/admin/page-builder.php:196
+#: framework/admin/post-options/components.php:17
+#: framework/admin/post-options/components.php:28
+#: framework/admin/post-options/components.php:39
+#: framework/admin/post-options/components.php:50
+#: framework/admin/post-options/components.php:61
+#: framework/admin/post-options/components.php:72
+#: framework/admin/post-options/components.php:83
+#: framework/admin/post-options/components.php:94
+#: framework/admin/post-options/components.php:106
+#: framework/admin/post-options/components.php:117
+#: framework/admin/post-options/general.php:83
+#: framework/admin/post-options/general.php:229
+#: framework/admin/post-options/general.php:241
+#: framework/admin/post-options/general.php:253
+#: framework/admin/post-options/layout.php:15
+#: framework/admin/post-options/layout.php:42
+#: framework/admin/post-options/layout.php:68
+#: framework/admin/post-options/sidebar.php:28
+#: framework/admin/post-options/sidebar.php:41
+#: framework/admin/theme-options/bbpress.php:20
+#: framework/admin/theme-options/header.php:571
+#: framework/admin/theme-options/header.php:629
+#: framework/admin/theme-options/header.php:715
+#: framework/admin/theme-options/styling.php:68
+#: framework/admin/theme-options/woocommerce.php:40
+#: framework/admin/theme-options/woocommerce.php:57
+msgid "Default"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/category-options/category-layout.php:19
+#: framework/admin/demo-importer.php:1537
+#: framework/admin/theme-options/archives.php:22
+#: framework/admin/theme-options/archives.php:66
+#: framework/admin/theme-options/archives.php:117
+#: framework/admin/theme-options/archives.php:168
+#: framework/admin/theme-options/archives.php:219
+msgid "Classic"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:20
+#: framework/admin/theme-options/archives.php:23
+#: framework/admin/theme-options/archives.php:67
+#: framework/admin/theme-options/archives.php:118
+#: framework/admin/theme-options/archives.php:169
+#: framework/admin/theme-options/archives.php:220
+msgid "Large Thumbnail"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/category-options/category-layout.php:21
+#: framework/admin/demo-importer.php:1535
+#: framework/admin/theme-options/archives.php:24
+#: framework/admin/theme-options/archives.php:68
+#: framework/admin/theme-options/archives.php:119
+#: framework/admin/theme-options/archives.php:170
+#: framework/admin/theme-options/archives.php:221
+msgid "Content"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/category-options/category-layout.php:22
+#: framework/admin/demo-importer.php:1533
+#: framework/admin/theme-options/archives.php:25
+#: framework/admin/theme-options/archives.php:69
+#: framework/admin/theme-options/archives.php:120
+#: framework/admin/theme-options/archives.php:171
+#: framework/admin/theme-options/archives.php:222
+msgid "Timeline"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:23
+#: framework/admin/category-options/category-layout.php:24
+#: framework/admin/category-options/category-layout.php:25
+#: framework/admin/post-options/general.php:21
+#: framework/admin/post-options/general.php:22
+#: framework/admin/post-options/general.php:23
+#: framework/admin/theme-options/archives.php:26
+#: framework/admin/theme-options/archives.php:27
+#: framework/admin/theme-options/archives.php:28
+#: framework/admin/theme-options/archives.php:70
+#: framework/admin/theme-options/archives.php:71
+#: framework/admin/theme-options/archives.php:72
+#: framework/admin/theme-options/archives.php:121
+#: framework/admin/theme-options/archives.php:122
+#: framework/admin/theme-options/archives.php:123
+#: framework/admin/theme-options/archives.php:172
+#: framework/admin/theme-options/archives.php:173
+#: framework/admin/theme-options/archives.php:174
+#: framework/admin/theme-options/archives.php:223
+#: framework/admin/theme-options/archives.php:224
+#: framework/admin/theme-options/archives.php:225
+msgid "Masonry"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:30
+#: framework/admin/theme-options/archives.php:33
+#: framework/admin/theme-options/archives.php:77
+#: framework/admin/theme-options/archives.php:128
+#: framework/admin/theme-options/archives.php:179
+#: framework/admin/theme-options/archives.php:230
+msgid "Excerpt Length"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:38
+#: framework/admin/page-builder.php:800
+#: framework/admin/post-options/general.php:79
+#: framework/admin/theme-options/archives.php:41
+#: framework/admin/theme-options/archives.php:92
+#: framework/admin/theme-options/archives.php:143
+#: framework/admin/theme-options/archives.php:194
+#: framework/admin/theme-options/archives.php:238
+msgid "Pagination"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:44
+#: framework/admin/post-options/general.php:84
+#: framework/admin/theme-options/archives.php:45
+#: framework/admin/theme-options/archives.php:96
+#: framework/admin/theme-options/archives.php:147
+#: framework/admin/theme-options/archives.php:198
+#: framework/admin/theme-options/archives.php:242
+msgid "Next and Previous"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:45
+#: framework/admin/page-builder.php:806
+#: framework/admin/post-options/general.php:85
+#: framework/admin/theme-options/archives.php:46
+#: framework/admin/theme-options/archives.php:97
+#: framework/admin/theme-options/archives.php:148
+#: framework/admin/theme-options/archives.php:199
+#: framework/admin/theme-options/archives.php:243
+msgid "Numeric"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:46
+#: framework/admin/page-builder.php:809
+#: framework/admin/post-options/general.php:86
+#: framework/admin/theme-options/archives.php:47
+#: framework/admin/theme-options/archives.php:98
+#: framework/admin/theme-options/archives.php:149
+#: framework/admin/theme-options/archives.php:200
+#: framework/admin/theme-options/archives.php:244
+#: framework/functions/translations.php:109
+msgid "Load More"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:47
+#: framework/admin/post-options/general.php:87
+#: framework/admin/theme-options/archives.php:48
+#: framework/admin/theme-options/archives.php:99
+#: framework/admin/theme-options/archives.php:150
+#: framework/admin/theme-options/archives.php:201
+#: framework/admin/theme-options/archives.php:245
+msgid "Infinite Scroll"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:52
+#: framework/admin/category-options/main-slider.php:106
+#: framework/admin/page-builder.php:1190 framework/functions/mega-menus.php:505
+#: framework/widgets/posts.php:192
+msgid "Media Icon Overlay"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:60
+#: framework/admin/post-options/layout.php:5
+msgid "Page Layout"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:72
+#: framework/admin/post-options/layout.php:16
+#: framework/admin/theme-options/layout.php:37
+msgid "Full-Width"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:73
+#: framework/admin/post-options/layout.php:17
+#: framework/admin/theme-options/layout.php:38
+msgid "Boxed"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:74
+#: framework/admin/post-options/layout.php:18
+#: framework/admin/theme-options/layout.php:39
+msgid "Framed"
+msgstr ""
+
+#: framework/admin/category-options/category-layout.php:75
+#: framework/admin/post-options/layout.php:19
+#: framework/admin/theme-options/layout.php:40
+msgid "Bordered"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:7
+#: framework/admin/post-options/layout.php:27
+msgid "Post Layout"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:24
+#: framework/admin/category-options/layout.php:25
+#: framework/admin/category-options/layout.php:26
+#: framework/admin/category-options/layout.php:27
+#: framework/admin/category-options/layout.php:28
+#: framework/admin/category-options/layout.php:29
+#: framework/admin/category-options/layout.php:30
+#: framework/admin/category-options/layout.php:31
+#: framework/admin/post-options/layout.php:43
+#: framework/admin/post-options/layout.php:44
+#: framework/admin/post-options/layout.php:45
+#: framework/admin/post-options/layout.php:46
+#: framework/admin/post-options/layout.php:47
+#: framework/admin/post-options/layout.php:48
+#: framework/admin/post-options/layout.php:49
+#: framework/admin/post-options/layout.php:50
+#: framework/admin/posts-options.php:71 framework/admin/theme-options.php:201
+#: framework/admin/theme-options/header.php:267
+#: framework/admin/theme-options/header.php:268
+#: framework/admin/theme-options/header.php:269
+#: framework/admin/theme-options/layout.php:5
+#: framework/admin/theme-options/posts.php:26
+#: framework/admin/theme-options/posts.php:27
+#: framework/admin/theme-options/posts.php:28
+#: framework/admin/theme-options/posts.php:29
+#: framework/admin/theme-options/posts.php:30
+#: framework/admin/theme-options/posts.php:31
+#: framework/admin/theme-options/posts.php:32
+#: framework/admin/theme-options/posts.php:33
+msgid "Layout"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:36
+#: framework/admin/post-options/layout.php:55
+msgid "Featured area background"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:44
+#: framework/admin/post-options/layout.php:63
+#: framework/admin/theme-options/posts.php:38
+msgid "Use the featured image"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:51
+#: framework/admin/category-options/layout.php:88
+#: framework/admin/category-options/layout.php:100
+#: framework/admin/category-options/layout.php:112
+#: framework/admin/category-options/sidebar.php:33
+#: framework/admin/post-options/general.php:230
+#: framework/admin/post-options/general.php:242
+#: framework/admin/post-options/general.php:254
+#: framework/admin/post-options/layout.php:69
+#: framework/admin/post-options/sidebar.php:42
+msgid "Yes"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:52
+#: framework/admin/category-options/layout.php:89
+#: framework/admin/category-options/layout.php:101
+#: framework/admin/category-options/layout.php:113
+#: framework/admin/category-options/sidebar.php:34
+#: framework/admin/post-options/general.php:231
+#: framework/admin/post-options/general.php:243
+#: framework/admin/post-options/general.php:255
+#: framework/admin/post-options/layout.php:70
+#: framework/admin/post-options/sidebar.php:43
+msgid "No"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:57
+#: framework/admin/post-options/layout.php:75
+#: framework/admin/theme-options/posts.php:46
+msgid "Upload Custom Image"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:61
+#: framework/admin/page-builder.php:820
+#: framework/admin/post-options/general.php:270
+#: framework/admin/post-options/general.php:279
+#: framework/admin/post-options/general.php:313
+#: framework/admin/post-options/general.php:402
+#: framework/admin/post-options/layout.php:78
+#: framework/admin/theme-options/e3lan.php:128
+#: framework/admin/theme-options/e3lan.php:141
+#: framework/admin/theme-options/posts.php:49
+#: framework/admin/theme-options/posts.php:268 framework/widgets/ads.php:137
+#: framework/widgets/ads.php:281 framework/widgets/newsletter.php:141
+#: framework/widgets/slider.php:227 framework/widgets/video.php:81
+msgid "- OR -"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:67
+#: framework/admin/category-options/main-slider.php:191
+#: framework/admin/category-options/styles.php:33
+#: framework/admin/page-builder.php:270
+#: framework/admin/post-options/layout.php:84
+#: framework/admin/post-options/styles.php:49
+#: framework/admin/theme-options/amp.php:148
+#: framework/admin/theme-options/background.php:23
+#: framework/admin/theme-options/posts.php:55
+#: framework/admin/theme-options/styling.php:423
+#: framework/admin/theme-options/styling.php:473
+#: framework/admin/theme-options/styling.php:501
+#: framework/admin/theme-options/styling.php:566
+#: framework/admin/theme-options/styling.php:602
+#: framework/admin/theme-options/styling.php:683
+#: framework/admin/theme-options/styling.php:769
+#: framework/widgets/weather.php:147
+msgid "Background Color"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:76
+msgid "Post Format Settings"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:82
+#: framework/admin/theme-options/posts.php:95
+msgid "Standard Post Format:"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:82
+#: framework/admin/post-options/general.php:224
+#: framework/admin/theme-options/posts.php:95
+msgid "Show the featured image"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:94
+#: framework/admin/category-options/layout.php:106
+#: framework/admin/theme-options/posts.php:102
+#: framework/admin/theme-options/posts.php:109
+msgid "Image Post Format:"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:94
+#: framework/admin/post-options/general.php:28
+#: framework/admin/post-options/general.php:236
+#: framework/admin/theme-options/posts.php:102
+msgid "Uncropped featured image"
+msgstr ""
+
+#: framework/admin/category-options/layout.php:106
+#: framework/admin/post-options/general.php:248
+#: framework/admin/theme-options/posts.php:109
+msgid "Featured image lightbox"
+msgstr ""
+
+#: framework/admin/category-options/logo.php:7
+#: framework/admin/category-options/logo.php:13
+#: framework/admin/post-options/logo.php:5
+#: framework/admin/post-options/logo.php:11
+msgid "Custom Logo"
+msgstr ""
+
+#: framework/admin/category-options/logo.php:24
+#: framework/admin/post-options/logo.php:21
+#: framework/admin/theme-options/logo.php:5
+#: framework/admin/theme-options/logo.php:17
+msgid "Logo Settings"
+msgstr ""
+
+#: framework/admin/category-options/logo.php:32
+#: framework/admin/category-options/styles.php:60
+#: framework/admin/post-options/general.php:215
+#: framework/admin/post-options/logo.php:28
+#: framework/admin/post-options/styles.php:73
+#: framework/admin/theme-options/background.php:47
+#: framework/admin/theme-options/logo.php:24
+#: framework/admin/theme-options/styling.php:764
+msgid "Image"
+msgstr ""
+
+#: framework/admin/category-options/logo.php:33
+#: framework/admin/post-options/logo.php:29
+#: framework/admin/theme-options/logo.php:25
+msgid "Site Title"
+msgstr ""
+
+#: framework/admin/category-options/logo.php:38
+#: framework/admin/post-options/logo.php:34
+#: framework/admin/theme-options/logo.php:30
+msgid "Logo Text"
+msgstr ""
+
+#: framework/admin/category-options/logo.php:47
+#: framework/admin/post-options/logo.php:42
+#: framework/admin/theme-options/amp.php:41
+#: framework/admin/theme-options/logo.php:39
+msgid "Logo Image"
+msgstr ""
+
+#: framework/admin/category-options/logo.php:56
+#: framework/admin/post-options/logo.php:50
+#: framework/admin/theme-options/logo.php:47
+msgid "Logo Image (Retina Version @2x)"
+msgstr ""
+
+#: framework/admin/category-options/logo.php:61
+#: framework/admin/post-options/logo.php:54
+#: framework/admin/theme-options/logo.php:51
+msgid ""
+"Please choose an image file for the retina version of the logo. It should be "
+"2x the size of main logo."
+msgstr ""
+
+#: framework/admin/category-options/logo.php:66
+#: framework/admin/post-options/logo.php:59
+#: framework/admin/theme-options/logo.php:56
+msgid "Standard Logo Width for Retina Logo"
+msgstr ""
+
+#: framework/admin/category-options/logo.php:71
+#: framework/admin/post-options/logo.php:63
+#: framework/admin/theme-options/logo.php:60
+msgid ""
+"If retina logo is uploaded, please enter the standard logo (1x) version "
+"width, do not enter the retina logo width."
+msgstr ""
+
+#: framework/admin/category-options/logo.php:76
+#: framework/admin/post-options/logo.php:68
+#: framework/admin/theme-options/logo.php:65
+msgid "Standard Logo Height for Retina Logo"
+msgstr ""
+
+#: framework/admin/category-options/logo.php:81
+#: framework/admin/post-options/logo.php:72
+#: framework/admin/theme-options/logo.php:69
+msgid ""
+"If retina logo is uploaded, please enter the standard logo (1x) version "
+"height, do not enter the retina logo height."
+msgstr ""
+
+#: framework/admin/category-options/logo.php:86
+#: framework/admin/post-options/logo.php:77
+#: framework/admin/theme-options/logo.php:74
+msgid "Logo Margin Top"
+msgstr ""
+
+#: framework/admin/category-options/logo.php:90
+#: framework/admin/category-options/logo.php:98
+#: framework/admin/post-options/logo.php:80
+#: framework/admin/post-options/logo.php:87
+#: framework/admin/theme-options/logo.php:77
+#: framework/admin/theme-options/logo.php:85
+#: framework/admin/theme-options/styling.php:654
+#: framework/admin/theme-options/styling.php:662
+#: framework/admin/theme-options/styling.php:670
+msgid "Leave it empty to use the default value."
+msgstr ""
+
+#: framework/admin/category-options/logo.php:94
+#: framework/admin/post-options/logo.php:84
+#: framework/admin/theme-options/logo.php:82
+msgid "Logo Margin Bottom"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:9
+msgid "TieLabs Slider"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:15
+#: framework/admin/theme-options/footer.php:18
+#: framework/admin/theme-options/footer.php:172
+#: framework/admin/theme-options/header.php:285
+#: framework/admin/theme-options/header.php:516
+#: framework/admin/theme-options/header.php:559
+#: framework/admin/theme-options/posts.php:70
+#: framework/admin/theme-options/web-notifications.php:35
+msgid "Enable"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:40
+#: framework/admin/page-builder.php:1328
+#, php-format
+msgid "Slider #%s"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:43
+#: framework/admin/page-builder.php:1345
+#: framework/widgets/videos-playlist.php:12
+msgid "Videos Playlist"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:56
+#: framework/admin/page-builder.php:778
+#: framework/admin/post-options/general.php:72
+#: framework/admin/theme-options/header.php:443
+#: framework/admin/theme-options/posts.php:290 framework/widgets/author.php:140
+#: framework/widgets/posts.php:181 framework/widgets/slider.php:201
+msgid "Number of posts to show"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:66
+#: framework/admin/theme-options/header.php:410
+#: framework/admin/theme-options/posts.php:304
+#: framework/admin/theme-options/posts.php:372
+msgid "Query Type"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:76
+#: framework/admin/page-builder.php:709
+#: framework/admin/theme-options/posts.php:316 framework/widgets/posts.php:119
+#: framework/widgets/posts.php:136 framework/widgets/slider.php:170
+msgid "Recent Posts"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:77
+#: framework/admin/page-builder.php:710
+#: framework/admin/theme-options/posts.php:317 framework/widgets/posts.php:137
+#: framework/widgets/slider.php:171
+msgid "Random Posts"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:78
+#: framework/admin/category-options/main-slider.php:85
+#: framework/admin/page-builder.php:817
+#: framework/admin/post-options/general.php:399
+#: framework/widgets/slider.php:227
+msgid "Custom Slider"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:97
+#: framework/admin/page-builder.php:1168
+msgid "Colored Mask"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:115
+#: framework/admin/page-builder.php:1179
+msgid "Animate Automatically"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:124
+#: framework/admin/theme-options/posts.php:340
+#: framework/admin/theme-options/posts.php:391
+msgid "Title Length"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:135
+#: framework/admin/page-builder.php:1066
+#: framework/admin/post-options/general.php:49
+msgid "Posts Excerpt"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:144
+#: framework/admin/page-builder.php:1078
+#: framework/admin/post-options/general.php:57
+msgid "Posts Excerpt Length"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:154
+#: framework/admin/page-builder.php:1157
+msgid "Post Primary Category"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:163
+msgid "Post Puplished date"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:172
+msgid "Playlist title"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:181
+#: framework/admin/page-builder.php:907
+msgid "Videos List"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:182
+#: framework/admin/page-builder.php:909
+msgid "Enter each video url in a seprated line."
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:182
+#: framework/admin/page-builder.php:909
+#: framework/widgets/videos-playlist.php:88
+msgid "Supports: YouTube and Vimeo videos only."
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:199
+#: framework/admin/category-options/styles.php:80
+#: framework/admin/page-builder.php:279
+#: framework/admin/post-options/styles.php:92
+#: framework/admin/theme-options/background.php:66
+#: framework/admin/theme-options/e3lan.php:52
+#: framework/admin/theme-options/styling.php:480
+#: framework/admin/theme-options/styling.php:573
+#: framework/admin/theme-options/styling.php:609
+#: framework/admin/theme-options/styling.php:690
+#: framework/admin/theme-options/styling.php:793
+msgid "Background Image"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:207
+#: framework/admin/page-builder.php:288
+msgid "Background Video"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:215
+#: framework/admin/page-builder.php:297
+msgid "Parallax"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:224
+#: framework/admin/page-builder.php:307
+msgid "Parallax Effect"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:229
+#: framework/admin/framework-options.php:554
+#: framework/admin/page-builder.php:311
+msgid "Scroll"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:230
+#: framework/admin/page-builder.php:312
+msgid "Scale"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:231
+#: framework/admin/page-builder.php:313
+msgid "Opacity"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:232
+#: framework/admin/page-builder.php:314
+msgid "Scroll + Opacity"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:233
+#: framework/admin/page-builder.php:315
+msgid "Scale + Opacity"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:246
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:255
+#: framework/admin/category-options/main-slider.php:307
+#: framework/admin/page-builder.php:805
+#: framework/admin/theme-options/advanced.php:21
+#: framework/admin/theme-options/header.php:345
+#: framework/admin/theme-options/header.php:361
+#: framework/functions/mega-menus.php:491 framework/widgets/weather.php:136
+msgid "Disable"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:258
+#: framework/admin/category-options/main-slider.php:310
+#: framework/admin/page-builder.php:929 framework/admin/page-builder.php:967
+msgid "Unnamed"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:264
+#: framework/admin/category-options/main-slider.php:303
+msgid "Will override the sliders above."
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:270
+#: framework/admin/category-options/main-slider.php:316
+#: framework/admin/page-builder.php:926 framework/admin/page-builder.php:964
+msgid "Choose Slider"
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:281
+#: framework/admin/category-options/main-slider.php:328
+msgid "No sliders found, Please create a slider."
+msgstr ""
+
+#: framework/admin/category-options/main-slider.php:293
+#: framework/admin/page-builder.php:976 framework/admin/page-builder.php:1339
+msgid "LayerSlider"
+msgstr ""
+
+#: framework/admin/category-options/menu.php:7
+#: framework/admin/category-options/menu.php:13
+#: framework/admin/post-options/menu.php:5
+#: framework/admin/post-options/menu.php:11
+msgid "Custom Menu"
+msgstr ""
+
+#: framework/admin/category-options/sidebar.php:7
+msgid "Category Sidebar"
+msgstr ""
+
+#: framework/admin/category-options/sidebar.php:19
+#: framework/admin/page-builder.php:243
+#: framework/admin/post-options/sidebar.php:29
+#: framework/admin/theme-options/bbpress.php:21
+#: framework/admin/theme-options/sidebars.php:40
+#: framework/admin/theme-options/woocommerce.php:41
+#: framework/admin/theme-options/woocommerce.php:58
+msgid "Sidebar Right"
+msgstr ""
+
+#: framework/admin/category-options/sidebar.php:20
+#: framework/admin/page-builder.php:244
+#: framework/admin/post-options/sidebar.php:30
+#: framework/admin/theme-options/bbpress.php:22
+#: framework/admin/theme-options/sidebars.php:41
+#: framework/admin/theme-options/woocommerce.php:42
+#: framework/admin/theme-options/woocommerce.php:59
+msgid "Sidebar Left"
+msgstr ""
+
+#: framework/admin/category-options/sidebar.php:21
+#: framework/admin/page-builder.php:242
+#: framework/admin/post-options/sidebar.php:31
+#: framework/admin/theme-options/bbpress.php:23
+#: framework/admin/theme-options/sidebars.php:42
+#: framework/admin/theme-options/woocommerce.php:43
+#: framework/admin/theme-options/woocommerce.php:60
+msgid "Without Sidebar"
+msgstr ""
+
+#: framework/admin/category-options/sidebar.php:22
+#: framework/admin/post-options/sidebar.php:32
+#: framework/admin/theme-options/sidebars.php:43
+msgid "One Column"
+msgstr ""
+
+#: framework/admin/category-options/sidebar.php:27
+#: framework/admin/page-builder.php:251
+#: framework/admin/post-options/sidebar.php:37
+#: framework/admin/theme-options/sidebars.php:17
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: framework/admin/category-options/sidebar.php:39
+#: framework/admin/post-options/sidebar.php:48
+msgid "Custom Sidebar"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:7
+msgid "Category Style"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:13
+#: framework/admin/post-options/styles.php:24
+#: framework/admin/post-options/styles.php:30
+#: framework/admin/theme-options/styling.php:56
+msgid "Primary Color"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:21
+#: framework/admin/page-builder.php:143
+#: framework/admin/post-options/styles.php:37
+#: framework/admin/theme-options.php:241
+#: framework/admin/theme-options/background.php:11
+msgid "Background"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:27
+#: framework/admin/post-options/styles.php:43
+#: framework/admin/theme-options/background.php:17
+msgid "Bordered Layout supports plain background color only."
+msgstr ""
+
+#: framework/admin/category-options/styles.php:41
+#: framework/admin/post-options/styles.php:56
+#: framework/admin/theme-options/background.php:30
+msgid "Background Color 2"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:49
+#: framework/admin/post-options/styles.php:63
+#: framework/admin/theme-options/background.php:37
+msgid "Background Image type"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:58
+#: framework/admin/post-options/styles.php:71
+#: framework/admin/theme-options/background.php:45
+#: framework/admin/theme-options/styling.php:761
+msgid "None"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:59
+#: framework/admin/post-options/styles.php:72
+#: framework/admin/theme-options/background.php:46
+msgid "Pattern"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:70
+#: framework/admin/post-options/styles.php:83
+#: framework/admin/theme-options/background.php:57
+msgid "Background Pattern"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:90
+#: framework/admin/page-builder.php:262
+#: framework/admin/post-options/styles.php:101
+#: framework/admin/theme-options/background.php:76
+msgid "Background Settings"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:95
+#: framework/admin/post-options/styles.php:106
+#: framework/admin/theme-options/background.php:81
+msgid "Dots overlay layer"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:103
+#: framework/admin/category-options/styles.php:112
+#: framework/admin/post-options/styles.php:113
+#: framework/admin/post-options/styles.php:121
+#: framework/admin/theme-options/background.php:88
+#: framework/admin/theme-options/background.php:96
+msgid "Background dimmer"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:114
+#: framework/admin/post-options/styles.php:123
+#: framework/admin/theme-options/background.php:98
+msgid ""
+"Value between 0 and 100 to dim background image. 0 - no dim, 100 - maximum "
+"dim."
+msgstr ""
+
+#: framework/admin/category-options/styles.php:121
+#: framework/admin/post-options/styles.php:129
+#: framework/admin/theme-options/background.php:104
+msgid "Background dimmer color"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:126
+#: framework/admin/post-options/styles.php:133
+#: framework/admin/theme-options/background.php:108
+msgid "Black"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:127
+#: framework/admin/post-options/styles.php:134
+#: framework/admin/theme-options/background.php:109
+msgid "White"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:132
+#: framework/admin/category-options/styles.php:144
+#: framework/admin/post-options/styles.php:139
+#: framework/admin/post-options/styles.php:151
+#: framework/admin/theme-options/styling.php:801
+#: framework/admin/theme-options/styling.php:813
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/admin/category-options/styles.php:138
+#: framework/admin/post-options/styles.php:145
+#: framework/admin/theme-options/styling.php:807
+msgid ""
+"Paste your CSS code, do not include any tags or HTML in the field. Any "
+"custom CSS entered here will override the theme CSS. In some cases, the !"
+"important tag may be needed."
+msgstr ""
+
+#: framework/admin/demo-importer.php:110
+msgid "Choose the demo which you want to import"
+msgstr ""
+
+#: framework/admin/demo-importer.php:111 framework/admin/demo-importer.php:128
+msgid "Install Demos"
+msgstr ""
+
+#: framework/admin/demo-importer.php:181 framework/widgets.php:87
+msgid "First Footer"
+msgstr ""
+
+#: framework/admin/demo-importer.php:182 framework/widgets.php:88
+msgid "Secound Footer"
+msgstr ""
+
+#: framework/admin/demo-importer.php:189 framework/widgets.php:100
+msgid "1st Column"
+msgstr ""
+
+#: framework/admin/demo-importer.php:194 framework/widgets.php:119
+msgid "2d Column"
+msgstr ""
+
+#: framework/admin/demo-importer.php:199 framework/widgets.php:136
+msgid "3rd Column"
+msgstr ""
+
+#: framework/admin/demo-importer.php:204 framework/widgets.php:149
+msgid "4th Column"
+msgstr ""
+
+#: framework/admin/demo-importer.php:234
+msgid "Settings import file could not be found."
+msgstr ""
+
+#: framework/admin/demo-importer.php:1026
+#: framework/admin/demo-importer.php:1164
+#: framework/admin/demo-importer.php:1211
+#: framework/functions/translations.php:51
+msgid "Home"
+msgstr ""
+
+#: framework/admin/demo-importer.php:1097
+#: framework/functions/translations.php:57
+msgid "More"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1109
+msgid "Menu Title"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1118
+msgid "Sub Menu"
+msgstr ""
+
+#: framework/admin/demo-importer.php:1128
+#: framework/admin/demo-importer.php:1129
+#: framework/admin/demo-importer.php:1245
+#: framework/admin/demo-importer.php:1246
+msgid "Buy now!"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1218
+#: framework/admin/demo-importer.php:1539 framework/widgets/about.php:13
+#: framework/widgets/about.php:140
+msgid "About"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1225
+#: framework/admin/demo-importer.php:1541
+msgid "Team"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1269
+msgid ""
+"WordPress is a favorite blogging tool of mine and I share tips and tricks "
+"for using WordPress here."
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1288
+#: framework/admin/demo-importer.php:1531
+msgid "World"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1300
+#: framework/admin/demo-importer.php:1493
+msgid "After all is said and done, more is said than done"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1302
+#: framework/admin/demo-importer.php:1495
+#: framework/admin/demo-importer.php:1648
+msgid "Knowledge is power"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1304
+#: framework/admin/demo-importer.php:1497
+#: framework/admin/demo-importer.php:1650
+msgid "The Future Of Possible"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1306
+#: framework/admin/demo-importer.php:1499
+msgid "Xbox boss talks Project Scorpio price"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1308
+#: framework/admin/demo-importer.php:1312
+#: framework/admin/demo-importer.php:1501
+#: framework/admin/demo-importer.php:1505
+#: framework/admin/demo-importer.php:1652
+#: framework/admin/demo-importer.php:1656
+msgid "Hibs and Ross County fans on final"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1310
+#: framework/admin/demo-importer.php:1503
+#: framework/admin/demo-importer.php:1654
+msgid "Tip of the day: That man again"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1314
+#: framework/admin/demo-importer.php:1507
+#: framework/admin/demo-importer.php:1658
+msgid "Spieth in danger of missing cut"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1316
+#: framework/admin/demo-importer.php:1509
+msgid "Persuasion is often more effectual than force"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1318
+#: framework/admin/demo-importer.php:1511
+msgid "One swallow does not make the spring"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1324
+#: framework/admin/demo-importer.php:1529
+msgid "Travel"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1337
+msgid "Getting There is Half the FUN!"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1339
+msgid "Goa Tourism Appealing Visitors From Across the Globe"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1341
+msgid "Fontainebleau A Forgotten Treasure"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1343
+msgid "I know it hurts to say goodbye, but it is time for me to fly"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1345
+msgid "What We See When We Look at Travel Photography"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1347
+msgid "How to make perfect vanilla cupcakes"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1349
+msgid "The ultimate guide to herbal teas"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1351
+msgid "Making fruit and veg fun for kids"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1357
+#: framework/admin/demo-importer.php:1527
+msgid "Games"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1370
+msgid "New Heroes of the Storm Characters Bring Portals"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1372
+msgid "There May Be No Consoles in the Future, EA Exec Says"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1374
+msgid "Play This Game for Free on Steam This Weekend"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1376
+msgid "The Game Officially Announced, Watch the Trailer Here"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1378
+msgid "Here What is in the game $80 Deluxe Edition"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1380
+msgid "Nintendo Details Next Miitomo Update"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1382
+msgid "Killing Floor 2 New Sharpshooter Class Detailed"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1388
+#: framework/admin/demo-importer.php:1525
+msgid "Foods"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1402
+msgid "Quinoa new recipes, feta & broad bean salad"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1404
+msgid "Cooking with kids - how to get them involved"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1406
+msgid "6 Ways Drinking Warm Water Can Heal Your Body"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1408
+msgid "Ice Cream Maker Free Chocolate"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1410
+msgid "Growing vegetables at home, six of the best"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1412
+msgid "At Value-Focused Hotels, the Free Breakfast Gets Bigger"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1414
+msgid "A Refined Seattle Restaurant, Hold the Table Linens"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1420
+#: framework/admin/demo-importer.php:1523
+msgid "Business"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1433
+msgid "December home sales rebound? Here is the secret"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1435
+msgid "Why people are flocking to Oregon"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1437
+msgid "Weekly mortgage applications pop on stock sell-off"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1439
+msgid "Apartment vacancies rise for first time in 6 years"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1441
+msgid "China stock swoon could boost US real estate"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1443
+msgid "Why homeowners are leaving billions on the table"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1445
+msgid "Lock in now! Stock sell-off sinks mortgage rates"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1451
+#: framework/admin/demo-importer.php:1521
+msgid "Tech"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1464
+msgid "Former Microsoft CEO Ballmer does about-face on Linux technology"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1466
+msgid "Bosch looking to smart devices to get ahead in the cloud"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1468
+msgid "Signs of life for Apple stock as Wall St"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1470
+msgid "YNAP sees slightly slower sales growth after strong 2015"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1472
+msgid "Senators close to finishing encryption penalties"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1474
+msgid "NASA plans to fix Mars spacecraft leak then launch in 2018"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1476
+msgid "Apple sets March 21 event, Wall Street sees new, smaller iPhone"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1478
+msgid "Samsung Elec says preorders for Galaxy S7 phones stronger"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1484
+#: framework/admin/demo-importer.php:1519
+msgid "Life Style"
+msgstr ""
+
+#. translators: Used as a place holder in the demo content, you can replace it with any suitable text in your language
+#: framework/admin/demo-importer.php:1543
+msgid "color"
+msgstr ""
+
+#: framework/admin/framework-admin.php:77
+#: framework/admin/update-notifier.php:31
+msgid "Update"
+msgstr ""
+
+#: framework/admin/framework-admin.php:78 framework/admin/theme-options.php:344
+#: framework/admin/theme-options/header.php:601
+#: framework/admin/theme-options/mobile.php:61
+#: framework/functions/theme-functions.php:1680
+#: framework/headers/header-components.php:24
+msgid "Search"
+msgstr ""
+
+#: framework/admin/framework-admin.php:347
+msgid "Custom Author widget"
+msgstr ""
+
+#: framework/admin/framework-admin.php:350
+msgid "Custom Author widget content"
+msgstr ""
+
+#: framework/admin/framework-admin.php:353
+#: framework/admin/theme-options/e3lan.php:129
+#: framework/admin/theme-options/posts.php:254
+#: framework/widgets/newsletter.php:127
+msgid "Supports: Text, HTML and Shortcodes."
+msgstr ""
+
+#: framework/admin/framework-admin.php:358
+#: framework/admin/theme-options.php:257
+#: framework/admin/theme-options/social.php:5
+#: framework/admin/theme-options/social.php:11
+msgid "Social Networks"
+msgstr ""
+
+#: framework/admin/framework-admin.php:420
+msgid "- Select a slider -"
+msgstr ""
+
+#: framework/admin/framework-admin.php:456
+#: framework/admin/framework-admin.php:548
+msgid "- Select a category -"
+msgstr ""
+
+#: framework/admin/framework-admin.php:482
+msgid "- Select a menu -"
+msgstr ""
+
+#: framework/admin/framework-admin.php:753
+msgid ""
+"You are awesome! Thanks for using our theme, Jannah is now installed and "
+"ready to use! Get ready to build something beautiful :)"
+msgstr ""
+
+#: framework/admin/framework-admin.php:769
+#, php-format
+msgid "Need help? We're here %s"
+msgstr ""
+
+#: framework/admin/framework-admin.php:781
+#: framework/admin/framework-admin.php:783
+msgid "Submit a Ticket"
+msgstr ""
+
+#: framework/admin/framework-admin.php:782
+msgid "Need one-to-one assistance? Get in touch with our Support team."
+msgstr ""
+
+#: framework/admin/framework-admin.php:787
+msgid "Knowledge Base"
+msgstr ""
+
+#: framework/admin/framework-admin.php:788
+msgid "This is the place to go to reference different aspects of the theme."
+msgstr ""
+
+#: framework/admin/framework-admin.php:789
+msgid "Browse the Knowledge Base"
+msgstr ""
+
+#: framework/admin/framework-admin.php:793
+msgid "Troubleshooting"
+msgstr ""
+
+#: framework/admin/framework-admin.php:794
+msgid ""
+"If something is not working as expected, Please try these common solutions."
+msgstr ""
+
+#: framework/admin/framework-admin.php:795
+msgid "Visit The Page"
+msgstr ""
+
+#: framework/admin/framework-notices.php:55
+#, php-format
+msgid "Like %s?"
+msgstr ""
+
+#: framework/admin/framework-notices.php:56
+msgid "If you like the theme, please don&rsquo;t forget to rate it :)"
+msgstr ""
+
+#: framework/admin/framework-notices.php:101
+msgid "Happy New Year!"
+msgstr ""
+
+#: framework/admin/framework-notices.php:103
+msgid ""
+"To our client who have made our progress possible, All of us at TieLabs join "
+"in wishing you a Happy New Year with the best of everything in your life for "
+"you and your family and we look forward to serving you in the new year :)"
+msgstr ""
+
+#: framework/admin/framework-notices.php:104
+#, php-format
+msgid ""
+"Follow us on <a href=\"%1$s\" target=\"_blank\">Twitter</a> or <a href=\"%2$s"
+"\" target=\"_blank\">Facebook</a>."
+msgstr ""
+
+#: framework/admin/framework-notices.php:148
+#, php-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/admin/framework-notices.php:150
+msgid "Happy Anniversary with TieLabs!"
+msgstr ""
+
+#: framework/admin/framework-notices.php:151
+#, php-format
+msgid ""
+"Woohoo! We are so happy You have been with us for %s We are looking forward "
+"to providing an awesome WordPress theme and plugins for you for many more. "
+"Thanks for being an awesome customer!"
+msgstr ""
+
+#: framework/admin/framework-notices.php:152
+msgid "Your friends at TieLabs"
+msgstr ""
+
+#: framework/admin/framework-notices.php:280
+msgid "Howdy"
+msgstr ""
+
+#: framework/admin/framework-options.php:303
+#: framework/admin/framework-options.php:539
+msgid "Upload"
+msgstr ""
+
+#: framework/admin/framework-options.php:476
+msgid "Font Size in Pixels"
+msgstr ""
+
+#: framework/admin/framework-options.php:487
+msgid "Line Height"
+msgstr ""
+
+#: framework/admin/framework-options.php:498
+msgid "Font Weight"
+msgstr ""
+
+#: framework/admin/framework-options.php:500
+#: framework/admin/theme-options/typography.php:75
+msgid "Thin 100"
+msgstr ""
+
+#: framework/admin/framework-options.php:501
+#: framework/admin/theme-options/typography.php:77
+msgid "Extra 200 Light"
+msgstr ""
+
+#: framework/admin/framework-options.php:502
+#: framework/admin/theme-options/typography.php:79
+msgid "Light 300"
+msgstr ""
+
+#: framework/admin/framework-options.php:503
+#: framework/admin/theme-options/typography.php:81
+msgid "Regular 400"
+msgstr ""
+
+#: framework/admin/framework-options.php:504
+#: framework/admin/theme-options/typography.php:83
+msgid "Medium 500"
+msgstr ""
+
+#: framework/admin/framework-options.php:505
+#: framework/admin/theme-options/typography.php:85
+msgid "Semi 600 Bold"
+msgstr ""
+
+#: framework/admin/framework-options.php:506
+#: framework/admin/theme-options/typography.php:87
+msgid "Bold 700"
+msgstr ""
+
+#: framework/admin/framework-options.php:507
+#: framework/admin/theme-options/typography.php:89
+msgid "Extra 800 Bold"
+msgstr ""
+
+#: framework/admin/framework-options.php:508
+#: framework/admin/theme-options/typography.php:91
+msgid "Black 900"
+msgstr ""
+
+#: framework/admin/framework-options.php:515
+msgid "Capitalization"
+msgstr ""
+
+#: framework/admin/framework-options.php:517
+msgid "UPPERCASE"
+msgstr ""
+
+#: framework/admin/framework-options.php:518
+msgid "Capitalize"
+msgstr ""
+
+#: framework/admin/framework-options.php:519
+msgid "lowercase"
+msgstr ""
+
+#: framework/admin/framework-options.php:545
+#: framework/functions/mega-menus.php:550
+msgid "no-repeat"
+msgstr ""
+
+#: framework/admin/framework-options.php:546
+msgid "Tile"
+msgstr ""
+
+#: framework/admin/framework-options.php:547
+msgid "Tile Horizontally"
+msgstr ""
+
+#: framework/admin/framework-options.php:548
+msgid "Tile Vertically"
+msgstr ""
+
+#: framework/admin/framework-options.php:553
+msgid "Fixed"
+msgstr ""
+
+#: framework/admin/framework-options.php:555
+msgid "Cover"
+msgstr ""
+
+#: framework/admin/framework-options.php:560
+#: framework/admin/theme-options/posts.php:367
+#: framework/functions/mega-menus.php:540
+msgid "Left"
+msgstr ""
+
+#: framework/admin/framework-options.php:561
+#: framework/admin/theme-options/posts.php:366
+#: framework/functions/mega-menus.php:539
+msgid "Right"
+msgstr ""
+
+#: framework/admin/framework-options.php:562
+#: framework/admin/framework-options.php:569
+#: framework/functions/mega-menus.php:538
+#: framework/functions/mega-menus.php:544
+msgid "Center"
+msgstr ""
+
+#: framework/admin/framework-options.php:567
+#: framework/functions/mega-menus.php:545
+msgid "Top"
+msgstr ""
+
+#: framework/admin/framework-options.php:568
+#: framework/functions/mega-menus.php:546
+msgid "Bottom"
+msgstr ""
+
+#: framework/admin/framework-options.php:575
+#: framework/functions/mega-menus.php:867
+msgid "Remove"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:57
+#: framework/admin/framework-system-status.php:58
+#: framework/admin/framework-system-status.php:76
+msgid "System Status"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:333
+msgid "WordPress environment"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:338
+msgid "Home URL"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:342
+msgid "Site URL"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:346
+msgid "WP version"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:350
+msgid "WP multisite"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:354
+msgid "WP memory limit"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:357
+#, php-format
+msgid ""
+"%1$s - We recommend setting memory to at least 128MB. To import the demo "
+"data 256MB of memory limit is required. See: %2$s"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:357
+msgid "Increasing memory allocated to PHP"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:364
+msgid "WP debug mode"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:374
+msgid "Language"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:394
+msgid "Hide errors from visitors"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:399
+msgid ""
+"Error messages can contain sensitive information about your store "
+"environment. These should be hidden from untrusted visitors."
+msgstr ""
+
+#: framework/admin/framework-system-status.php:411
+msgid "Server environment"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:416
+msgid "Server info"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:420
+msgid "PHP version"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:425
+#, php-format
+msgid "%1$s - We recommend a minimum PHP version of %2$s."
+msgstr ""
+
+#: framework/admin/framework-system-status.php:434
+msgid "PHP post max size"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:438
+msgid "PHP time limit"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:443
+#, php-format
+msgid "%1$s - We recommend setting max execution time to at least %2$s."
+msgstr ""
+
+#: framework/admin/framework-system-status.php:453
+msgid "PHP max input vars"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:457
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s. Max input vars limitation will truncate POST "
+"data such as menus. See: %3$sIncreasing max input vars limit.%4$s"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:466
+msgid "cURL version"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:470
+msgid "SUHOSIN installed"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:471
+msgid ""
+"You have to increase the suhosin.post.max_vars and suhosin.request.max_vars "
+"parameters to 2000 or more."
+msgstr ""
+
+#: framework/admin/framework-system-status.php:482
+msgid "MySQL version"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:488
+#, php-format
+msgid ""
+"%1$s - WordPress recommends a minimum MySQL version of %2$s. See: "
+"%3$sWordPress requirements%4$s"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:497
+msgid "Max upload size"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:501
+msgid "fsockopen/cURL"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:506
+msgid ""
+"Your server does not have fsockopen or cURL enabled. Contact your hosting "
+"provider."
+msgstr ""
+
+#: framework/admin/framework-system-status.php:511
+msgid "Multibyte string"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:516
+msgid ""
+"Your server does not support the mbstring functions - this is required for "
+"better character encoding. Some fallbacks will be used instead for it."
+msgstr ""
+
+#: framework/admin/framework-system-status.php:521
+msgid "Remote post"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:526
+msgid "wp_remote_post() failed. Contact your hosting provider."
+msgstr ""
+
+#: framework/admin/framework-system-status.php:531
+msgid "Remote get"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:536
+msgid "wp_remote_get() failed. Contact your hosting provider."
+msgstr ""
+
+#: framework/admin/framework-system-status.php:556
+msgid "Theme"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:561
+msgid "Name"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:565
+msgid "Version"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:569
+#: framework/admin/framework-system-status.php:595
+#: framework/admin/framework-system-status.php:641
+#, php-format
+msgid "%s is available"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:574
+msgid "Author URL"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:578
+msgid "Child theme"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:587
+msgid "Parent theme name"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:591
+msgid "Parent theme version"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:600
+msgid "Parent theme author URL"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:621
+msgid "Active plugins"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:645
+msgid "Network enabled"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:652
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:677
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: framework/admin/framework-system-status.php:678
+msgid "Get system report"
+msgstr ""
+
+#: framework/admin/framework-validation.php:113
+msgid "Congratulations"
+msgstr ""
+
+#: framework/admin/framework-validation.php:114
+msgid ""
+"Your site is now validated!, Demo import and bundeled plugins are now "
+"unlocked."
+msgstr ""
+
+#: framework/admin/framework-validation.php:135
+msgid "You're almost finished!"
+msgstr ""
+
+#: framework/admin/framework-validation.php:136
+msgid ""
+"Your license is not validated. Click on the link below to unlock demo "
+"import, bundeled plugins and access to premium support."
+msgstr ""
+
+#: framework/admin/framework-validation.php:137
+msgid "NOTE: A separate license is required for each site using the theme."
+msgstr ""
+
+#: framework/admin/framework-validation.php:146
+msgid "Verify Now!"
+msgstr ""
+
+#: framework/admin/framework-validation.php:149
+#: framework/admin/framework-validation.php:190
+#: framework/admin/framework-validation.php:238
+msgid "Buy a License"
+msgstr ""
+
+#: framework/admin/framework-validation.php:164
+#: framework/functions/foxpush.php:75
+msgid "ERROR"
+msgstr ""
+
+#: framework/admin/framework-validation.php:165
+msgid "Authorization Failed"
+msgstr ""
+
+#: framework/admin/framework-validation.php:187
+#: framework/admin/theme-options/web-notifications.php:99
+msgid "Try again"
+msgstr ""
+
+#: framework/admin/framework-welcome.php:42
+#: framework/admin/framework-welcome.php:43
+#: framework/admin/framework-welcome.php:61
+#: framework/functions/translations.php:60
+msgid "Welcome"
+msgstr ""
+
+#: framework/admin/framework-welcome.php:96
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: framework/admin/framework-welcome.php:127
+#, php-format
+msgid "I just installed the amazing %s #WordPress theme #tielabs"
+msgstr ""
+
+#: framework/admin/framework-welcome.php:144
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: framework/admin/page-builder-widgets.php:212
+msgid "An error has occured. Please reload the page and try again."
+msgstr ""
+
+#: framework/admin/page-builder-widgets.php:405
+msgid "TieLabs Page Builder widgets areas"
+msgstr ""
+
+#: framework/admin/page-builder-widgets.php:494
+#: framework/admin/page-builder.php:384
+msgid "Manage Widgets"
+msgstr ""
+
+#: framework/admin/page-builder-widgets.php:495
+#: framework/admin/page-builder.php:139 framework/admin/page-builder.php:568
+msgid "Done"
+msgstr ""
+
+#: framework/admin/page-builder-widgets.php:530
+msgid "Available Widgets"
+msgstr ""
+
+#: framework/admin/page-builder-widgets.php:530
+msgid "Deactivate"
+msgstr ""
+
+#: framework/admin/page-builder-widgets.php:533
+msgid ""
+"Drag widgets from here to a sidebar on the right to activate them. Drag "
+"widgets back here to deactivate them and delete their settings."
+msgstr ""
+
+#: framework/admin/page-builder-widgets.php:553
+msgid "Section Widgets Area"
+msgstr ""
+
+#: framework/admin/page-builder-widgets.php:575
+#: framework/functions/mega-menus.php:868
+msgid "Cancel"
+msgstr ""
+
+#: framework/admin/page-builder-widgets.php:576
+msgid "Add Widget"
+msgstr ""
+
+#: framework/admin/page-builder.php:125
+msgid "Section"
+msgstr ""
+
+#: framework/admin/page-builder.php:137
+msgid "Edit Section"
+msgstr ""
+
+#: framework/admin/page-builder.php:142 framework/admin/page-builder.php:633
+#: framework/admin/posts-options.php:66 framework/admin/theme-options.php:197
+msgid "General"
+msgstr ""
+
+#: framework/admin/page-builder.php:155 framework/admin/page-builder.php:163
+#: framework/admin/page-builder.php:173
+msgid "Section Title"
+msgstr ""
+
+#: framework/admin/page-builder.php:173 framework/admin/page-builder.php:182
+#: framework/admin/page-builder.php:687 framework/admin/page-builder.php:700
+#: framework/admin/theme-options/share.php:33
+msgid "(optional)"
+msgstr ""
+
+#: framework/admin/page-builder.php:182 framework/admin/page-builder.php:700
+msgid "Title URL"
+msgstr ""
+
+#: framework/admin/page-builder.php:192
+msgid "Title Style"
+msgstr ""
+
+#: framework/admin/page-builder.php:197
+msgid "Centered"
+msgstr ""
+
+#: framework/admin/page-builder.php:198
+msgid "Big"
+msgstr ""
+
+#: framework/admin/page-builder.php:205
+#: framework/admin/theme-options/amp.php:162
+msgid "Title Color"
+msgstr ""
+
+#: framework/admin/page-builder.php:212
+msgid "Section Width"
+msgstr ""
+
+#: framework/admin/page-builder.php:220
+msgid "100% Interior Content Width"
+msgstr ""
+
+#: framework/admin/page-builder.php:223
+msgid ""
+"Select if the interior content is contained to site width or 100% width."
+msgstr ""
+
+#: framework/admin/page-builder.php:228
+msgid "Sidebar Settings"
+msgstr ""
+
+#: framework/admin/page-builder.php:236
+#: framework/admin/post-options/sidebar.php:18
+#: framework/admin/theme-options/bbpress.php:11
+msgid "Sidebar Position"
+msgstr ""
+
+#: framework/admin/page-builder.php:324
+#: framework/admin/theme-options/styling.php:6
+#: framework/admin/theme-options/styling.php:12
+msgid "Styling Settings"
+msgstr ""
+
+#: framework/admin/page-builder.php:332 framework/admin/page-builder.php:1102
+#: framework/admin/theme-options/header.php:295
+#: framework/admin/theme-options/header.php:524
+#: framework/admin/theme-options/styling.php:18
+#: framework/widgets/videos-playlist.php:93
+msgid "Dark Skin"
+msgstr ""
+
+#: framework/admin/page-builder.php:341
+msgid "Custom Classes"
+msgstr ""
+
+#: framework/admin/page-builder.php:350
+msgid "Margin Top"
+msgstr ""
+
+#: framework/admin/page-builder.php:359
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework/admin/page-builder.php:418
+msgid "Add Block"
+msgstr ""
+
+#: framework/admin/page-builder.php:467
+msgid "Predefined Sidebar"
+msgstr ""
+
+#: framework/admin/page-builder.php:478
+#: framework/admin/post-options/sidebar.php:54
+msgid "Choose Sidebar"
+msgstr ""
+
+#: framework/admin/page-builder.php:511
+msgid "Block Title"
+msgstr ""
+
+#: framework/admin/page-builder.php:553 framework/widgets/ads.php:170
+msgid "Ad"
+msgstr ""
+
+#: framework/admin/page-builder.php:554
+msgid "Tabs block"
+msgstr ""
+
+#: framework/admin/page-builder.php:566
+msgid "Edit Block"
+msgstr ""
+
+#: framework/admin/page-builder.php:634
+#: framework/admin/theme-options/advanced.php:5
+#: framework/admin/theme-options/advanced.php:39
+msgid "Advanced Settings"
+msgstr ""
+
+#: framework/admin/page-builder.php:662 framework/admin/page-builder.php:742
+#: framework/admin/post-options/components.php:13
+#: framework/admin/post-options/general.php:64
+#: framework/admin/theme-options/header.php:418
+#: framework/admin/theme-options/header.php:425
+#: framework/admin/theme-options/posts.php:155
+#: framework/functions/translations.php:62 framework/widgets/categories.php:13
+#: framework/widgets/categories.php:63 framework/widgets/posts.php:160
+#: framework/widgets/slider.php:206
+msgid "Categories"
+msgstr ""
+
+#: framework/admin/page-builder.php:687
+msgid "Custom Title"
+msgstr ""
+
+#: framework/admin/page-builder.php:711
+#: framework/admin/theme-options/posts.php:318 framework/widgets/posts.php:138
+#: framework/widgets/slider.php:172
+msgid "Last Modified Posts"
+msgstr ""
+
+#: framework/admin/page-builder.php:712
+#: framework/admin/theme-options/posts.php:319 framework/widgets/posts.php:139
+#: framework/widgets/slider.php:173
+msgid "Most Commented posts"
+msgstr ""
+
+#: framework/admin/page-builder.php:716
+#: framework/admin/theme-options/posts.php:323 framework/widgets/posts.php:143
+#: framework/widgets/slider.php:177
+msgid "Most Viewed posts"
+msgstr ""
+
+#: framework/admin/page-builder.php:720
+#: framework/admin/theme-options/posts.php:327 framework/widgets/posts.php:147
+#: framework/widgets/slider.php:181
+msgid "Best Reviews"
+msgstr ""
+
+#: framework/admin/page-builder.php:729
+msgid "Products Categories"
+msgstr ""
+
+#: framework/admin/page-builder.php:754
+#: framework/admin/post-options/components.php:24
+#: framework/admin/theme-options/header.php:419
+#: framework/admin/theme-options/header.php:434
+#: framework/admin/theme-options/posts.php:162
+#: framework/functions/translations.php:63
+msgid "Tags"
+msgstr ""
+
+#: framework/admin/page-builder.php:756
+msgid "Will overide the Categories option."
+msgstr ""
+
+#: framework/admin/page-builder.php:766
+#: framework/admin/theme-options/posts.php:332
+#: framework/admin/theme-options/posts.php:383
+msgid "Sort Order"
+msgstr ""
+
+#: framework/admin/page-builder.php:789 framework/widgets/posts.php:186
+msgid "Offset - number of posts to pass over"
+msgstr ""
+
+#: framework/admin/page-builder.php:807
+msgid "Next and Previous Arrows"
+msgstr ""
+
+#: framework/admin/page-builder.php:808
+#: framework/functions/translations.php:108
+msgid "Show More"
+msgstr ""
+
+#: framework/admin/page-builder.php:840
+#: framework/admin/theme-options/e3lan.php:91
+msgid "Banner Image"
+msgstr ""
+
+#: framework/admin/page-builder.php:851
+msgid "Banner URL"
+msgstr ""
+
+#: framework/admin/page-builder.php:863
+#: framework/admin/theme-options/e3lan.php:105
+msgid "Alternative Text For The image"
+msgstr ""
+
+#: framework/admin/page-builder.php:874
+#: framework/admin/theme-options/e3lan.php:112
+msgid "Open The Link In a new Tab"
+msgstr ""
+
+#: framework/admin/page-builder.php:885
+#: framework/admin/theme-options/e3lan.php:119 framework/widgets/ads.php:121
+#: framework/widgets/ads.php:267
+msgid "Nofollow?"
+msgstr ""
+
+#: framework/admin/page-builder.php:896
+#: framework/admin/theme-options/e3lan.php:126
+msgid "Custom Ad Code"
+msgstr ""
+
+#: framework/admin/page-builder.php:938 framework/admin/page-builder.php:1334
+msgid "Slider Revolution"
+msgstr ""
+
+#: framework/admin/page-builder.php:947 framework/admin/page-builder.php:986
+msgid "No sliders found, add a slider first!"
+msgstr ""
+
+#: framework/admin/page-builder.php:1005 framework/widgets/text-html.php:94
+msgid "Show the content only?"
+msgstr ""
+
+#: framework/admin/page-builder.php:1008
+msgid "Without background, padding nor borders."
+msgstr ""
+
+#: framework/admin/page-builder.php:1017
+msgid "Ajax Filters"
+msgstr ""
+
+#: framework/admin/page-builder.php:1020
+msgid "Will not appear if the numeric pagination is active."
+msgstr ""
+
+#: framework/admin/page-builder.php:1029
+msgid "More Button"
+msgstr ""
+
+#: framework/admin/page-builder.php:1032
+msgid "Will not appear if the Block URL is empty."
+msgstr ""
+
+#: framework/admin/page-builder.php:1041
+#: framework/admin/theme-options/social.php:70
+#: framework/admin/theme-options/styling.php:762
+msgid "Color"
+msgstr ""
+
+#: framework/admin/page-builder.php:1053
+msgid "Posts Title Length"
+msgstr ""
+
+#: framework/admin/page-builder.php:1091
+msgid "Read More Button"
+msgstr ""
+
+#: framework/admin/page-builder.php:1113
+msgid "Hide thumbnail for the First post"
+msgstr ""
+
+#: framework/admin/page-builder.php:1124
+msgid "Hide small thumbnails"
+msgstr ""
+
+#: framework/admin/page-builder.php:1135
+msgid "Hide thumbnails"
+msgstr ""
+
+#: framework/admin/page-builder.php:1146
+#: framework/admin/post-options/components.php:35
+#: framework/admin/post-options/general.php:35
+msgid "Post Meta"
+msgstr ""
+
+#: framework/admin/page-builder.php:1204
+#: framework/admin/theme-options/header.php:389
+msgid "Animation Effect"
+msgstr ""
+
+#: framework/admin/page-builder.php:1208
+#: framework/admin/theme-options/header.php:393
+msgid "Typing"
+msgstr ""
+
+#: framework/admin/page-builder.php:1209
+#: framework/admin/theme-options/header.php:394
+msgid "Fading"
+msgstr ""
+
+#: framework/admin/page-builder.php:1210
+#: framework/admin/theme-options/header.php:395
+msgid "Sliding Left"
+msgstr ""
+
+#: framework/admin/page-builder.php:1211
+#: framework/admin/theme-options/header.php:396
+msgid "Sliding Right"
+msgstr ""
+
+#: framework/admin/page-builder.php:1212
+#: framework/admin/theme-options/header.php:397
+msgid "Sliding Up"
+msgstr ""
+
+#: framework/admin/page-builder.php:1213
+#: framework/admin/theme-options/header.php:398
+msgid "Sliding Down"
+msgstr ""
+
+#: framework/admin/page-builder.php:1221
+#: framework/admin/theme-options/header.php:403
+msgid "Show the scrolling arrows?"
+msgstr ""
+
+#: framework/admin/page-builder.php:1278 framework/admin/page-builder.php:1279
+#: framework/admin/page-builder.php:1280 framework/admin/page-builder.php:1281
+#: framework/admin/page-builder.php:1282 framework/admin/page-builder.php:1283
+#: framework/admin/page-builder.php:1284 framework/admin/page-builder.php:1285
+#: framework/admin/page-builder.php:1286 framework/admin/page-builder.php:1287
+#: framework/admin/page-builder.php:1288 framework/admin/page-builder.php:1289
+#: framework/admin/page-builder.php:1290 framework/admin/page-builder.php:1291
+#: framework/admin/page-builder.php:1292
+#, php-format
+msgid "Block #%s"
+msgstr ""
+
+#: framework/admin/page-builder.php:1293 framework/admin/page-builder.php:1294
+#, php-format
+msgid "Scrolling #%s"
+msgstr ""
+
+#: framework/admin/page-builder.php:1346
+msgid "News Ticker"
+msgstr ""
+
+#: framework/admin/page-builder.php:1347 framework/admin/page-builder.php:1348
+msgid "Ad Block"
+msgstr ""
+
+#: framework/admin/page-builder.php:1349 framework/admin/page-builder.php:1350
+msgid "Custom Content"
+msgstr ""
+
+#: framework/admin/page-builder.php:1356 framework/admin/page-builder.php:1357
+#, php-format
+msgid "WooCommerce #%s"
+msgstr ""
+
+#: framework/admin/page-builder.php:1378
+msgid "Use the TieLabs Builder"
+msgstr ""
+
+#: framework/admin/page-builder.php:1379
+msgid "Use the Default Editor"
+msgstr ""
+
+#: framework/admin/page-builder.php:1442
+msgid "Add Section"
+msgstr ""
+
+#: framework/admin/post-options/components.php:5
+msgid "Post Components"
+msgstr ""
+
+#: framework/admin/post-options/components.php:18
+#: framework/admin/post-options/components.php:29
+#: framework/admin/post-options/components.php:40
+#: framework/admin/post-options/components.php:51
+#: framework/admin/post-options/components.php:62
+#: framework/admin/post-options/components.php:73
+#: framework/admin/post-options/components.php:84
+#: framework/admin/post-options/components.php:95
+#: framework/admin/post-options/components.php:107
+#: framework/admin/post-options/components.php:118
+msgid "Hide"
+msgstr ""
+
+#: framework/admin/post-options/components.php:19
+#: framework/admin/post-options/components.php:30
+#: framework/admin/post-options/components.php:41
+#: framework/admin/post-options/components.php:52
+#: framework/admin/post-options/components.php:63
+#: framework/admin/post-options/components.php:74
+#: framework/admin/post-options/components.php:85
+#: framework/admin/post-options/components.php:96
+#: framework/admin/post-options/components.php:108
+#: framework/admin/post-options/components.php:119
+msgid "Show"
+msgstr ""
+
+#: framework/admin/post-options/components.php:46
+msgid "Post Author box"
+msgstr ""
+
+#: framework/admin/post-options/components.php:57
+#: framework/admin/theme-options/posts.php:142
+msgid "Next/Prev posts"
+msgstr ""
+
+#: framework/admin/post-options/components.php:68
+#: framework/admin/theme-options/posts.php:238
+#: framework/admin/theme-options/posts.php:244
+#: framework/widgets/newsletter.php:13 framework/widgets/newsletter.php:101
+msgid "Newsletter"
+msgstr ""
+
+#: framework/admin/post-options/components.php:79
+#: framework/admin/theme-options/amp.php:54
+#: framework/admin/theme-options/posts.php:275
+#: framework/admin/theme-options/posts.php:281
+msgid "Related Posts"
+msgstr ""
+
+#: framework/admin/post-options/components.php:90
+#: framework/admin/theme-options/posts.php:348
+msgid "Fly Check Also Box"
+msgstr ""
+
+#: framework/admin/post-options/components.php:102
+#: framework/admin/theme-options/share.php:42
+#: framework/admin/theme-options/share.php:48
+msgid "Above Post share Buttons"
+msgstr ""
+
+#: framework/admin/post-options/components.php:113
+#: framework/admin/theme-options/share.php:88
+#: framework/admin/theme-options/share.php:94
+msgid "Below Post Share Buttons"
+msgstr ""
+
+#: framework/admin/post-options/e3lan.php:5
+msgid "Hide Above Banner"
+msgstr ""
+
+#: framework/admin/post-options/e3lan.php:12
+msgid "Custom Above Banner"
+msgstr ""
+
+#: framework/admin/post-options/e3lan.php:19
+msgid "Hide Below Banner"
+msgstr ""
+
+#: framework/admin/post-options/e3lan.php:26
+msgid "Custom Below Banner"
+msgstr ""
+
+#: framework/admin/post-options/general.php:10
+msgid "Masonry Page"
+msgstr ""
+
+#: framework/admin/post-options/general.php:42
+msgid "Categories Meta"
+msgstr ""
+
+#: framework/admin/post-options/general.php:101
+#: framework/admin/post-options/general.php:108
+msgid "User Roles"
+msgstr ""
+
+#: framework/admin/post-options/general.php:120
+msgid "Header and Footer Settings"
+msgstr ""
+
+#: framework/admin/post-options/general.php:126
+msgid "Hide the Header"
+msgstr ""
+
+#: framework/admin/post-options/general.php:133
+msgid "Hide the Footer"
+msgstr ""
+
+#: framework/admin/post-options/general.php:144
+#: framework/admin/post-options/general.php:150
+msgid "Hide the page title"
+msgstr ""
+
+#: framework/admin/post-options/general.php:163
+#: framework/admin/post-options/general.php:169
+msgid "Don't dulicate posts"
+msgstr ""
+
+#: framework/admin/post-options/general.php:182
+#: framework/admin/post-options/general.php:188
+msgid "Primary Category"
+msgstr ""
+
+#: framework/admin/post-options/general.php:191
+msgid ""
+"If the posts has multiple categories, the one selected here will be used for "
+"settings and it appears in the category labels."
+msgstr ""
+
+#: framework/admin/post-options/general.php:197
+msgid "Post format"
+msgstr ""
+
+#: framework/admin/post-options/general.php:214
+msgid "Standard"
+msgstr ""
+
+#: framework/admin/post-options/general.php:216
+msgid "Video"
+msgstr ""
+
+#: framework/admin/post-options/general.php:217
+msgid "Audio"
+msgstr ""
+
+#: framework/admin/post-options/general.php:219
+msgid "Map"
+msgstr ""
+
+#: framework/admin/post-options/general.php:260 framework/widgets/video.php:76
+msgid "Embed Code"
+msgstr ""
+
+#: framework/admin/post-options/general.php:268
+msgid "Self Hosted Video"
+msgstr ""
+
+#: framework/admin/post-options/general.php:277 framework/widgets/video.php:81
+msgid "Video URL"
+msgstr ""
+
+#: framework/admin/post-options/general.php:281
+msgid ""
+"supports : YouTube, Vimeo, Viddler, Qik, Hulu, FunnyOrDie, DailyMotion, "
+"WordPress.tv and blip.tv"
+msgstr ""
+
+#: framework/admin/post-options/general.php:287
+msgid "MP3 file URL"
+msgstr ""
+
+#: framework/admin/post-options/general.php:295
+msgid "M4A file URL"
+msgstr ""
+
+#: framework/admin/post-options/general.php:303
+msgid "OGA file URL"
+msgstr ""
+
+#: framework/admin/post-options/general.php:311
+msgid "SoundCloud URL"
+msgstr ""
+
+#: framework/admin/post-options/general.php:320
+msgid "Google Maps URL"
+msgstr ""
+
+#: framework/admin/post-options/general.php:328
+#: framework/admin/post-options/general.php:369
+msgid "Add Image"
+msgstr ""
+
+#: framework/admin/post-options/general.php:371
+msgid "Select"
+msgstr ""
+
+#: framework/admin/post-options/highlights.php:5
+#: framework/admin/posts-options.php:108
+msgid "Story Highlights"
+msgstr ""
+
+#: framework/admin/post-options/highlights.php:12
+#: framework/admin/theme-options/header.php:455
+msgid "Add Custom Text"
+msgstr ""
+
+#: framework/admin/post-options/highlights.php:13
+#: framework/admin/theme-options/header.php:420
+#: framework/admin/theme-options/header.php:456
+msgid "Custom Text"
+msgstr ""
+
+#: framework/admin/post-options/highlights.php:14
+#: framework/admin/theme-options/header.php:458
+#: framework/admin/theme-options/sidebars.php:59
+msgid "Add"
+msgstr ""
+
+#: framework/admin/post-options/highlights.php:20
+msgid "Text is required."
+msgstr ""
+
+#: framework/admin/post-options/sidebar.php:8
+#, php-format
+msgid ""
+"Control WooCommerce sidebar settings from the theme options page &gt; <a "
+"href=\"%s\">WooCommerce settings</a>."
+msgstr ""
+
+#: framework/admin/post-options/styles.php:8
+msgid "Header Background"
+msgstr ""
+
+#: framework/admin/post-options/styles.php:14
+msgid "Extend the background of the first section to cover the Header"
+msgstr ""
+
+#: framework/admin/posts-options.php:19
+msgid "Settings"
+msgstr ""
+
+#: framework/admin/posts-options.php:47 framework/admin/posts-options.php:48
+msgid "Enter sub title here"
+msgstr ""
+
+#: framework/admin/posts-options.php:86
+msgid "Styles"
+msgstr ""
+
+#: framework/admin/posts-options.php:96 framework/admin/theme-options.php:237
+#: framework/admin/theme-options/amp.php:120 framework/widgets/ads.php:94
+#: framework/widgets/ads.php:241
+msgid "Advertisement"
+msgstr ""
+
+#: framework/admin/posts-options.php:101
+#: framework/admin/theme-options/header.php:346
+#: framework/admin/theme-options/header.php:362
+msgid "Components"
+msgstr ""
+
+#: framework/admin/required-plugins.php:101
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/admin/required-plugins.php:133
+msgid "Install Bundled Plugins"
+msgstr ""
+
+#: framework/admin/theme-options.php:85 framework/admin/theme-options.php:117
+#: framework/admin/theme-options.php:118
+msgid "Theme Options"
+msgstr ""
+
+#: framework/admin/theme-options.php:179
+msgid "Save Changes"
+msgstr ""
+
+#: framework/admin/theme-options.php:205
+#: framework/admin/theme-options/styling.php:460
+msgid "Header"
+msgstr ""
+
+#: framework/admin/theme-options.php:213
+#: framework/admin/theme-options/styling.php:596
+msgid "Footer"
+msgstr ""
+
+#: framework/admin/theme-options.php:217
+#: framework/functions/translations.php:64
+msgid "Archives"
+msgstr ""
+
+#: framework/admin/theme-options.php:221
+#: framework/admin/theme-options/mobile.php:75
+msgid "Single Post Page"
+msgstr ""
+
+#: framework/admin/theme-options.php:225
+#: framework/admin/theme-options/amp.php:61
+msgid "Share Buttons"
+msgstr ""
+
+#: framework/admin/theme-options.php:229
+msgid "Sidebars"
+msgstr ""
+
+#: framework/admin/theme-options.php:233
+msgid "LightBox"
+msgstr ""
+
+#: framework/admin/theme-options.php:249
+msgid "Typography"
+msgstr ""
+
+#: framework/admin/theme-options.php:253
+msgid "Translations"
+msgstr ""
+
+#: framework/admin/theme-options.php:261
+msgid "Mobile"
+msgstr ""
+
+#: framework/admin/theme-options.php:265
+msgid "AMP"
+msgstr ""
+
+#: framework/admin/theme-options.php:269
+#: framework/admin/theme-options/web-notifications.php:5
+msgid "Web Notifications"
+msgstr ""
+
+#: framework/admin/theme-options.php:273
+msgid "Advanced"
+msgstr ""
+
+#: framework/admin/theme-options.php:279
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/admin/theme-options.php:287
+#: framework/admin/theme-options/bbpress.php:5
+msgid "bbPress"
+msgstr ""
+
+#: framework/admin/theme-options.php:313 framework/admin/theme-options.php:314
+msgid "TieLabs"
+msgstr ""
+
+#: framework/admin/theme-options.php:335
+msgid "Rate"
+msgstr ""
+
+#: framework/admin/theme-options.php:336
+msgid "More Themes"
+msgstr ""
+
+#: framework/admin/theme-options.php:395
+#: framework/admin/theme-options/share.php:154
+#: framework/functions/social.php:116 framework/functions/social.php:361
+#: framework/parts/post-share.php:61 framework/widgets/twitter.php:13
+msgid "Twitter"
+msgstr ""
+
+#: framework/admin/theme-options.php:402
+#: framework/admin/theme-options/share.php:168
+#: framework/admin/theme-options/styling.php:80
+#: framework/functions/social.php:110 framework/functions/social.php:360
+#: framework/parts/post-share.php:56 framework/widgets/facebook.php:14
+msgid "Facebook"
+msgstr ""
+
+#: framework/admin/theme-options.php:409 framework/functions/social.php:104
+#: framework/functions/social.php:362 framework/parts/post-share.php:66
+msgid "Google+"
+msgstr ""
+
+#: framework/admin/theme-options.php:416
+#: framework/admin/theme-options/share.php:161
+#: framework/functions/social.php:134 framework/functions/social.php:363
+#: framework/parts/post-share.php:71
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/admin/theme-options.php:423 framework/functions/social.php:164
+#: framework/parts/post-share.php:76
+msgid "StumbleUpon"
+msgstr ""
+
+#: framework/admin/theme-options.php:430 framework/functions/social.php:122
+#: framework/functions/social.php:366 framework/parts/post-share.php:86
+msgid "Pinterest"
+msgstr ""
+
+#: framework/admin/theme-options.php:437 framework/functions/social.php:158
+#: framework/parts/post-share.php:91
+msgid "Reddit"
+msgstr ""
+
+#: framework/admin/theme-options.php:444 framework/functions/social.php:170
+#: framework/parts/post-share.php:81
+msgid "Tumblr"
+msgstr ""
+
+#: framework/admin/theme-options.php:451 framework/parts/post-share.php:96
+msgid "VKontakte"
+msgstr ""
+
+#: framework/admin/theme-options.php:458 framework/functions/social.php:284
+#: framework/parts/post-share.php:101
+msgid "Odnoklassniki"
+msgstr ""
+
+#: framework/admin/theme-options.php:465 framework/parts/post-share.php:106
+msgid "Pocket"
+msgstr ""
+
+#: framework/admin/theme-options.php:472 framework/parts/post-share.php:112
+msgid "WhatsApp"
+msgstr ""
+
+#: framework/admin/theme-options.php:475 framework/admin/theme-options.php:483
+#: framework/admin/theme-options.php:491
+msgid "For Mobiles Only"
+msgstr ""
+
+#: framework/admin/theme-options.php:480 framework/functions/social.php:332
+#: framework/parts/post-share.php:118
+msgid "Telegram"
+msgstr ""
+
+#: framework/admin/theme-options.php:488 framework/parts/post-share.php:125
+msgid "Viber"
+msgstr ""
+
+#: framework/admin/theme-options.php:497
+msgid "Email"
+msgstr ""
+
+#: framework/admin/theme-options.php:504
+#: framework/functions/translations.php:68
+msgid "Print"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:12
+#: framework/admin/theme-options/advanced.php:17
+msgid "Post views settings"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:22
+msgid "Theme's module"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:23
+msgid "Third party post views plugin"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:29
+msgid "Post meta field"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:33
+msgid "Chnage this if you have used a post views plugin before."
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:44
+msgid "Cache"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:47
+msgid ""
+"If enabled, some static parts like widgets, main menu and breaking news will "
+"be cached to reduce MySQL queries. Saving the theme settings, adding/editing/"
+"removing posts, adding comments, updating menus, activating/deactivating "
+"plugins, adding/editing/removing terms or updating WordPress, will flush the "
+"cache."
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:52
+msgid "Minified CSS and JS files"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:59
+msgid "Notify on theme updates"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:66
+msgid "Add a link to the theme options page to the Toolbar"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:73
+msgid "Disable GIF Featured Images"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:81
+#: framework/admin/theme-options/advanced.php:86
+msgid "WordPress Login page Logo"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:93
+msgid "WordPress Login page Logo URL"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:102
+#: framework/admin/theme-options/advanced.php:107
+msgid "Reset All Settings"
+msgstr ""
+
+#: framework/admin/theme-options/advanced.php:107
+msgid ""
+"This action can not be Undo. Clicking \"OK\" will reset your theme options "
+"to the default installation. Click \"Cancel\" to stop this operation."
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:5
+msgid "Accelerated Mobile Pages "
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:11
+msgid ""
+"AMP is a Google-backed project with the aim of speeding up the delivery of "
+"content through the use of stripped down code known as AMP HTML, it is a way "
+"to build web pages for static content (pages that don't change based on user "
+"behaviour), that allows the pages to load (and pre-render in Google search) "
+"much faster than regular HTML."
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:20
+msgid "You may need to enable pretty permalinks if it isn't working."
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:29
+#, php-format
+msgid ""
+"To access the AMP version go to any blog post and add %s to the end of the "
+"URL."
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:48
+msgid "Post Settings"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:69
+#: framework/admin/theme-options/share.php:175
+msgid "Facebook APP ID"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:71
+#: framework/admin/theme-options/share.php:177
+msgid "(Required)"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:77
+#: framework/admin/theme-options/footer.php:5
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:83
+#: framework/admin/theme-options/footer.php:228
+#: framework/admin/theme-options/footer.php:234
+msgid "Back to top button"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:90
+msgid "Footer Logo Image"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:97
+#: framework/admin/theme-options/footer.php:196
+msgid "Footer Menu"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:103
+#: framework/admin/theme-options/footer.php:201
+msgid "Variables"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:104
+#: framework/admin/theme-options/footer.php:202
+msgid ""
+"These tags can be included in the textarea above and will be replaced when a "
+"page is displayed."
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:106
+#: framework/admin/theme-options/footer.php:204
+msgid "Replaced with the current year."
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:107
+#: framework/admin/theme-options/footer.php:205
+msgid "Replaced with The site's name."
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:108
+#: framework/admin/theme-options/footer.php:206
+msgid "Replaced with The site's URL."
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:112
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:126
+msgid "Above Content"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:128
+#: framework/admin/theme-options/amp.php:136
+#, php-format
+msgid ""
+"Enter your Ad code, AMP pages support &lt;amp-ad&gt; tag only, <a href=\"%s"
+"\" target=\"_blank\">Click Here</a> For More info."
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:134
+msgid "Below Content"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:155
+msgid "Header Background Color"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:169
+msgid "Post meta Color"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:176
+msgid "Links color"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:183
+msgid "Footer color"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:190
+#: framework/admin/theme-options/styling.php:402
+msgid "Underline text links on hover"
+msgstr ""
+
+#: framework/admin/theme-options/amp.php:199
+#, php-format
+msgid "You need to install the <a href=\"%s\">Automattic AMP plugin</a> first."
+msgstr ""
+
+#: framework/admin/theme-options/archives.php:5
+msgid "Archives Settings"
+msgstr ""
+
+#: framework/admin/theme-options/archives.php:13
+msgid "Default layout settings"
+msgstr ""
+
+#: framework/admin/theme-options/archives.php:56
+msgid "Category Page Settings"
+msgstr ""
+
+#: framework/admin/theme-options/archives.php:85
+msgid "Category Description"
+msgstr ""
+
+#: framework/admin/theme-options/archives.php:107
+msgid "Tag Page Settings"
+msgstr ""
+
+#: framework/admin/theme-options/archives.php:136
+msgid "Tag Description"
+msgstr ""
+
+#: framework/admin/theme-options/archives.php:158
+msgid "Author Page Settings"
+msgstr ""
+
+#: framework/admin/theme-options/archives.php:187
+msgid "Author Bio"
+msgstr ""
+
+#: framework/admin/theme-options/archives.php:209
+msgid "Search Page Settings"
+msgstr ""
+
+#: framework/admin/theme-options/archives.php:250
+msgid "Search in Category IDs"
+msgstr ""
+
+#: framework/admin/theme-options/archives.php:252
+msgid ""
+"Use minus sign (-) to exclude categories. Example: (1,4,-7) = search only in "
+"Category 1 & 4, and exclude Category 7."
+msgstr ""
+
+#: framework/admin/theme-options/archives.php:267
+msgid "Exclude post types from search"
+msgstr ""
+
+#: framework/admin/theme-options/background.php:5
+msgid "Background (in case Boxed / Framed / Bordered layout is enabled)"
+msgstr ""
+
+#: framework/admin/theme-options/bbpress.php:28
+msgid "bbPress Sidebar"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:5
+msgid "Advertisement Settings"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:11
+msgid ""
+"It is recommended to avoid using words like ad, ads, adv, advert, "
+"advertisement, banner, banners, sponsor, 300x250, 728x90, etc. in the image "
+"names or image path to avoid AdBlocks from blocking your Ad."
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:17
+#: framework/admin/theme-options/e3lan.php:23
+msgid "Ad Blocker Detector"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:26
+msgid ""
+"Block the adblockers from browsing the site, till they turnoff the Ad Blocker"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:31
+msgid "Background Image Ad"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:37
+msgid "Full Page Takeover"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:45
+msgid "Link"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:59
+msgid "Site margin top"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:66
+msgid "Header Ad"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:67
+msgid "Above Footer Ad"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:68
+msgid "Below the Header Ad"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:69
+msgid "Above Article Ad"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:70
+msgid "Below Article Ad"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:98
+msgid "Banner Link"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:139
+msgid "AdRotate"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:148
+msgid "Type"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:152
+msgid "Advert - Use Advert ID"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:153
+msgid "Group - Use group ID"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:158
+msgid "ID"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:170
+msgid "Shortcodes Ads"
+msgstr ""
+
+#: framework/admin/theme-options/e3lan.php:176
+#: framework/admin/theme-options/e3lan.php:183
+#: framework/admin/theme-options/e3lan.php:190
+#: framework/admin/theme-options/e3lan.php:197
+#: framework/admin/theme-options/e3lan.php:204
+msgid "Ad Shortcode"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:11
+msgid "Instagram Footer Area"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:28
+#: framework/widgets/instagram.php:115
+msgid "Media Source"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:32
+#: framework/widgets/instagram.php:117
+msgid "User Account"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:33
+#: framework/widgets/instagram.php:118
+msgid "Hash Tag"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:38
+#: framework/widgets/instagram.php:122
+msgid "Enter the Username or the Hash Tag"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:45
+msgid "Number of Rows"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:49
+msgid "One Row"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:50
+msgid "Two Rows"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:55
+#: framework/widgets/instagram.php:126
+msgid "Link Media to"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:59
+#: framework/widgets/instagram.php:128
+msgid "Media File"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:60
+#: framework/widgets/instagram.php:129
+msgid "Media Page on Instagram"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:65
+msgid "Follow Us Button"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:73
+#: framework/widgets/instagram.php:142
+msgid "Follow Us Button Text"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:80
+#: framework/widgets/instagram.php:146
+msgid "Follow Us Button URL"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:92
+#: framework/widgets/instagram.php:154
+#, php-format
+msgid "You need to install the <a href=\"%s\">InstaNOW plugin</a> first."
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:99
+msgid "Footer Widgets layout"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:105
+msgid "First Footer Widgets Area"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:113
+#: framework/admin/theme-options/footer.php:144
+msgid "Add border around the widgets area"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:136
+msgid "Second Footer Widgets Area"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:166
+#: framework/admin/theme-options/styling.php:677
+#: framework/admin/theme-options/typography.php:185
+msgid "Copyright Area"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:182
+msgid "Centered Layout"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:189
+#: framework/admin/theme-options/header.php:693
+#: framework/admin/theme-options/mobile.php:68 framework/widgets/social.php:13
+msgid "Social Icons"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:210
+msgid "Footer Text One"
+msgstr ""
+
+#: framework/admin/theme-options/footer.php:218
+msgid "Footer Text Two"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:5
+#: framework/admin/theme-options/posts.php:89
+#: framework/admin/theme-options/share.php:13
+msgid "General Settings"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:12
+msgid "Time format"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:18
+msgid "Time format for blog posts"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:22
+msgid "Traditional"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:23
+msgid "Time Ago Format"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:24
+msgid "Disable all"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:30
+msgid "Breadcrumbs Settings"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:36
+#: framework/admin/theme-options/typography.php:175
+msgid "Breadcrumbs"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:44
+msgid "Breadcrumbs Delimiter"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:53
+msgid "Trim Text Settings"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:59
+msgid "Trim text by"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:63
+msgid "Words"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:64
+msgid "Characters"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:70
+msgid "Post format icon on hover"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:76
+msgid "Show the post format icon on hover?"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:83
+msgid "Custom Codes"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:89
+msgid "Header Code"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:91
+msgid ""
+"Will add to the &lt;head&gt; tag. Useful if you need to add additional codes "
+"such as CSS or JS."
+msgstr ""
+
+#: framework/admin/theme-options/general.php:97
+msgid "Footer Code"
+msgstr ""
+
+#: framework/admin/theme-options/general.php:99
+msgid ""
+"Will add to the footer before the closing  &lt;/body&gt; tag. Useful if you "
+"need to add Javascript."
+msgstr ""
+
+#: framework/admin/theme-options/header.php:9
+msgid "Header Settings"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:253
+#: framework/admin/theme-options/header.php:259
+msgid "Header Layout"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:274
+msgid "Main Nav Settings"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:275
+msgid "Secondry Nav Settings"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:302
+#: framework/admin/theme-options/header.php:532
+msgid "Boxed Layout"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:309
+msgid "Below The Header"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:316
+msgid "Today's date"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:324
+msgid "Today's date format"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:328
+msgid "Documentation on date and time formatting"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:336
+msgid "Left Area"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:347
+#: framework/admin/theme-options/header.php:363
+#: framework/functions/translations.php:59
+msgid "Menu"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:348
+#: framework/admin/theme-options/header.php:374
+msgid "Breaking News"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:353
+msgid "Right Area"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:368
+msgid "Secondry Nav Components"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:381
+#: framework/admin/theme-options/social.php:46 framework/widgets/about.php:157
+#: framework/widgets/ads.php:105 framework/widgets/ads.php:251
+#: framework/widgets/google.php:78 framework/widgets/text-html.php:83
+msgid "Title"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:383
+#: framework/parts/breaking-news.php:41
+msgid "Trending"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:435
+msgid "Enter a tag name, or names separated by comma."
+msgstr ""
+
+#: framework/admin/theme-options/header.php:464
+msgid "Text and Link are required."
+msgstr ""
+
+#: framework/admin/theme-options/header.php:540
+msgid "Above The Header"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:546
+msgid "Main Nav Components"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:553
+msgid "Sticky Menu"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:567
+msgid "Sticky Menu behavior"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:572
+msgid "When scrolling upwards"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:615
+msgid "Live Search"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:622
+msgid "Search Layout"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:630
+msgid "Compact"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:635
+msgid "Type To Search"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:649
+msgid "Slide Sidebar"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:657 framework/widgets/login.php:13
+#: framework/widgets/login.php:48
+msgid "Log In"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:665
+msgid "Random Article Button"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:674
+msgid "Shopping Cart"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:684
+msgid "BuddyPress Notifications"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:707
+msgid "Social icons layout"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:716
+msgid "Menu with names"
+msgstr ""
+
+#: framework/admin/theme-options/header.php:717
+msgid "Grid Menu"
+msgstr ""
+
+#: framework/admin/theme-options/layout.php:12
+#: framework/admin/theme-options/layout.php:18
+msgid "Site Width"
+msgstr ""
+
+#: framework/admin/theme-options/layout.php:22
+msgid "Controls the overall site width. In px or %, ex: 100% or 1170px."
+msgstr ""
+
+#: framework/admin/theme-options/layout.php:28
+msgid "Theme Layout"
+msgstr ""
+
+#: framework/admin/theme-options/layout.php:64
+msgid "Loader Icon"
+msgstr ""
+
+#: framework/admin/theme-options/lightbox.php:5
+#: framework/admin/theme-options/lightbox.php:11
+msgid "Lightbox Settings"
+msgstr ""
+
+#: framework/admin/theme-options/lightbox.php:17
+msgid "Enable Lightbox Automatically"
+msgstr ""
+
+#: framework/admin/theme-options/lightbox.php:18
+msgid ""
+"Enable Lightbox automatically for all images linked to an image file in the "
+"post content area"
+msgstr ""
+
+#: framework/admin/theme-options/lightbox.php:25
+msgid "Lightbox for Galleries"
+msgstr ""
+
+#: framework/admin/theme-options/lightbox.php:26
+msgid ""
+"Enable Lightbox automatically for all images added via [gallery] shortcode "
+"in the content area"
+msgstr ""
+
+#: framework/admin/theme-options/lightbox.php:33
+msgid "Lightbox Skin"
+msgstr ""
+
+#: framework/admin/theme-options/lightbox.php:47
+msgid "Lightbox Thumbnail Position"
+msgstr ""
+
+#: framework/admin/theme-options/lightbox.php:51
+msgid "Vertical"
+msgstr ""
+
+#: framework/admin/theme-options/lightbox.php:52
+msgid "Horizontal"
+msgstr ""
+
+#: framework/admin/theme-options/lightbox.php:57
+msgid "Show Lightbox Arrows"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:5
+#: framework/admin/theme-options/mobile.php:11
+msgid "Mobile Settings"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:17
+msgid "Disable the Responsiveness"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:19
+msgid "This option works only on Tablets and Phones."
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:25
+#: framework/admin/theme-options/mobile.php:31
+#: framework/admin/theme-options/styling.php:718
+#: framework/admin/theme-options/typography.php:172
+msgid "Mobile Menu"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:39
+msgid "Parent items as links"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:40
+msgid "If disabled, parent menu items will only toggle child items."
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:47
+msgid "Include the Top Menu items"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:54
+msgid "Show the icons"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:81
+msgid "Compact the post content and show more button"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:90
+msgid "Mobile Elements"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:96
+msgid "Hide header Ad"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:103
+msgid "Hide Below the header Ad"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:110
+msgid "Hide above the footer Ad"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:117
+msgid "Hide Header Breaking News"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:124
+msgid "Hide all sidebars"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:131
+msgid "Hide Instagram Media Above Footer"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:138
+msgid "Hide Footer"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:145
+msgid "Hide copyright area"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:152
+msgid "Hide Breadcrumbs"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:159
+msgid "Hide Above Post share Buttons"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:166
+msgid "Hide Below Post share Buttons"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:173
+msgid "Hide Below Post Newsletter"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:180
+msgid "Hide Below Post Related posts"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:187
+msgid "Hide Below Post Author Box"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:194
+msgid "Hide Below Post Next/Prev posts"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:201
+msgid "Hide Back to top button"
+msgstr ""
+
+#: framework/admin/theme-options/mobile.php:210
+#: framework/admin/theme-options/mobile.php:217
+msgid "Sticky Mobile Share Buttons"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:5
+msgid "Single Post Page Settings"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:11
+msgid "Default Posts Layout"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:64
+msgid "Structure Data"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:78
+msgid "Default Schema type"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:82
+msgid "NewsArticle"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:83
+msgid "Article"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:84
+msgid "BlogPosting"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:118
+msgid "Open Graph meta"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:126
+msgid "Reading Position Indicator"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:135
+msgid "Post Author Box"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:149
+msgid "Post info Settings"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:169
+msgid "Post meta area"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:178
+msgid "Author"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:187
+msgid "Author's Avatar"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:194
+msgid "Twitter Icon"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:201
+msgid "Email Icon"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:210
+msgid "Date"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:217
+#: framework/functions/translations.php:73
+msgid "Comments"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:224
+#: framework/functions/translations.php:65
+msgid "Views"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:231
+msgid "Estimated reading time"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:252
+#: framework/widgets/newsletter.php:125
+msgid "Text above the Email input field"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:260
+#: framework/widgets/newsletter.php:136
+msgid "MailChimp Form Action URL"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:267
+#: framework/widgets/newsletter.php:141
+msgid "Feedburner ID"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:297
+msgid "Number of posts to show in Full width pages"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:308
+#: framework/admin/theme-options/posts.php:376
+msgid "Posts in the same Categories"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:309
+#: framework/admin/theme-options/posts.php:377
+msgid "Posts in the same Tags"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:310
+#: framework/admin/theme-options/posts.php:378
+msgid "Posts by the same Author"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:354
+#: framework/functions/translations.php:95
+msgid "Check Also"
+msgstr ""
+
+#: framework/admin/theme-options/posts.php:362
+msgid "Check Also Box Position"
+msgstr ""
+
+#: framework/admin/theme-options/share.php:5
+msgid "Share Settings"
+msgstr ""
+
+#: framework/admin/theme-options/share.php:19
+msgid "Share Buttons for Pages"
+msgstr ""
+
+#: framework/admin/theme-options/share.php:26
+msgid "Use the post's Short Link"
+msgstr ""
+
+#: framework/admin/theme-options/share.php:33 framework/widgets/twitter.php:216
+msgid "Twitter Username"
+msgstr ""
+
+#: framework/admin/theme-options/share.php:57
+#: framework/admin/theme-options/share.php:103
+msgid "Center the buttons"
+msgstr ""
+
+#: framework/admin/theme-options/share.php:64
+#: framework/admin/theme-options/share.php:110
+msgid "Show the share title"
+msgstr ""
+
+#: framework/admin/theme-options/share.php:66
+#: framework/admin/theme-options/share.php:112
+#, php-format
+msgid "You can change the \"%s\" text from the Translation tab."
+msgstr ""
+
+#: framework/admin/theme-options/share.php:72
+#: framework/admin/theme-options/share.php:118
+msgid "Share Buttons Style"
+msgstr ""
+
+#: framework/admin/theme-options/share.php:134
+#: framework/admin/theme-options/share.php:146
+msgid "Select and Share"
+msgstr ""
+
+#: framework/admin/theme-options/share.php:140
+msgid ""
+"When you double-click a word or highlight a few words, a small share icons "
+"are displayed. When you click an icon, a share modal will automatically "
+"launch, containing the text you selected along with a link to the post."
+msgstr ""
+
+#: framework/admin/theme-options/sidebars.php:5
+#: framework/admin/theme-options/sidebars.php:11
+msgid "Sidebars Settings"
+msgstr ""
+
+#: framework/admin/theme-options/sidebars.php:24
+msgid "Widgets icon"
+msgstr ""
+
+#: framework/admin/theme-options/sidebars.php:31
+msgid "Default Sidebar Position"
+msgstr ""
+
+#: framework/admin/theme-options/sidebars.php:48
+msgid "Add Custom Sidebar"
+msgstr ""
+
+#: framework/admin/theme-options/sidebars.php:56
+msgid "Sidebar Name"
+msgstr ""
+
+#: framework/admin/theme-options/sidebars.php:65
+msgid "Please add a name for the sidebar."
+msgstr ""
+
+#: framework/admin/theme-options/sidebars.php:103
+msgid "Custom Sidebars"
+msgstr ""
+
+#: framework/admin/theme-options/sidebars.php:109
+msgid "Home Sidebar"
+msgstr ""
+
+#: framework/admin/theme-options/sidebars.php:117
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: framework/admin/theme-options/sidebars.php:125
+msgid "Single Article Sidebar"
+msgstr ""
+
+#: framework/admin/theme-options/sidebars.php:133
+msgid "Archives Sidebar"
+msgstr ""
+
+#: framework/admin/theme-options/social.php:17
+msgid "RSS"
+msgstr ""
+
+#: framework/admin/theme-options/social.php:40
+msgid "Custom Social Network"
+msgstr ""
+
+#: framework/admin/theme-options/social.php:53
+msgid "Icon"
+msgstr ""
+
+#: framework/admin/theme-options/social.php:55
+msgid "Use the full Font Awesome icon name"
+msgstr ""
+
+#: framework/admin/theme-options/social.php:62
+#: framework/functions/mega-menus.php:788 framework/widgets/soundcloud.php:69
+msgid "URL"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:25
+msgid "Lazy Load For Images"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:32
+msgid "Apply custom styling by inline code"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:33
+msgid ""
+"check this option if you have problems with styling because of styling file "
+"rewrite permissions."
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:41
+#: framework/admin/theme-options/styling.php:47
+msgid "Custom Body Classes"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:62
+msgid "Predefined skins"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:67
+msgid "Choose a Skin"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:69
+msgid "Blue"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:70
+msgid "Yellow"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:71
+msgid "Alizarin"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:72
+msgid "Sand"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:73
+msgid "Royal"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:74
+msgid "Mint"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:75
+msgid "Stylish Red"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:76
+msgid "Twilight"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:77
+msgid "Coffee"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:78
+msgid "Ocean"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:79
+msgid "Cyan"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:81
+msgid "Sahifa"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:82
+msgid "Mist"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:83
+msgid "Serene"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:84
+msgid "Fall"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:359
+msgid "Custom Primary Color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:368
+#: framework/admin/theme-options/typography.php:166
+msgid "Body"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:374
+msgid "Disable Boxed/Framed Layout Shadows"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:381
+msgid "Highlighted Text Color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:388
+msgid "Links Text Color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:395
+msgid "Links text HOVER color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:409
+msgid "Borders Color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:417
+msgid "Secondary Nav"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:430
+#: framework/admin/theme-options/styling.php:508
+#: framework/admin/theme-options/styling.php:630
+#: framework/admin/theme-options/styling.php:697
+#: framework/widgets/weather.php:152
+msgid "Text Color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:437
+#: framework/admin/theme-options/styling.php:515
+#: framework/admin/theme-options/styling.php:637
+#: framework/admin/theme-options/styling.php:704
+msgid "Links Color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:444
+#: framework/admin/theme-options/styling.php:522
+#: framework/admin/theme-options/styling.php:644
+#: framework/admin/theme-options/styling.php:711
+msgid "Links Color on mouse over"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:451
+msgid "Breaking news label background"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:466
+msgid "Rainbow Line Above Header"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:487
+msgid "Disable Header Shadows"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:495
+msgid "Main Navigation Styling"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:529
+msgid "Main Nav Border Top Color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:536
+msgid "Main Nav Border Top Width"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:543
+msgid "Main Nav Border Bottom Color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:550
+msgid "Main Nav Border Bottom Width"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:561
+msgid "Main Content Styling"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:580
+msgid "In Post Links Color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:587
+msgid "In Post Links Color on mouse over"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:616
+msgid "Footer Border Top"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:623
+msgid "Widgets Title color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:651
+msgid "Footer Margin Top"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:659
+msgid "Footer Padding Top"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:667
+msgid "Footer Padding Bottom"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:724
+msgid "Mobile Menu Icon"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:731
+msgid "links color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:738
+msgid "Social Icons color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:745
+msgid "Search Button color"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:752
+msgid "Mobile Menu Background"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:763
+msgid "Gradient"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:777
+msgid "Background Gradient Color 1"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:785
+msgid "Background Gradient Color 2"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:821
+msgid "Tablets"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:821
+msgid "768px - 1024px"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:829
+msgid "Phones"
+msgstr ""
+
+#: framework/admin/theme-options/styling.php:829
+msgid "0 - 768px"
+msgstr ""
+
+#: framework/admin/theme-options/translations.php:5
+msgid "Translations Settings"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:5
+msgid "Typography Settings"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:10
+msgid "Body Font Family"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:11
+msgid "Headings Font Family"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:12
+msgid "Primary menu Font Family"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:13
+msgid "Blockquote Font Family"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:26
+msgid "Source"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:30
+msgid "Theme Defaults"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:31
+msgid "Standard Fonts"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:32
+msgid "Google Fonts"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:33
+msgid "FontFace.me Fonts"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:34
+msgid "Any external fonts (e.g. Typekit)"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:45
+#: framework/admin/theme-options/typography.php:53
+#: framework/admin/theme-options/typography.php:97
+#: framework/admin/theme-options/typography.php:113
+msgid "Font Family"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:62
+#: framework/admin/theme-options/typography.php:131
+msgid "Tip:"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:62
+msgid "Choosing a lot of Variants may make your pages slow to load."
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:69
+msgid "Font Variants"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:72
+msgid "Please, make sure that chosen font supports chosen weight."
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:76
+msgid "Thin 100 Italic"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:78
+msgid "Extra 200 Light Italic"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:80
+msgid "Light 300 Italic"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:82
+msgid "Regular 400 Italic"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:84
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:86
+msgid "Semi 600 Bold Italic"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:88
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:90
+msgid "Extra 800 Bold Italic"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:92
+msgid "Black 900 Italic"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:105
+msgid "Embed code for the &lt;head&gt; section"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:115
+msgid ""
+"Enter the value for 'font-family' attribute, also you can specify the stack "
+"of the fonts."
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:125
+#: framework/admin/theme-options/typography.php:137
+msgid "Google Web Font Character sets"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:131
+msgid "Choosing a lot of Character sets may make your pages slow to load."
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:140
+msgid ""
+"Latin charset by default. Include additional character sets for fonts (make "
+"sure at http://www.google.com/fonts/ before that charset is available for "
+"chosen font)"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:155
+msgid "Font Sizes, Weights and Line Heights"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:161
+msgid "Font Weight Tips:"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:161
+msgid ""
+"- If you use a google font, make sure to load the font weight in 'Google "
+"Font Variants' field that corresponds to the one in parenthesis here."
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:161
+msgid ""
+"- Browser standard fonts in general support only 'Normal (400)' and 'Bold "
+"(700)' font weights."
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:167
+msgid "Header Site name"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:168
+msgid "Secondary Menu"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:169
+msgid "Secondary sub menus"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:170
+msgid "Main Navigation"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:171
+msgid "Main Navigation sub menus"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:173
+msgid "Breaking News Label"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:174
+msgid "Breaking News post titles"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:176
+msgid "Buttons"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:177
+msgid "Post Categories Label"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:178
+msgid "Single Post Title"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:179
+msgid "Post Titles in Homepage Blocks"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:180
+msgid "Small Post Titles in Homepage Blocks"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:181
+msgid "Single Post Page Contet"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:182
+msgid "Blockquotes"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:183
+msgid "Blocks Titles"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:184
+msgid "Widgets Titles"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:186
+msgid "Footer Widgets Titles"
+msgstr ""
+
+#: framework/admin/theme-options/typography.php:187
+#: framework/admin/theme-options/typography.php:188
+#: framework/admin/theme-options/typography.php:189
+#: framework/admin/theme-options/typography.php:190
+#: framework/admin/theme-options/typography.php:191
+#: framework/admin/theme-options/typography.php:192
+msgid "Post Heading:"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:17
+msgid ""
+"Web Push notifications allow your users to opt-in to timely updates from "
+"your website. and allow you to effectively re-engage them with customized, "
+"engaging content whenever they are online, wherever they may be - even on "
+"their phones! It's easy to set up, and no technical skills are required."
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:19
+msgid "Sign up for FREE"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:29
+msgid "FoxPush Setup"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:54
+msgid "One more step!"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:62
+#: framework/widgets/weather.php:117
+msgid "How to get your API Key?"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:64
+msgid "Make sure you are logged into FoxPush."
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:65
+msgid ""
+"From the navigation panel on the admin dashboard, click on Settings and then "
+"on API Keys."
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:66
+msgid "Click on Generate New Key."
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:67
+msgid "Choose your Domain Name. then click the Generate button."
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:68
+msgid "Copy the Domain and the key and add them in the fields below."
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:69
+msgid "Click on the Connect button below."
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:76
+msgid "FoxPush Domain"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:83
+msgid "API Key"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:99
+msgid "Connecting"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:103
+msgid "Connect"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:117
+msgid "Your account is connected"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:120
+msgid "Disconnect"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:133
+msgid "Statistics (Updated Hourly)"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:143
+#: framework/admin/theme-options/web-notifications.php:177
+msgid "Subscribers"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:144
+msgid "Campaigns"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:145
+msgid "Total Views"
+msgstr ""
+
+#: framework/admin/theme-options/web-notifications.php:146
+msgid "Total Clicks"
+msgstr ""
+
+#: framework/admin/theme-options/woocommerce.php:5
+#: framework/admin/theme-options/woocommerce.php:11
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: framework/admin/theme-options/woocommerce.php:17
+msgid "Number of products per page"
+msgstr ""
+
+#: framework/admin/theme-options/woocommerce.php:24
+msgid "Number of the related products"
+msgstr ""
+
+#: framework/admin/theme-options/woocommerce.php:31
+msgid "WooCommerce Sidebar Position"
+msgstr ""
+
+#: framework/admin/theme-options/woocommerce.php:48
+msgid "WooCommerce Product Page Sidebar Position"
+msgstr ""
+
+#: framework/admin/update-notifier.php:30
+msgid "Theme Updates"
+msgstr ""
+
+#: framework/admin/update-notifier.php:82
+msgid "Theme Update"
+msgstr ""
+
+#: framework/admin/update-notifier.php:82
+msgid "New"
+msgstr ""
+
+#: framework/admin/update-notifier.php:99
+msgid "New Theme Update"
+msgstr ""
+
+#: framework/admin/update-notifier.php:105
+#, php-format
+msgid "There is a new version of the %s theme available."
+msgstr ""
+
+#: framework/admin/update-notifier.php:105
+#, php-format
+msgid "You have version %1$s installed. Update to version %2$s ."
+msgstr ""
+
+#: framework/admin/update-notifier.php:111
+msgid "View the ChangeLog Details"
+msgstr ""
+
+#: framework/admin/update-notifier.php:112
+msgid "How Do I Update My Theme?"
+msgstr ""
+
+#: framework/blocks.php:905
+msgid "This Block requires the WooCoomerce plugin."
+msgstr ""
+
+#: framework/blocks.php:1035 sidebar-shop.php:20 sidebar.php:70
+msgid "Primary Sidebar"
+msgstr ""
+
+#: framework/footers/footer-instagram.php:43 framework/widgets/instagram.php:67
+msgid ""
+"Go to the InstaNow Settings page to connect your account to the Instagram "
+"API."
+msgstr ""
+
+#: framework/footers/footer-instagram.php:50 framework/widgets/instagram.php:72
+msgid ""
+"This section requries the InstaNOW Plugin. You can install it from the Theme "
+"settings menu > Install Plugins."
+msgstr ""
+
+#: framework/functions/backward-compatibility.php:447
+msgid "Review Overview"
+msgstr ""
+
+#: framework/functions/buddypress.php:247
+#: framework/functions/translations.php:106
+msgid "No new notifications"
+msgstr ""
+
+#: framework/functions/foxpush.php:42
+msgid "The Domain and API Key fields are required."
+msgstr ""
+
+#: framework/functions/mega-menus.php:453
+msgid "Jannah Custom Settings:"
+msgstr ""
+
+#: framework/functions/mega-menus.php:453
+msgid "(Only for Main Nav)"
+msgstr ""
+
+#: framework/functions/mega-menus.php:459
+msgid "Label Text"
+msgstr ""
+
+#: framework/functions/mega-menus.php:465
+msgid "Label Background"
+msgstr ""
+
+#: framework/functions/mega-menus.php:473
+msgid "Menu Icon"
+msgstr ""
+
+#: framework/functions/mega-menus.php:482
+msgid "Show the icon only?"
+msgstr ""
+
+#: framework/functions/mega-menus.php:489
+msgid "Enable The Mega Menu?"
+msgstr ""
+
+#: framework/functions/mega-menus.php:493
+msgid "Posts - Vertical Sub-Categories Filter"
+msgstr ""
+
+#: framework/functions/mega-menus.php:494
+msgid "Posts - Horizontal Sub-Categories Filter"
+msgstr ""
+
+#: framework/functions/mega-menus.php:495
+msgid "Posts - 1st Post Highlighted"
+msgstr ""
+
+#: framework/functions/mega-menus.php:497
+msgid "Mega Menu Columns"
+msgstr ""
+
+#: framework/functions/mega-menus.php:513
+msgid "Number of Mega Menu Columns"
+msgstr ""
+
+#: framework/functions/mega-menus.php:526
+msgid "Hide Mega Menu headings?"
+msgstr ""
+
+#: framework/functions/mega-menus.php:533
+msgid "Mega Menu Background Image"
+msgstr ""
+
+#: framework/functions/mega-menus.php:551
+msgid "repeat"
+msgstr ""
+
+#: framework/functions/mega-menus.php:552
+msgid "repeat-x"
+msgstr ""
+
+#: framework/functions/mega-menus.php:553
+msgid "repeat-y"
+msgstr ""
+
+#: framework/functions/mega-menus.php:559
+msgid "Padding Right"
+msgstr ""
+
+#: framework/functions/mega-menus.php:566
+msgid "Padding left"
+msgstr ""
+
+#: framework/functions/mega-menus.php:573
+msgid "Min Height"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: framework/functions/mega-menus.php:720
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: framework/functions/mega-menus.php:724
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/functions/mega-menus.php:747
+msgid "sub item"
+msgstr ""
+
+#: framework/functions/mega-menus.php:762
+msgid "Move up"
+msgstr ""
+
+#: framework/functions/mega-menus.php:775
+msgid "Move down"
+msgstr ""
+
+#: framework/functions/mega-menus.php:777
+#: framework/functions/mega-menus.php:779
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/functions/mega-menus.php:795
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/functions/mega-menus.php:801
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/functions/mega-menus.php:808
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/functions/mega-menus.php:813
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/functions/mega-menus.php:819
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/functions/mega-menus.php:825
+msgid "Description"
+msgstr ""
+
+#: framework/functions/mega-menus.php:827
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/functions/mega-menus.php:842
+msgid "Move"
+msgstr ""
+
+#: framework/functions/mega-menus.php:843
+msgid "Up one"
+msgstr ""
+
+#: framework/functions/mega-menus.php:844
+msgid "Down one"
+msgstr ""
+
+#: framework/functions/mega-menus.php:847
+msgid "To the top"
+msgstr ""
+
+#: framework/functions/mega-menus.php:854
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/functions/pagenavi.php:81
+msgid "Previous page"
+msgstr ""
+
+#: framework/functions/pagenavi.php:85
+msgid "Next page"
+msgstr ""
+
+#: framework/functions/pagenavi.php:133
+msgid "&raquo;"
+msgstr ""
+
+#: framework/functions/pagenavi.php:134
+msgid "&laquo;"
+msgstr ""
+
+#: framework/functions/setup.php:51
+msgid "Secondry Nav Menu"
+msgstr ""
+
+#: framework/functions/setup.php:52
+msgid "Main Nav Menu"
+msgstr ""
+
+#: framework/functions/setup.php:53
+msgid "404 Page menu"
+msgstr ""
+
+#: framework/functions/setup.php:54
+msgid "Footer Navigation"
+msgstr ""
+
+#: framework/functions/social.php:98
+msgid "Rss"
+msgstr ""
+
+#: framework/functions/social.php:128
+msgid "Dribbble"
+msgstr ""
+
+#: framework/functions/social.php:140 framework/functions/social.php:364
+#: framework/widgets/flickr.php:13 framework/widgets/flickr.php:64
+msgid "Flickr"
+msgstr ""
+
+#: framework/functions/social.php:146 framework/functions/social.php:365
+#: framework/widgets/youtube.php:12
+msgid "YouTube"
+msgstr ""
+
+#: framework/functions/social.php:152
+msgid "Digg"
+msgstr ""
+
+#: framework/functions/social.php:176
+msgid "Vimeo"
+msgstr ""
+
+#: framework/functions/social.php:182
+msgid "WordPress"
+msgstr ""
+
+#: framework/functions/social.php:188
+msgid "Yelp"
+msgstr ""
+
+#: framework/functions/social.php:194
+msgid "Last.FM"
+msgstr ""
+
+#: framework/functions/social.php:200
+msgid "Dropbox"
+msgstr ""
+
+#: framework/functions/social.php:206
+msgid "Xing"
+msgstr ""
+
+#: framework/functions/social.php:212
+msgid "DeviantArt"
+msgstr ""
+
+#: framework/functions/social.php:218
+msgid "Apple"
+msgstr ""
+
+#: framework/functions/social.php:224
+msgid "Foursquare"
+msgstr ""
+
+#: framework/functions/social.php:230
+msgid "GitHub"
+msgstr ""
+
+#: framework/functions/social.php:236 framework/widgets/soundcloud.php:13
+#: framework/widgets/soundcloud.php:57
+msgid "SoundCloud"
+msgstr ""
+
+#: framework/functions/social.php:242 framework/functions/social.php:367
+msgid "Behance"
+msgstr ""
+
+#: framework/functions/social.php:248 framework/functions/social.php:368
+#: framework/widgets/instagram.php:12
+msgid "Instagram"
+msgstr ""
+
+#: framework/functions/social.php:254
+msgid "Paypal"
+msgstr ""
+
+#: framework/functions/social.php:260
+msgid "Spotify"
+msgstr ""
+
+#: framework/functions/social.php:266
+msgid "Google Play"
+msgstr ""
+
+#: framework/functions/social.php:272
+msgid "500px"
+msgstr ""
+
+#: framework/functions/social.php:278
+msgid "vk.com"
+msgstr ""
+
+#: framework/functions/social.php:290
+msgid "Bitbucket"
+msgstr ""
+
+#: framework/functions/social.php:296
+msgid "Mixcloud"
+msgstr ""
+
+#: framework/functions/social.php:302
+msgid "Medium"
+msgstr ""
+
+#: framework/functions/social.php:308
+msgid "Twitch"
+msgstr ""
+
+#: framework/functions/social.php:314
+msgid "Vine"
+msgstr ""
+
+#: framework/functions/social.php:320
+msgid "Viadeo"
+msgstr ""
+
+#: framework/functions/social.php:326
+msgid "Snapchat"
+msgstr ""
+
+#: framework/functions/social.php:338
+msgid "TripAdvisor"
+msgstr ""
+
+#: framework/functions/theme-functions.php:712
+msgid "(no title)"
+msgstr ""
+
+#: framework/functions/theme-functions.php:1303
+msgid "Website"
+msgstr ""
+
+#: framework/functions/theme-functions.php:1697
+#: framework/parts/post-fly-box.php:101 sidebar-slide.php:28
+msgid "Close"
+msgstr ""
+
+#: framework/functions/theme-functions.php:2485
+msgid ""
+"This section contains some shortcodes that requries the Jannah Extinsions "
+"Plugin. You can install it from the Theme settings menu > Install Plugins."
+msgstr ""
+
+#: framework/functions/theme-functions.php:2495
+msgid ""
+"This section contains some shortcodes that requries the Timetable and Event "
+"Schedule Plugin."
+msgstr ""
+
+#: framework/functions/translations.php:48
+msgid "Share"
+msgstr ""
+
+#: framework/functions/translations.php:49
+msgid "No More Posts"
+msgstr ""
+
+#: framework/functions/translations.php:50
+msgid "View all results"
+msgstr ""
+
+#: framework/functions/translations.php:52
+msgid "Type and hit Enter"
+msgstr ""
+
+#: framework/functions/translations.php:53
+msgid "page"
+msgstr ""
+
+#: framework/functions/translations.php:54
+msgid "All"
+msgstr ""
+
+#: framework/functions/translations.php:55
+msgid "First"
+msgstr ""
+
+#: framework/functions/translations.php:56
+msgid "Last"
+msgstr ""
+
+#: framework/functions/translations.php:58
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: framework/functions/translations.php:61
+msgid "Pages"
+msgstr ""
+
+#: framework/functions/translations.php:66
+msgid "Read More &raquo;"
+msgstr ""
+
+#: framework/functions/translations.php:67
+msgid "Share via Email"
+msgstr ""
+
+#: framework/functions/translations.php:69
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: framework/functions/translations.php:70
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: framework/functions/translations.php:71
+msgid "Popular"
+msgstr ""
+
+#: framework/functions/translations.php:72
+msgid "Recent"
+msgstr ""
+
+#: framework/functions/translations.php:74
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: framework/functions/translations.php:75
+msgid "404 :("
+msgstr ""
+
+#: framework/functions/translations.php:76
+msgid "No products found"
+msgstr ""
+
+#: framework/functions/translations.php:77
+msgid "Nothing Found"
+msgstr ""
+
+#: framework/functions/translations.php:78
+msgid "Dashboard"
+msgstr ""
+
+#: framework/functions/translations.php:79
+msgid "Your Profile"
+msgstr ""
+
+#: framework/functions/translations.php:80
+msgid "Log Out"
+msgstr ""
+
+#: framework/functions/translations.php:81
+msgid "Username"
+msgstr ""
+
+#: framework/functions/translations.php:82
+msgid "Password"
+msgstr ""
+
+#: framework/functions/translations.php:83
+msgid "Forget?"
+msgstr ""
+
+#: framework/functions/translations.php:84
+msgid "Remember me"
+msgstr ""
+
+#: framework/functions/translations.php:85
+msgid "Log in"
+msgstr ""
+
+#: framework/functions/translations.php:86
+msgid "Search for"
+msgstr ""
+
+#: framework/functions/translations.php:87
+msgid "Price:"
+msgstr ""
+
+#: framework/functions/translations.php:88
+msgid "Quantity:"
+msgstr ""
+
+#: framework/functions/translations.php:89
+msgid "Cart Subtotal:"
+msgstr ""
+
+#: framework/functions/translations.php:90
+msgid "Veiw Cart"
+msgstr ""
+
+#: framework/functions/translations.php:91
+msgid "Process To Checkout"
+msgstr ""
+
+#: framework/functions/translations.php:92
+msgid "Go to the shop"
+msgstr ""
+
+#: framework/functions/translations.php:93
+msgid "Random Article"
+msgstr ""
+
+#: framework/functions/translations.php:94
+msgid "Follow"
+msgstr ""
+
+#: framework/functions/translations.php:96
+msgid "Subscribe"
+msgstr ""
+
+#: framework/functions/translations.php:97
+msgid "Related Articles"
+msgstr ""
+
+#: framework/functions/translations.php:98
+msgid "Videos"
+msgstr ""
+
+#: framework/functions/translations.php:99
+msgid "Follow us on Flickr"
+msgstr ""
+
+#: framework/functions/translations.php:100 framework/widgets/instagram.php:98
+#: framework/widgets/social-counters.php:122 framework/widgets/twitter.php:198
+msgid "Follow Us"
+msgstr ""
+
+#: framework/functions/translations.php:101
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: framework/functions/translations.php:102
+msgid "Less than a minute"
+msgstr ""
+
+#: framework/functions/translations.php:103
+#, php-format
+msgid "%s hours read"
+msgstr ""
+
+#: framework/functions/translations.php:104
+msgid "1 minute read"
+msgstr ""
+
+#: framework/functions/translations.php:105
+#, php-format
+msgid "%s minutes read"
+msgstr ""
+
+#: framework/functions/translations.php:107
+msgid "Notifications"
+msgstr ""
+
+#: framework/functions/translations.php:110
+msgid "Show Less"
+msgstr ""
+
+#: framework/functions/translations.php:111
+msgid "km/h"
+msgstr ""
+
+#: framework/functions/translations.php:112
+msgid "mph"
+msgstr ""
+
+#: framework/functions/translations.php:115
+msgid "View your shopping cart"
+msgstr ""
+
+#: framework/functions/translations.php:116
+msgid "Enter your Email address"
+msgstr ""
+
+#: framework/functions/translations.php:117
+msgid "Don't have an account?"
+msgstr ""
+
+#: framework/functions/translations.php:118
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: framework/functions/translations.php:120
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: framework/functions/translations.php:121
+msgid "Type your search words then press enter"
+msgstr ""
+
+#: framework/functions/translations.php:122
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: framework/functions/translations.php:123
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: framework/functions/translations.php:125
+msgid "Adblock Detected"
+msgstr ""
+
+#: framework/functions/translations.php:126
+msgid "Please consider supporting us by disabling your ad blocker"
+msgstr ""
+
+#: framework/headers/header-components.php:68
+msgid "Random Post"
+msgstr ""
+
+#: framework/headers/header-main-nav.php:36
+msgid "Primary Navigation"
+msgstr ""
+
+#: framework/headers/header-top-nav.php:28
+msgid "Secondary Navigation"
+msgstr ""
+
+#: framework/parts/not-found.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: framework/widgets.php:40
+msgid "Primary Widget Area"
+msgstr ""
+
+#: framework/widgets.php:50
+msgid "Slide Widget Area"
+msgstr ""
+
+#: framework/widgets.php:61
+msgid "Shop - For WooCommerce Pages"
+msgstr ""
+
+#: framework/widgets.php:62
+msgid "This widget area uses in the WooCommerce pages."
+msgstr ""
+
+#: framework/widgets.php:169
+#, php-format
+msgid "Section #%s"
+msgstr ""
+
+#: framework/widgets/about.php:162
+msgid "Image URL"
+msgstr ""
+
+#: framework/widgets/about.php:167
+msgid "Image Width"
+msgstr ""
+
+#: framework/widgets/about.php:172
+msgid "Image Height"
+msgstr ""
+
+#: framework/widgets/about.php:177
+msgid "Image Margin Top"
+msgstr ""
+
+#: framework/widgets/about.php:182
+msgid "Image Margin Bottom"
+msgstr ""
+
+#: framework/widgets/about.php:188
+msgid "Circle Shape?"
+msgstr ""
+
+#: framework/widgets/about.php:192 framework/widgets/text-html.php:74
+msgid "Text"
+msgstr ""
+
+#: framework/widgets/about.php:198 framework/widgets/social.php:84
+#: framework/widgets/text-html.php:99
+msgid "Center the content?"
+msgstr ""
+
+#: framework/widgets/about.php:203
+msgid "Show Social Icons?"
+msgstr ""
+
+#: framework/widgets/ads.php:13
+msgid "Ads 125 x 125"
+msgstr ""
+
+#: framework/widgets/ads.php:111 framework/widgets/ads.php:257
+msgid "Show the ads only?"
+msgstr ""
+
+#: framework/widgets/ads.php:116 framework/widgets/ads.php:262
+msgid "Open links in a new window?"
+msgstr ""
+
+#: framework/widgets/ads.php:127
+#, php-format
+msgid "Ad #%s"
+msgstr ""
+
+#: framework/widgets/ads.php:129 framework/widgets/ads.php:271
+msgid "Image path:"
+msgstr ""
+
+#: framework/widgets/ads.php:133 framework/widgets/ads.php:276
+msgid "The Ad URL:"
+msgstr ""
+
+#: framework/widgets/ads.php:137 framework/widgets/ads.php:281
+msgid "Code:"
+msgstr ""
+
+#: framework/widgets/author.php:13
+msgid "About the post&rsquo;s author"
+msgstr ""
+
+#: framework/widgets/author.php:50 framework/widgets/author.php:136
+#: framework/widgets/author.php:231
+msgid "This Widget appears in the single post page only."
+msgstr ""
+
+#: framework/widgets/author.php:80
+msgid "Posts By Post's Author"
+msgstr ""
+
+#: framework/widgets/author.php:145
+msgid "Display (All) link:"
+msgstr ""
+
+#: framework/widgets/author.php:177
+msgid "Custom Author Content"
+msgstr ""
+
+#: framework/widgets/author.php:235 framework/widgets/categories.php:69
+#: framework/widgets/comments-avatar.php:66 framework/widgets/facebook.php:85
+#: framework/widgets/flickr.php:75 framework/widgets/instagram.php:111
+#: framework/widgets/login.php:55 framework/widgets/newsletter.php:120
+#: framework/widgets/posts.php:155 framework/widgets/slider.php:191
+#: framework/widgets/social-counters.php:130 framework/widgets/social.php:74
+#: framework/widgets/soundcloud.php:65 framework/widgets/twitter.php:211
+#: framework/widgets/video.php:71 framework/widgets/videos-playlist.php:82
+#: framework/widgets/weather.php:104 framework/widgets/youtube.php:76
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets/author.php:240
+msgid "Center content:"
+msgstr ""
+
+#: framework/widgets/categories.php:75
+msgid "Show child categories?"
+msgstr ""
+
+#: framework/widgets/comments-avatar.php:14
+msgid "Recent Comments with avatar"
+msgstr ""
+
+#: framework/widgets/comments-avatar.php:57
+msgid "Recent Comments"
+msgstr ""
+
+#: framework/widgets/comments-avatar.php:71
+msgid "Number of comments to show:"
+msgstr ""
+
+#: framework/widgets/facebook.php:49 framework/widgets/facebook.php:75
+msgid "Find us on Facebook"
+msgstr ""
+
+#: framework/widgets/facebook.php:90 framework/widgets/google.php:82
+msgid "Page URL:"
+msgstr ""
+
+#: framework/widgets/facebook.php:96
+msgid "Hide cover Photo?"
+msgstr ""
+
+#: framework/widgets/facebook.php:101
+msgid "Show Faces?"
+msgstr ""
+
+#: framework/widgets/facebook.php:106
+msgid "Show Stream?"
+msgstr ""
+
+#: framework/widgets/flickr.php:80
+msgid "Flickr ID:"
+msgstr ""
+
+#: framework/widgets/flickr.php:82
+msgid "Find your ID at idGettr"
+msgstr ""
+
+#: framework/widgets/flickr.php:86
+msgid "Photos Order:"
+msgstr ""
+
+#: framework/widgets/flickr.php:88
+msgid "Most recent"
+msgstr ""
+
+#: framework/widgets/flickr.php:89
+msgid "Random"
+msgstr ""
+
+#: framework/widgets/flickr.php:94
+msgid "Number of photos to show:"
+msgstr ""
+
+#: framework/widgets/google.php:13
+msgid "Google+ page"
+msgstr ""
+
+#: framework/widgets/google.php:69
+msgid "Follow us on Google+"
+msgstr ""
+
+#: framework/widgets/instagram.php:133
+msgid "Number of Media Items"
+msgstr ""
+
+#: framework/widgets/newsletter.php:132
+msgid "Show the icon?"
+msgstr ""
+
+#: framework/widgets/posts.php:13
+msgid "Posts list"
+msgstr ""
+
+#: framework/widgets/posts.php:169 framework/widgets/slider.php:215
+msgid "Posts order:"
+msgstr ""
+
+#: framework/widgets/posts.php:197 framework/widgets/social-counters.php:136
+msgid "Style:"
+msgstr ""
+
+#: framework/widgets/slider.php:154
+msgid "Featured Posts"
+msgstr ""
+
+#: framework/widgets/slider.php:197
+msgid "Show the Slider only?"
+msgstr ""
+
+#: framework/widgets/social-counters.php:13
+msgid "Social Counters"
+msgstr ""
+
+#: framework/widgets/social-counters.php:73
+msgid ""
+"This widget requries the Arqam Lite Plugin, You can install it from the "
+"Theme settings menu > Install Plugins."
+msgstr ""
+
+#: framework/widgets/social-counters.php:99
+msgid "Go to the Arqam options page to set your social accounts."
+msgstr ""
+
+#: framework/widgets/social.php:79
+msgid "Show the social icons only?"
+msgstr ""
+
+#: framework/widgets/soundcloud.php:74
+msgid "Autoplay?"
+msgstr ""
+
+#: framework/widgets/tabs.php:13
+msgid "Tabs"
+msgstr ""
+
+#: framework/widgets/tabs.php:163
+msgid "Order of tabs:"
+msgstr ""
+
+#: framework/widgets/tabs.php:167
+msgid "Click Save button to be able to change the order of tabs."
+msgstr ""
+
+#: framework/widgets/tabs.php:204
+msgid "Popular order"
+msgstr ""
+
+#: framework/widgets/tabs.php:206
+msgid "Most Commented"
+msgstr ""
+
+#: framework/widgets/tabs.php:207
+msgid "Most Viewed"
+msgstr ""
+
+#: framework/widgets/tabs.php:212
+msgid "Number of items to show:"
+msgstr ""
+
+#: framework/widgets/text-html.php:13
+msgid "Text or HTML"
+msgstr ""
+
+#: framework/widgets/text-html.php:88
+msgid "Text, Shortcodes or HTML code"
+msgstr ""
+
+#: framework/widgets/twitter.php:167
+msgid "Error Can not Get Tweets, Incorrect account info."
+msgstr ""
+
+#: framework/widgets/twitter.php:220
+msgid "Consumer key:"
+msgstr ""
+
+#: framework/widgets/twitter.php:223
+msgid "Consumer secret:"
+msgstr ""
+
+#: framework/widgets/twitter.php:227
+msgid "Number of Tweets to show:"
+msgstr ""
+
+#: framework/widgets/twitter.php:232
+msgid "Slider Layout?"
+msgstr ""
+
+#: framework/widgets/video.php:12 framework/widgets/video.php:61
+msgid "Featured Video"
+msgstr ""
+
+#: framework/widgets/videos-playlist.php:72
+msgid "Featured Videos"
+msgstr ""
+
+#: framework/widgets/videos-playlist.php:86
+msgid "Videos List:"
+msgstr ""
+
+#: framework/widgets/videos-playlist.php:88
+msgid "Enter each video URL in a seprated line."
+msgstr ""
+
+#: framework/widgets/weather.php:19 framework/widgets/weather.php:85
+msgid "Weather"
+msgstr ""
+
+#: framework/widgets/weather.php:110
+msgid "Location:"
+msgstr ""
+
+#: framework/widgets/weather.php:110
+msgid "Find Your Location"
+msgstr ""
+
+#: framework/widgets/weather.php:111
+msgid "(i.e: London,UK or New York City,NY)"
+msgstr ""
+
+#: framework/widgets/weather.php:117
+msgid "API key"
+msgstr ""
+
+#: framework/widgets/weather.php:123
+msgid "Units:"
+msgstr ""
+
+#: framework/widgets/weather.php:124
+msgid "F"
+msgstr ""
+
+#: framework/widgets/weather.php:125
+msgid "C"
+msgstr ""
+
+#: framework/widgets/weather.php:129
+msgid "Forecast:"
+msgstr ""
+
+#: framework/widgets/weather.php:133
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/widgets/weather.php:142
+msgid "Custom City Name:"
+msgstr ""
+
+#: framework/widgets/weather.php:178
+msgid "WEATHER WIDGET: You need to set the API key and Location."
+msgstr ""
+
+#: framework/widgets/weather.php:346
+msgid "humidity:"
+msgstr ""
+
+#: framework/widgets/weather.php:347
+msgid "wind:"
+msgstr ""
+
+#: framework/widgets/weather.php:509
+msgid "No weather information available"
+msgstr ""
+
+#: framework/widgets/youtube.php:67
+msgid "Subscribe to our channel"
+msgstr ""
+
+#: framework/widgets/youtube.php:80
+msgid "Channel Name or ID:"
+msgstr ""
+
+#: framework/widgets/youtube.php:82
+msgid "Get it from your account advanced page."
+msgstr ""
+
+#: sidebar-slide.php:23
+msgid "Secondary Sidebar"
+msgstr ""

@@ -1,0 +1,98 @@
+.foxpush-intro {
+	text-align: center;
+	max-width: 950px;
+	margin: 0 auto;
+	padding: 25px 0;
+
+	h3 {
+		line-height: 1.8;
+	}
+}
+
+.web-notifications-stats {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	width: 25%;
+	float: left;
+
+	.box-desc {
+		font-size: 12px;
+		line-height: 26px;
+		color: #A5AEB1;
+		text-transform: uppercase;
+	}
+
+	.box-num {
+		font-size: 42px;
+		line-height: 80px;
+		font-weight: 300;
+		margin: 5px 0;
+	}
+}
+
+.web-notifications-stats-box {
+	overflow: hidden;
+}
+
+.foxpush-buttons {
+	padding-top: 10px;
+}
+
+#foxpush-connected {
+	h4 {
+		background: #65b70e;
+		color: #ffffff;
+		padding: 15px 25px;
+		display: inline-block;
+		clear: both;
+		border-radius: 5px;
+		text-align: center;
+		margin: 0 0 10px;
+	}
+}
+
+#foxpush-revoke {
+	&:not(:hover) {
+		color: red;
+	}
+}
+
+#foxpush-connect-loader {
+	margin: 5px 10px 0 -18px;
+	float: left;
+	width: 30px;
+
+	.tie-loading-wheel {
+		border-color: #fff;
+	}
+}
+
+#foxpush-connect.is-disabled {
+	cursor: default;
+	background: #000;
+	opacity: 1 !important;
+}
+
+#foxpush-connect-error-item {
+	display: none;
+	margin: 20px 20px 0 !important;
+}
+
+#foxpush-instructions {
+	h5 {
+		padding: 0 20px;
+		font-size: 14px;
+		margin: 0;
+	}
+}
+
+.foxpush-is-not-active #foxpush-is-connected,
+.foxpush-is-not-active #foxpush-ssl-file-item,
+.foxpush-is-not-active #foxpush-stats,
+.foxpush-is-active #foxpush-instructions,
+.foxpush-is-active #foxpush_domain-item,
+.foxpush-is-active #foxpush_api-item,
+.foxpush-is-active #foxpush-connect-wrapper{
+	display: none;
+}

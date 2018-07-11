@@ -1,0 +1,102 @@
+/* IE10 and Less ------------------------------ */
+textarea,
+input,
+select {
+  line-height: 16px;
+}
+
+input[type=text]::-ms-clear {
+  display: none;
+}
+
+#top-nav.has-breaking-news .tie-alignleft {
+  width: 100%;
+}
+
+#top-nav.has-date-breaking-components .tie-alignleft, #top-nav.has-date-breaking-menu .tie-alignleft, #top-nav.has-breaking-menu .tie-alignleft, #top-nav.has-breaking-components .tie-alignleft {
+  width: 50%;
+}
+
+#top-nav .ticker-wrapper.has-js {
+  width: auto;
+}
+
+.menu-tiny-label {
+  vertical-align: baseline;
+  line-height: 20px;
+}
+
+.half-box .mag-box-filter-links {
+  max-width: 120px;
+}
+
+.mag-box-filter-links {
+  max-width: 250px;
+}
+
+@media (max-width: 670px) {
+  .mag-box-filter-links {
+    max-width: 135px;
+  }
+}
+
+.rtl .mag-box .mag-box-options .mag-box-filter-links {
+  float: right;
+}
+
+.tabs-box .tabs-widget .tabs-wrapper .tabs-menu li.flexMenu-viewMore a {
+  border-width: 0 1px 1px 0 !important;
+}
+
+.rtl .tabs-box .tabs-widget .tabs-wrapper .tabs-menu li.flexMenu-viewMore a {
+  border-width: 0 0 1px 1px !important;
+}
+
+.tabs-box .tabs-widget .tabs-wrapper .tabs-menu .flexMenu-popup li:last-child a {
+  border-bottom-width: 0 !important;
+}
+
+.rtl .breaking-title:after,
+.rtl .widget-title:before,
+.rtl .mag-box-title:before,
+.rtl #comments-title:before,
+.rtl .comment-reply-title:before,
+.rtl .woocommerce-tabs .panel h2:before,
+.rtl .related.products h2:before,
+.rtl #bbpress-forums #new-post > fieldset.bbp-form > legend:before,
+.rtl .review-box-header:before,
+.rtl #theme-header .menu li.menu-item-has-children .menu-item-has-children > a:before,
+.rtl #theme-header .main-menu .mega-menu .menu-item-has-children > a:before {
+  direction: ltr;
+}
+
+input[type="text"],
+input[type="search"],
+input[type="password"],
+.search-submit,
+.search-field,
+.subscribe-widget .subscribe-input {
+  line-height: 35px;
+  height: 35px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.subscribe-widget .subscribe-input {
+  height: 44px;
+}
+
+.review-box .review-summary,
+.review-box .review-short-summary {
+  display: block;
+}
+
+@media (min-width: 321px) {
+  .normal-side .tabs-container-wrapper .tabs-menu li {
+    width: calc((100% /3) - 0.5px);
+  }
+}
+
+.main-content .tabs-box .tabs-widget .tabs-wrapper .tabs-menu {
+  display: block;
+}

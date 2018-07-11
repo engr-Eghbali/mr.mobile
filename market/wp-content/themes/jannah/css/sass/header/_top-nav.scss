@@ -1,0 +1,365 @@
+#top-nav {
+	background-color: #ffffff;
+	position: relative;
+	z-index: 10;
+	line-height: 35px;
+	border: $base-border;
+	border-width: 1px 0;
+	color: $base-color;
+
+	a:not(.button):not(:hover){
+		color: $base-color;
+	}
+
+	ul.components > li:hover > a{
+		color: $brand-color;
+	}
+
+	.topbar-wrapper{
+		box-sizing: content-box;
+		display: flex;
+		min-height: 35px;
+	}
+
+	&.has-menu,
+	&.has-components{
+		.topbar-wrapper{
+			display: block;
+		}
+	}
+
+	.tie-alignleft,
+	.tie-alignright{
+		flex-grow: 1;
+		position: relative;
+	}
+
+	&.has-breaking-news{
+		.tie-alignleft{
+			flex: 1 0 100px;
+		}
+
+		.tie-alignright{
+			flex-grow: 0;
+			z-index: 1;
+		}
+	}
+
+	&.has-breaking-news .topbar-today-date,
+	&.has-date-menu .topbar-today-date,
+	&.has-date-menu-components .topbar-today-date,
+	&.has-breaking-news .topbar-today-date,
+	&.has-breaking-menu .breaking,
+	&.has-date-breaking-menu .breaking{
+		border-right-width: 0;
+	}
+
+	&.has-date-components,
+	&.has-date-components-menu{
+		.tie-alignleft{
+			.search-bar{
+				border-left-width: 0;
+			}
+		}
+	}
+
+	.components > li:first-child:not(.search-bar){
+		border: $base-border;
+		border-width: 0 0 0 1px;
+	}
+
+	.tie-alignright{
+		.components > li:first-child:not(.search-bar){
+			border-width: 0 1px 0 0;
+		}
+	}
+
+	&.has-date-components .tie-alignleft,
+	&.has-date-components-menu,
+	.top-nav-boxed &.has-components{
+		.components > li:first-child:not(.search-bar){
+			border-width: 0;
+		}
+	}
+
+	.header-layout-1.top-nav-below:not(.has-shadow) &{
+		border-width: 0 0 1px;
+	}
+}
+
+.topbar-today-date{
+	float: left;
+	padding: 0 15px;
+	font-size: 11px;
+	border: $base-border;
+	border-width: 0 1px;
+	flex-shrink: 0;
+}
+
+/* Top Menu -------------------------------------------------------------------*/
+#top-nav .top-menu{
+	border: $base-border;
+	border-width: 0 1px;
+
+	.menu {
+		> li{
+			&.current-menu-item,
+			&.current-menu-ancestor,
+			&.current_page_parent,
+			&.current-page-ancestor,
+			&.current-post-ancestor,
+			&.current-category-ancestor{
+				> a{
+					color: $brand-color;
+				}
+			}
+		}
+	}
+}
+
+.top-menu{
+	.menu {
+		a:hover,
+		li:hover > a{
+			#top-nav &{
+				color: $brand-color;
+			}
+		}
+
+		ul{
+			display: none;
+			position: absolute;
+			background: #ffffff;
+		}
+
+		li:hover > ul{
+			display: block;
+		}
+
+		li{
+			position: relative;
+		}
+
+		li li a{
+			width: 180px;
+			line-height: 20px;
+    		padding: 7px 15px;
+		}
+
+		#theme-header & li.menu-item-has-children {
+			> a:before{
+				border-top-color: $base-color;
+			}
+
+			&:hover > a:before{
+				border-top-color: $brand-color;
+			}
+
+			li.menu-item-has-children {
+				> a:before{
+					border-left-color: $base-color;
+				}
+
+				&:hover > a:before{
+					border-top-color: transparent;
+					border-left-color: $brand-color;
+				}
+			}
+		}
+	}
+
+	.tie-alignright &{
+		float: right;
+		border-width: 0 1px;
+	}
+}
+
+
+/*Boxed Topbar-----------------------------------------------------------------*/
+#theme-header.top-nav-boxed {
+	#top-nav {
+		background: transparent;
+		border-width: 0;
+	}
+}
+
+.top-nav-boxed {
+	#top-nav {
+		background: transparent;
+		border-width: 0;
+	}
+
+	.topbar-wrapper {
+		background: #ffffff;
+		border: $base-border;
+		border-width: 0 0 1px;
+		width: 100%;
+	}
+
+	&.main-nav-above.top-nav-below:not(.header-layout-1){
+		.topbar-wrapper{
+			border-width: 1px 0;
+		}
+	}
+
+	&.has-shadow{
+		&.top-nav-below,
+		&.top-nav-below-main-nav {
+			.topbar-wrapper{
+				border-width: 1px 0 0;
+			}
+		}
+	}
+
+
+	.has-menu,
+	.has-components{
+		.topbar-wrapper {
+			border-width: 0 1px 1px;
+		}
+	}
+
+	.has-menu .tie-alignright .top-menu,
+	.has-components .tie-alignright .search-bar {
+	    border-right-width: 0;
+	}
+
+	.has-menu .tie-alignleft .top-menu,
+	.has-components .tie-alignleft .search-bar {
+	    border-left-width: 0;
+	}
+
+
+	#top-nav.has-date .tie-alignright,
+	#top-nav.has-date-components .tie-alignright,
+	#top-nav.has-date-menu .tie-alignright {
+	    border: $base-border;
+	    border-width: 0 1px 0 0;
+	}
+
+	#top-nav.has-date-components .tie-alignright .components > li:first-child,
+	#top-nav.has-date-menu .tie-alignright .top-menu {
+	    border-width: 0;
+	}
+
+}
+
+/*Topbar Components-----------------------------------------------------------*/
+#top-nav{
+	.tie-alignleft{
+		ul.components{
+			float: left;
+
+			> li{
+				float: left;
+			}
+		}
+
+		.comp-sub-menu{
+			right: auto;
+			left: -1px;
+		}
+	}
+}
+
+/*TopBar Dark Skin-------------------------------------------------------------*/
+.top-nav-dark #top-nav {
+	background-color: $top-nav-dark-bg;
+	color: $dark-base-color;
+	border-width: 0;
+
+	*{
+		border-color: $base-border-color-in-white;
+	}
+
+	.slick-vertical .slick-slide{
+		border-color: transparent;
+	}
+
+	.breaking a:not(:hover),
+	.breaking-news-nav a:not(:hover){
+		color: $dark-base-color;
+	}
+
+	.breaking a:hover{
+		color: #ffffff;
+	}
+
+	.breaking-news-nav a{
+		&:hover{
+			border-color: $brand-color;
+		}
+	}
+
+	ul.components {
+		>li > a,
+		> li.social-icons-item .social-link:not(:hover) span{
+			color: $dark-base-color;
+		}
+
+		> li > a:hover,
+		> li:hover > a {
+			color: #ffffff;
+		}
+	}
+
+	.top-menu{
+		ul{
+			background: $top-nav-dark-bg;
+		}
+
+		li a{
+			color: $dark-base-color;
+			border-color: rgba(255,255,255,0.04);
+		}
+
+		li li a:hover,
+		li:hover > a{
+			background: rgba(255,255,255,0.04);
+		}
+	}
+
+	.menu{
+		> li{
+			&.current-menu-item,
+			&.current-menu-ancestor,
+			&.current_page_parent,
+			&.current-page-ancestor,
+			&.current-post-ancestor,
+			&.current-category-ancestor{
+				> a{
+					color: $brand-color;
+				}
+			}
+		}
+	}
+
+}
+
+.top-nav-dark.top-nav-boxed #top-nav {
+	background-color: transparent !important;
+
+	.topbar-wrapper {
+		background-color: $top-nav-dark-bg;
+	}
+}
+
+.top-nav-dark.top-nav-boxed.top-nav-above.main-nav-below #top-nav{
+	.topbar-wrapper {
+		border-width: 0;
+	}
+}
+
+.top-nav-above #top-nav{
+	border-top: 0;
+}
+
+/*Top Nav Media Queries-------------------------------------------------------*/
+@include breakpoint(max_min_md){
+	#top-nav:not(.has-breaking-news),
+	.topbar-today-date,
+	.top-menu,
+	#theme-header .components{
+		display: none;
+	}
+}

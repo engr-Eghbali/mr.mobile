@@ -1,0 +1,269 @@
+.magazine3{
+	&:not(.dark-skin) .main-content-row{
+		background: #ffffff;
+	}
+
+	.section-item{
+		&.has-background{
+			padding-bottom: 40px;
+
+			.main-content-row{
+				margin-top: 40px;
+				padding-bottom: 40px;
+				border-radius: 2px;
+			}
+		}
+	}
+
+	.container-full .section-item.has-background .main-content-row{
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.mag-box{
+		margin-top: 40px;
+
+		@include breakpoint(max_min_sm){
+			margin-top: 20px;
+		}
+
+		&:not(.box-dark-skin) .show-more-button{
+			margin: 25px 0 -20px;
+		}
+	}
+
+	.container-wrapper{
+	  padding: 0;
+	  border-radius: 0;
+	  background: transparent;
+	  border: 0;
+	}
+
+	@at-root .magazine3.one-column-no-sidebar .main-content{
+		.mag-box:not(.video-playlist-box) .container-wrapper{
+			padding-left: 15px !important;
+			padding-right: 15px !important;
+		}
+	}
+
+	.news-gallery .big-thumb-col .post-thumb{
+		height: 314px;
+	}
+
+	&.full-width .news-gallery .big-thumb-col .post-thumb{
+		height: 429px;
+	}
+
+	//widgets
+	@include breakpoint(md){
+		&.sidebar-right .sidebar{
+			padding-left: 30px;
+		}
+
+		&.sidebar-left .sidebar{
+			padding-right: 30px;
+		}
+	}
+
+	.sidebar{
+		.widget-content-only{
+			margin-bottom: 60px;
+		}
+	}
+
+	.tabs-widget .tabs-wrapper{
+		.tab-content{
+			padding: 0;
+		}
+
+		.tabs-menu{
+			margin-bottom: 20px;
+			background: $dark-color;
+
+			li{
+				&:after{
+					display: none;
+				}
+			}
+
+			li a{
+				background: $dark-color;
+				color: #ffffff;
+				border: 0;
+				font-weight: 600;
+				line-height: 55px;
+
+				&:before{
+				  display: none;
+				}
+			}
+
+			li a:hover,
+			li.is-active a{
+				background: $brand-color;
+				color: color-contrast($brand-color);
+			}
+		}
+	}
+
+	.tabs-box .tabs-widget .tabs-wrapper .tabs-menu {
+		border-bottom: 0;
+
+		.flexMenu-popup{
+			border-width: 0;
+
+			li a{
+				padding: 0 20px 0 40px;
+				line-height: 40px;
+			}
+		}
+	}
+
+	// weather widget
+	.container-wrapper.tie-weather-widget{
+		background: $brand-color;
+		padding: 0;
+		position: relative;
+		width: calc(100% + 2px);
+		left: calc(-1px);
+	}
+
+	//single
+	.entry-header{
+		padding: 0;
+	}
+
+	@include breakpoint_max($screen-lg + 45px){
+		&.post-layout-4{
+			.entry-header{
+				padding: 0 30px;
+
+				@include breakpoint(max_min_md){
+					padding: 0 20px;
+				}
+			}
+		}
+	}
+
+	&.post-layout-1,
+	&.post-layout-2,
+	&.post-layout-6{
+		.entry-header-outer{
+			padding: 0 0 20px;
+		}
+	}
+
+	&.post-layout-2 .featured-area{
+		margin-bottom: 20px;
+	}
+
+	&.wide-title-narrow-media .fullwidth-entry-title{
+		padding: 0;
+	}
+
+	.entry-header-outer #breadcrumb{
+
+	}
+
+	.post-footer-on-top {
+		margin-top: 0;
+	}
+
+	.entry-content,
+	.post-footer,
+	.post-footer.post-footer-on-top {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.post-footer {
+		background: transparent;
+	}
+
+	.prev-next-post-nav{
+		padding: 0!important;
+	}
+
+	.about-author{
+		padding: 0 0 30px;
+		border-bottom: $base-border;
+	}
+
+	article.container-wrapper{
+		border-bottom: $base-border;
+		margin-bottom: 30px;
+	}
+
+
+	// Post Layout #8 at magazine 3
+	&.post-layout-8{
+		@include breakpoint(md){
+			.main-content-row{
+				padding: 15px 30px 30px;
+			}
+
+			&.sidebar-right{
+				.sidebar{
+					padding-right: 0;
+				}
+
+				.main-content{
+					padding-left: 0;
+				}
+			}
+
+			&.sidebar-left{
+				.sidebar{
+					padding-left: 0;
+				}
+
+				.main-content{
+					padding-right: 0;
+				}
+			}
+		}
+	}
+
+	// single shop
+	&.single-product .tabs-box #reviews {
+		padding: 0;
+	}
+
+	// Category Pages
+	&.archive {
+	    .wide-post-box.big-thumbnail .top-news-post-content {
+	        padding: 0;
+	    }
+
+	    .masonry-grid-wrapper{
+	    	margin-top: 0;
+	    }
+
+    	.entry-header-outer{
+    		padding-left: 0;
+    		padding-right: 0;
+    		padding-bottom: 30px;
+    		border-bottom: $primary-border;
+    	}
+
+    	.entry-archives-header{
+    		padding-left: 0;
+    		padding-right: 0;
+    	}
+
+	}
+
+	//Side Asied
+	.side-aside{
+		.container-wrapper{
+			padding: 40px;
+		}
+	}
+
+	.tie-popup-container {
+		.container-wrapper {
+			background: #ffffff;
+		}
+	}
+
+}

@@ -1,0 +1,972 @@
+
+---Downloaded files---
+The import files for: Auto were successfully downloaded!
+MAX EXECUTION TIME = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2017/06/demo-content-import-file_2017-06-21__15-21-22.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+---Importing content---
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 4
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "T_1_front" (post #16)
+[WARNING] Could not find the author for "T_1_front" (post #16)
+[WARNING] Could not find the post parent for "T_1_back" (post #17)
+[WARNING] Could not find the author for "T_1_back" (post #17)
+[WARNING] Could not find the post parent for "T_2_front" (post #920)
+[WARNING] Could not find the author for "T_2_front" (post #920)
+[WARNING] Could not find the post parent for "T_2_back" (post #21)
+[WARNING] Could not find the author for "T_2_back" (post #21)
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 5
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "T_1_front" (post #16)
+[WARNING] Could not find the author for "T_1_front" (post #16)
+[WARNING] Could not find the post parent for "T_1_back" (post #17)
+[WARNING] Could not find the author for "T_1_back" (post #17)
+[WARNING] Could not find the post parent for "T_2_front" (post #920)
+[WARNING] Could not find the author for "T_2_front" (post #920)
+[WARNING] Could not find the post parent for "T_2_back" (post #21)
+[WARNING] Could not find the author for "T_2_back" (post #21)
+[WARNING] Could not find the post parent for "T_4_front" (post #921)
+[WARNING] Could not find the author for "T_4_front" (post #921)
+[WARNING] Could not find the post parent for "T_3_back" (post #922)
+[WARNING] Could not find the author for "T_3_back" (post #922)
+[WARNING] Could not find the post parent for "T_3_front" (post #923)
+[WARNING] Could not find the author for "T_3_front" (post #923)
+[WARNING] Could not find the post parent for "T_4_back" (post #28)
+[WARNING] Could not find the author for "T_4_back" (post #28)
+[WARNING] Could not find the post parent for "T_4_front" (post #29)
+[WARNING] Could not find the author for "T_4_front" (post #29)
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 6
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "T_1_front" (post #16)
+[WARNING] Could not find the author for "T_1_front" (post #16)
+[WARNING] Could not find the post parent for "T_1_back" (post #17)
+[WARNING] Could not find the author for "T_1_back" (post #17)
+[WARNING] Could not find the post parent for "T_2_front" (post #920)
+[WARNING] Could not find the author for "T_2_front" (post #920)
+[WARNING] Could not find the post parent for "T_2_back" (post #21)
+[WARNING] Could not find the author for "T_2_back" (post #21)
+[WARNING] Could not find the post parent for "T_4_front" (post #921)
+[WARNING] Could not find the author for "T_4_front" (post #921)
+[WARNING] Could not find the post parent for "T_3_back" (post #922)
+[WARNING] Could not find the author for "T_3_back" (post #922)
+[WARNING] Could not find the post parent for "T_3_front" (post #923)
+[WARNING] Could not find the author for "T_3_front" (post #923)
+[WARNING] Could not find the post parent for "T_4_back" (post #28)
+[WARNING] Could not find the author for "T_4_back" (post #28)
+[WARNING] Could not find the post parent for "T_4_front" (post #29)
+[WARNING] Could not find the author for "T_4_front" (post #29)
+[WARNING] Could not find the post parent for "T_5_front" (post #32)
+[WARNING] Could not find the author for "T_5_front" (post #32)
+[WARNING] Could not find the post parent for "T_5_back" (post #33)
+[WARNING] Could not find the author for "T_5_back" (post #33)
+[WARNING] Could not find the post parent for "T_6_front" (post #35)
+[WARNING] Could not find the author for "T_6_front" (post #35)
+[WARNING] Could not find the post parent for "T_6_back" (post #36)
+[WARNING] Could not find the author for "T_6_back" (post #36)
+[WARNING] Could not find the post parent for "T_7_front" (post #38)
+[WARNING] Could not find the author for "T_7_front" (post #38)
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 7
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "T_1_front" (post #16)
+[WARNING] Could not find the author for "T_1_front" (post #16)
+[WARNING] Could not find the post parent for "T_1_back" (post #17)
+[WARNING] Could not find the author for "T_1_back" (post #17)
+[WARNING] Could not find the post parent for "T_2_front" (post #920)
+[WARNING] Could not find the author for "T_2_front" (post #920)
+[WARNING] Could not find the post parent for "T_2_back" (post #21)
+[WARNING] Could not find the author for "T_2_back" (post #21)
+[WARNING] Could not find the post parent for "T_4_front" (post #921)
+[WARNING] Could not find the author for "T_4_front" (post #921)
+[WARNING] Could not find the post parent for "T_3_back" (post #922)
+[WARNING] Could not find the author for "T_3_back" (post #922)
+[WARNING] Could not find the post parent for "T_3_front" (post #923)
+[WARNING] Could not find the author for "T_3_front" (post #923)
+[WARNING] Could not find the post parent for "T_4_back" (post #28)
+[WARNING] Could not find the author for "T_4_back" (post #28)
+[WARNING] Could not find the post parent for "T_4_front" (post #29)
+[WARNING] Could not find the author for "T_4_front" (post #29)
+[WARNING] Could not find the post parent for "T_5_front" (post #32)
+[WARNING] Could not find the author for "T_5_front" (post #32)
+[WARNING] Could not find the post parent for "T_5_back" (post #33)
+[WARNING] Could not find the author for "T_5_back" (post #33)
+[WARNING] Could not find the post parent for "T_6_front" (post #35)
+[WARNING] Could not find the author for "T_6_front" (post #35)
+[WARNING] Could not find the post parent for "T_6_back" (post #36)
+[WARNING] Could not find the author for "T_6_back" (post #36)
+[WARNING] Could not find the post parent for "T_7_front" (post #38)
+[WARNING] Could not find the author for "T_7_front" (post #38)
+[WARNING] Could not find the post parent for "T_7_back" (post #39)
+[WARNING] Could not find the author for "T_7_back" (post #39)
+[WARNING] Could not find the post parent for "hoodie_7_front" (post #43)
+[WARNING] Could not find the author for "hoodie_7_front" (post #43)
+[WARNING] Could not find the post parent for "hoodie_7_back" (post #44)
+[WARNING] Could not find the author for "hoodie_7_back" (post #44)
+[WARNING] Could not find the post parent for "hoodie_1_back" (post #45)
+[WARNING] Could not find the author for "hoodie_1_back" (post #45)
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 8
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "T_1_front" (post #16)
+[WARNING] Could not find the author for "T_1_front" (post #16)
+[WARNING] Could not find the post parent for "T_1_back" (post #17)
+[WARNING] Could not find the author for "T_1_back" (post #17)
+[WARNING] Could not find the post parent for "T_2_front" (post #920)
+[WARNING] Could not find the author for "T_2_front" (post #920)
+[WARNING] Could not find the post parent for "T_2_back" (post #21)
+[WARNING] Could not find the author for "T_2_back" (post #21)
+[WARNING] Could not find the post parent for "T_4_front" (post #921)
+[WARNING] Could not find the author for "T_4_front" (post #921)
+[WARNING] Could not find the post parent for "T_3_back" (post #922)
+[WARNING] Could not find the author for "T_3_back" (post #922)
+[WARNING] Could not find the post parent for "T_3_front" (post #923)
+[WARNING] Could not find the author for "T_3_front" (post #923)
+[WARNING] Could not find the post parent for "T_4_back" (post #28)
+[WARNING] Could not find the author for "T_4_back" (post #28)
+[WARNING] Could not find the post parent for "T_4_front" (post #29)
+[WARNING] Could not find the author for "T_4_front" (post #29)
+[WARNING] Could not find the post parent for "T_5_front" (post #32)
+[WARNING] Could not find the author for "T_5_front" (post #32)
+[WARNING] Could not find the post parent for "T_5_back" (post #33)
+[WARNING] Could not find the author for "T_5_back" (post #33)
+[WARNING] Could not find the post parent for "T_6_front" (post #35)
+[WARNING] Could not find the author for "T_6_front" (post #35)
+[WARNING] Could not find the post parent for "T_6_back" (post #36)
+[WARNING] Could not find the author for "T_6_back" (post #36)
+[WARNING] Could not find the post parent for "T_7_front" (post #38)
+[WARNING] Could not find the author for "T_7_front" (post #38)
+[WARNING] Could not find the post parent for "T_7_back" (post #39)
+[WARNING] Could not find the author for "T_7_back" (post #39)
+[WARNING] Could not find the post parent for "hoodie_7_front" (post #43)
+[WARNING] Could not find the author for "hoodie_7_front" (post #43)
+[WARNING] Could not find the post parent for "hoodie_7_back" (post #44)
+[WARNING] Could not find the author for "hoodie_7_back" (post #44)
+[WARNING] Could not find the post parent for "hoodie_1_back" (post #45)
+[WARNING] Could not find the author for "hoodie_1_back" (post #45)
+[WARNING] Could not find the post parent for "hoodie_1_front" (post #46)
+[WARNING] Could not find the author for "hoodie_1_front" (post #46)
+[WARNING] Could not find the post parent for "hoodie_2_front" (post #48)
+[WARNING] Could not find the author for "hoodie_2_front" (post #48)
+[WARNING] Could not find the post parent for "hoodie_2_back" (post #49)
+[WARNING] Could not find the author for "hoodie_2_back" (post #49)
+[WARNING] Could not find the post parent for "hoodie_3_front" (post #51)
+[WARNING] Could not find the author for "hoodie_3_front" (post #51)
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 9
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "T_1_front" (post #16)
+[WARNING] Could not find the author for "T_1_front" (post #16)
+[WARNING] Could not find the post parent for "T_1_back" (post #17)
+[WARNING] Could not find the author for "T_1_back" (post #17)
+[WARNING] Could not find the post parent for "T_2_front" (post #920)
+[WARNING] Could not find the author for "T_2_front" (post #920)
+[WARNING] Could not find the post parent for "T_2_back" (post #21)
+[WARNING] Could not find the author for "T_2_back" (post #21)
+[WARNING] Could not find the post parent for "T_4_front" (post #921)
+[WARNING] Could not find the author for "T_4_front" (post #921)
+[WARNING] Could not find the post parent for "T_3_back" (post #922)
+[WARNING] Could not find the author for "T_3_back" (post #922)
+[WARNING] Could not find the post parent for "T_3_front" (post #923)
+[WARNING] Could not find the author for "T_3_front" (post #923)
+[WARNING] Could not find the post parent for "T_4_back" (post #28)
+[WARNING] Could not find the author for "T_4_back" (post #28)
+[WARNING] Could not find the post parent for "T_4_front" (post #29)
+[WARNING] Could not find the author for "T_4_front" (post #29)
+[WARNING] Could not find the post parent for "T_5_front" (post #32)
+[WARNING] Could not find the author for "T_5_front" (post #32)
+[WARNING] Could not find the post parent for "T_5_back" (post #33)
+[WARNING] Could not find the author for "T_5_back" (post #33)
+[WARNING] Could not find the post parent for "T_6_front" (post #35)
+[WARNING] Could not find the author for "T_6_front" (post #35)
+[WARNING] Could not find the post parent for "T_6_back" (post #36)
+[WARNING] Could not find the author for "T_6_back" (post #36)
+[WARNING] Could not find the post parent for "T_7_front" (post #38)
+[WARNING] Could not find the author for "T_7_front" (post #38)
+[WARNING] Could not find the post parent for "T_7_back" (post #39)
+[WARNING] Could not find the author for "T_7_back" (post #39)
+[WARNING] Could not find the post parent for "hoodie_7_front" (post #43)
+[WARNING] Could not find the author for "hoodie_7_front" (post #43)
+[WARNING] Could not find the post parent for "hoodie_7_back" (post #44)
+[WARNING] Could not find the author for "hoodie_7_back" (post #44)
+[WARNING] Could not find the post parent for "hoodie_1_back" (post #45)
+[WARNING] Could not find the author for "hoodie_1_back" (post #45)
+[WARNING] Could not find the post parent for "hoodie_1_front" (post #46)
+[WARNING] Could not find the author for "hoodie_1_front" (post #46)
+[WARNING] Could not find the post parent for "hoodie_2_front" (post #48)
+[WARNING] Could not find the author for "hoodie_2_front" (post #48)
+[WARNING] Could not find the post parent for "hoodie_2_back" (post #49)
+[WARNING] Could not find the author for "hoodie_2_back" (post #49)
+[WARNING] Could not find the post parent for "hoodie_3_front" (post #51)
+[WARNING] Could not find the author for "hoodie_3_front" (post #51)
+[WARNING] Could not find the post parent for "hoodie_3_back" (post #52)
+[WARNING] Could not find the author for "hoodie_3_back" (post #52)
+[WARNING] Could not find the post parent for "hoodie_4_front" (post #54)
+[WARNING] Could not find the author for "hoodie_4_front" (post #54)
+[WARNING] Could not find the post parent for "hoodie_4_back" (post #55)
+[WARNING] Could not find the author for "hoodie_4_back" (post #55)
+[WARNING] Could not find the post parent for "hoodie_5_front" (post #57)
+[WARNING] Could not find the author for "hoodie_5_front" (post #57)
+[WARNING] Could not find the post parent for "hoodie_5_back" (post #58)
+[WARNING] Could not find the author for "hoodie_5_back" (post #58)
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 10
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "T_1_front" (post #16)
+[WARNING] Could not find the author for "T_1_front" (post #16)
+[WARNING] Could not find the post parent for "T_1_back" (post #17)
+[WARNING] Could not find the author for "T_1_back" (post #17)
+[WARNING] Could not find the post parent for "T_2_front" (post #920)
+[WARNING] Could not find the author for "T_2_front" (post #920)
+[WARNING] Could not find the post parent for "T_2_back" (post #21)
+[WARNING] Could not find the author for "T_2_back" (post #21)
+[WARNING] Could not find the post parent for "T_4_front" (post #921)
+[WARNING] Could not find the author for "T_4_front" (post #921)
+[WARNING] Could not find the post parent for "T_3_back" (post #922)
+[WARNING] Could not find the author for "T_3_back" (post #922)
+[WARNING] Could not find the post parent for "T_3_front" (post #923)
+[WARNING] Could not find the author for "T_3_front" (post #923)
+[WARNING] Could not find the post parent for "T_4_back" (post #28)
+[WARNING] Could not find the author for "T_4_back" (post #28)
+[WARNING] Could not find the post parent for "T_4_front" (post #29)
+[WARNING] Could not find the author for "T_4_front" (post #29)
+[WARNING] Could not find the post parent for "T_5_front" (post #32)
+[WARNING] Could not find the author for "T_5_front" (post #32)
+[WARNING] Could not find the post parent for "T_5_back" (post #33)
+[WARNING] Could not find the author for "T_5_back" (post #33)
+[WARNING] Could not find the post parent for "T_6_front" (post #35)
+[WARNING] Could not find the author for "T_6_front" (post #35)
+[WARNING] Could not find the post parent for "T_6_back" (post #36)
+[WARNING] Could not find the author for "T_6_back" (post #36)
+[WARNING] Could not find the post parent for "T_7_front" (post #38)
+[WARNING] Could not find the author for "T_7_front" (post #38)
+[WARNING] Could not find the post parent for "T_7_back" (post #39)
+[WARNING] Could not find the author for "T_7_back" (post #39)
+[WARNING] Could not find the post parent for "hoodie_7_front" (post #43)
+[WARNING] Could not find the author for "hoodie_7_front" (post #43)
+[WARNING] Could not find the post parent for "hoodie_7_back" (post #44)
+[WARNING] Could not find the author for "hoodie_7_back" (post #44)
+[WARNING] Could not find the post parent for "hoodie_1_back" (post #45)
+[WARNING] Could not find the author for "hoodie_1_back" (post #45)
+[WARNING] Could not find the post parent for "hoodie_1_front" (post #46)
+[WARNING] Could not find the author for "hoodie_1_front" (post #46)
+[WARNING] Could not find the post parent for "hoodie_2_front" (post #48)
+[WARNING] Could not find the author for "hoodie_2_front" (post #48)
+[WARNING] Could not find the post parent for "hoodie_2_back" (post #49)
+[WARNING] Could not find the author for "hoodie_2_back" (post #49)
+[WARNING] Could not find the post parent for "hoodie_3_front" (post #51)
+[WARNING] Could not find the author for "hoodie_3_front" (post #51)
+[WARNING] Could not find the post parent for "hoodie_3_back" (post #52)
+[WARNING] Could not find the author for "hoodie_3_back" (post #52)
+[WARNING] Could not find the post parent for "hoodie_4_front" (post #54)
+[WARNING] Could not find the author for "hoodie_4_front" (post #54)
+[WARNING] Could not find the post parent for "hoodie_4_back" (post #55)
+[WARNING] Could not find the author for "hoodie_4_back" (post #55)
+[WARNING] Could not find the post parent for "hoodie_5_front" (post #57)
+[WARNING] Could not find the author for "hoodie_5_front" (post #57)
+[WARNING] Could not find the post parent for "hoodie_5_back" (post #58)
+[WARNING] Could not find the author for "hoodie_5_back" (post #58)
+[WARNING] Could not find the post parent for "hoodie_6_front" (post #61)
+[WARNING] Could not find the author for "hoodie_6_front" (post #61)
+[WARNING] Could not find the post parent for "hoodie_6_back" (post #62)
+[WARNING] Could not find the author for "hoodie_6_back" (post #62)
+[WARNING] Could not find the post parent for "poster_1_up" (post #68)
+[WARNING] Could not find the author for "poster_1_up" (post #68)
+[WARNING] Could not find the post parent for "Poster_1_flat" (post #69)
+[WARNING] Could not find the author for "Poster_1_flat" (post #69)
+[WARNING] Could not find the post parent for "poster_2_up" (post #71)
+[WARNING] Could not find the author for "poster_2_up" (post #71)
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 11
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "T_1_front" (post #16)
+[WARNING] Could not find the author for "T_1_front" (post #16)
+[WARNING] Could not find the post parent for "T_1_back" (post #17)
+[WARNING] Could not find the author for "T_1_back" (post #17)
+[WARNING] Could not find the post parent for "T_2_front" (post #920)
+[WARNING] Could not find the author for "T_2_front" (post #920)
+[WARNING] Could not find the post parent for "T_2_back" (post #21)
+[WARNING] Could not find the author for "T_2_back" (post #21)
+[WARNING] Could not find the post parent for "T_4_front" (post #921)
+[WARNING] Could not find the author for "T_4_front" (post #921)
+[WARNING] Could not find the post parent for "T_3_back" (post #922)
+[WARNING] Could not find the author for "T_3_back" (post #922)
+[WARNING] Could not find the post parent for "T_3_front" (post #923)
+[WARNING] Could not find the author for "T_3_front" (post #923)
+[WARNING] Could not find the post parent for "T_4_back" (post #28)
+[WARNING] Could not find the author for "T_4_back" (post #28)
+[WARNING] Could not find the post parent for "T_4_front" (post #29)
+[WARNING] Could not find the author for "T_4_front" (post #29)
+[WARNING] Could not find the post parent for "T_5_front" (post #32)
+[WARNING] Could not find the author for "T_5_front" (post #32)
+[WARNING] Could not find the post parent for "T_5_back" (post #33)
+[WARNING] Could not find the author for "T_5_back" (post #33)
+[WARNING] Could not find the post parent for "T_6_front" (post #35)
+[WARNING] Could not find the author for "T_6_front" (post #35)
+[WARNING] Could not find the post parent for "T_6_back" (post #36)
+[WARNING] Could not find the author for "T_6_back" (post #36)
+[WARNING] Could not find the post parent for "T_7_front" (post #38)
+[WARNING] Could not find the author for "T_7_front" (post #38)
+[WARNING] Could not find the post parent for "T_7_back" (post #39)
+[WARNING] Could not find the author for "T_7_back" (post #39)
+[WARNING] Could not find the post parent for "hoodie_7_front" (post #43)
+[WARNING] Could not find the author for "hoodie_7_front" (post #43)
+[WARNING] Could not find the post parent for "hoodie_7_back" (post #44)
+[WARNING] Could not find the author for "hoodie_7_back" (post #44)
+[WARNING] Could not find the post parent for "hoodie_1_back" (post #45)
+[WARNING] Could not find the author for "hoodie_1_back" (post #45)
+[WARNING] Could not find the post parent for "hoodie_1_front" (post #46)
+[WARNING] Could not find the author for "hoodie_1_front" (post #46)
+[WARNING] Could not find the post parent for "hoodie_2_front" (post #48)
+[WARNING] Could not find the author for "hoodie_2_front" (post #48)
+[WARNING] Could not find the post parent for "hoodie_2_back" (post #49)
+[WARNING] Could not find the author for "hoodie_2_back" (post #49)
+[WARNING] Could not find the post parent for "hoodie_3_front" (post #51)
+[WARNING] Could not find the author for "hoodie_3_front" (post #51)
+[WARNING] Could not find the post parent for "hoodie_3_back" (post #52)
+[WARNING] Could not find the author for "hoodie_3_back" (post #52)
+[WARNING] Could not find the post parent for "hoodie_4_front" (post #54)
+[WARNING] Could not find the author for "hoodie_4_front" (post #54)
+[WARNING] Could not find the post parent for "hoodie_4_back" (post #55)
+[WARNING] Could not find the author for "hoodie_4_back" (post #55)
+[WARNING] Could not find the post parent for "hoodie_5_front" (post #57)
+[WARNING] Could not find the author for "hoodie_5_front" (post #57)
+[WARNING] Could not find the post parent for "hoodie_5_back" (post #58)
+[WARNING] Could not find the author for "hoodie_5_back" (post #58)
+[WARNING] Could not find the post parent for "hoodie_6_front" (post #61)
+[WARNING] Could not find the author for "hoodie_6_front" (post #61)
+[WARNING] Could not find the post parent for "hoodie_6_back" (post #62)
+[WARNING] Could not find the author for "hoodie_6_back" (post #62)
+[WARNING] Could not find the post parent for "poster_1_up" (post #68)
+[WARNING] Could not find the author for "poster_1_up" (post #68)
+[WARNING] Could not find the post parent for "Poster_1_flat" (post #69)
+[WARNING] Could not find the author for "Poster_1_flat" (post #69)
+[WARNING] Could not find the post parent for "poster_2_up" (post #71)
+[WARNING] Could not find the author for "poster_2_up" (post #71)
+[WARNING] Could not find the post parent for "Poster_2_flat" (post #72)
+[WARNING] Could not find the author for "Poster_2_flat" (post #72)
+[WARNING] Could not find the post parent for "poster_3_up" (post #74)
+[WARNING] Could not find the author for "poster_3_up" (post #74)
+[WARNING] Could not find the post parent for "Poster_3_flat" (post #75)
+[WARNING] Could not find the author for "Poster_3_flat" (post #75)
+[WARNING] Could not find the post parent for "poster_4_up" (post #77)
+[WARNING] Could not find the author for "poster_4_up" (post #77)
+[WARNING] Could not find the post parent for "Poster_4_flat" (post #78)
+[WARNING] Could not find the author for "Poster_4_flat" (post #78)
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 12
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "T_1_front" (post #16)
+[WARNING] Could not find the author for "T_1_front" (post #16)
+[WARNING] Could not find the post parent for "T_1_back" (post #17)
+[WARNING] Could not find the author for "T_1_back" (post #17)
+[WARNING] Could not find the post parent for "T_2_front" (post #920)
+[WARNING] Could not find the author for "T_2_front" (post #920)
+[WARNING] Could not find the post parent for "T_2_back" (post #21)
+[WARNING] Could not find the author for "T_2_back" (post #21)
+[WARNING] Could not find the post parent for "T_4_front" (post #921)
+[WARNING] Could not find the author for "T_4_front" (post #921)
+[WARNING] Could not find the post parent for "T_3_back" (post #922)
+[WARNING] Could not find the author for "T_3_back" (post #922)
+[WARNING] Could not find the post parent for "T_3_front" (post #923)
+[WARNING] Could not find the author for "T_3_front" (post #923)
+[WARNING] Could not find the post parent for "T_4_back" (post #28)
+[WARNING] Could not find the author for "T_4_back" (post #28)
+[WARNING] Could not find the post parent for "T_4_front" (post #29)
+[WARNING] Could not find the author for "T_4_front" (post #29)
+[WARNING] Could not find the post parent for "T_5_front" (post #32)
+[WARNING] Could not find the author for "T_5_front" (post #32)
+[WARNING] Could not find the post parent for "T_5_back" (post #33)
+[WARNING] Could not find the author for "T_5_back" (post #33)
+[WARNING] Could not find the post parent for "T_6_front" (post #35)
+[WARNING] Could not find the author for "T_6_front" (post #35)
+[WARNING] Could not find the post parent for "T_6_back" (post #36)
+[WARNING] Could not find the author for "T_6_back" (post #36)
+[WARNING] Could not find the post parent for "T_7_front" (post #38)
+[WARNING] Could not find the author for "T_7_front" (post #38)
+[WARNING] Could not find the post parent for "T_7_back" (post #39)
+[WARNING] Could not find the author for "T_7_back" (post #39)
+[WARNING] Could not find the post parent for "hoodie_7_front" (post #43)
+[WARNING] Could not find the author for "hoodie_7_front" (post #43)
+[WARNING] Could not find the post parent for "hoodie_7_back" (post #44)
+[WARNING] Could not find the author for "hoodie_7_back" (post #44)
+[WARNING] Could not find the post parent for "hoodie_1_back" (post #45)
+[WARNING] Could not find the author for "hoodie_1_back" (post #45)
+[WARNING] Could not find the post parent for "hoodie_1_front" (post #46)
+[WARNING] Could not find the author for "hoodie_1_front" (post #46)
+[WARNING] Could not find the post parent for "hoodie_2_front" (post #48)
+[WARNING] Could not find the author for "hoodie_2_front" (post #48)
+[WARNING] Could not find the post parent for "hoodie_2_back" (post #49)
+[WARNING] Could not find the author for "hoodie_2_back" (post #49)
+[WARNING] Could not find the post parent for "hoodie_3_front" (post #51)
+[WARNING] Could not find the author for "hoodie_3_front" (post #51)
+[WARNING] Could not find the post parent for "hoodie_3_back" (post #52)
+[WARNING] Could not find the author for "hoodie_3_back" (post #52)
+[WARNING] Could not find the post parent for "hoodie_4_front" (post #54)
+[WARNING] Could not find the author for "hoodie_4_front" (post #54)
+[WARNING] Could not find the post parent for "hoodie_4_back" (post #55)
+[WARNING] Could not find the author for "hoodie_4_back" (post #55)
+[WARNING] Could not find the post parent for "hoodie_5_front" (post #57)
+[WARNING] Could not find the author for "hoodie_5_front" (post #57)
+[WARNING] Could not find the post parent for "hoodie_5_back" (post #58)
+[WARNING] Could not find the author for "hoodie_5_back" (post #58)
+[WARNING] Could not find the post parent for "hoodie_6_front" (post #61)
+[WARNING] Could not find the author for "hoodie_6_front" (post #61)
+[WARNING] Could not find the post parent for "hoodie_6_back" (post #62)
+[WARNING] Could not find the author for "hoodie_6_back" (post #62)
+[WARNING] Could not find the post parent for "poster_1_up" (post #68)
+[WARNING] Could not find the author for "poster_1_up" (post #68)
+[WARNING] Could not find the post parent for "Poster_1_flat" (post #69)
+[WARNING] Could not find the author for "Poster_1_flat" (post #69)
+[WARNING] Could not find the post parent for "poster_2_up" (post #71)
+[WARNING] Could not find the author for "poster_2_up" (post #71)
+[WARNING] Could not find the post parent for "Poster_2_flat" (post #72)
+[WARNING] Could not find the author for "Poster_2_flat" (post #72)
+[WARNING] Could not find the post parent for "poster_3_up" (post #74)
+[WARNING] Could not find the author for "poster_3_up" (post #74)
+[WARNING] Could not find the post parent for "Poster_3_flat" (post #75)
+[WARNING] Could not find the author for "Poster_3_flat" (post #75)
+[WARNING] Could not find the post parent for "poster_4_up" (post #77)
+[WARNING] Could not find the author for "poster_4_up" (post #77)
+[WARNING] Could not find the post parent for "Poster_4_flat" (post #78)
+[WARNING] Could not find the author for "Poster_4_flat" (post #78)
+[WARNING] Could not find the post parent for "poster_5_up" (post #80)
+[WARNING] Could not find the author for "poster_5_up" (post #80)
+[WARNING] Could not find the post parent for "Poster_5_flat" (post #81)
+[WARNING] Could not find the author for "Poster_5_flat" (post #81)
+[WARNING] Could not find the post parent for "cd_1_angle" (post #84)
+[WARNING] Could not find the author for "cd_1_angle" (post #84)
+[WARNING] Could not find the post parent for "cd_1_flat" (post #85)
+[WARNING] Could not find the author for "cd_1_flat" (post #85)
+[WARNING] Could not find the post parent for "cd_2_angle" (post #88)
+[WARNING] Could not find the author for "cd_2_angle" (post #88)
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 13
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "T_1_front" (post #16)
+[WARNING] Could not find the author for "T_1_front" (post #16)
+[WARNING] Could not find the post parent for "T_1_back" (post #17)
+[WARNING] Could not find the author for "T_1_back" (post #17)
+[WARNING] Could not find the post parent for "T_2_front" (post #920)
+[WARNING] Could not find the author for "T_2_front" (post #920)
+[WARNING] Could not find the post parent for "T_2_back" (post #21)
+[WARNING] Could not find the author for "T_2_back" (post #21)
+[WARNING] Could not find the post parent for "T_4_front" (post #921)
+[WARNING] Could not find the author for "T_4_front" (post #921)
+[WARNING] Could not find the post parent for "T_3_back" (post #922)
+[WARNING] Could not find the author for "T_3_back" (post #922)
+[WARNING] Could not find the post parent for "T_3_front" (post #923)
+[WARNING] Could not find the author for "T_3_front" (post #923)
+[WARNING] Could not find the post parent for "T_4_back" (post #28)
+[WARNING] Could not find the author for "T_4_back" (post #28)
+[WARNING] Could not find the post parent for "T_4_front" (post #29)
+[WARNING] Could not find the author for "T_4_front" (post #29)
+[WARNING] Could not find the post parent for "T_5_front" (post #32)
+[WARNING] Could not find the author for "T_5_front" (post #32)
+[WARNING] Could not find the post parent for "T_5_back" (post #33)
+[WARNING] Could not find the author for "T_5_back" (post #33)
+[WARNING] Could not find the post parent for "T_6_front" (post #35)
+[WARNING] Could not find the author for "T_6_front" (post #35)
+[WARNING] Could not find the post parent for "T_6_back" (post #36)
+[WARNING] Could not find the author for "T_6_back" (post #36)
+[WARNING] Could not find the post parent for "T_7_front" (post #38)
+[WARNING] Could not find the author for "T_7_front" (post #38)
+[WARNING] Could not find the post parent for "T_7_back" (post #39)
+[WARNING] Could not find the author for "T_7_back" (post #39)
+[WARNING] Could not find the post parent for "hoodie_7_front" (post #43)
+[WARNING] Could not find the author for "hoodie_7_front" (post #43)
+[WARNING] Could not find the post parent for "hoodie_7_back" (post #44)
+[WARNING] Could not find the author for "hoodie_7_back" (post #44)
+[WARNING] Could not find the post parent for "hoodie_1_back" (post #45)
+[WARNING] Could not find the author for "hoodie_1_back" (post #45)
+[WARNING] Could not find the post parent for "hoodie_1_front" (post #46)
+[WARNING] Could not find the author for "hoodie_1_front" (post #46)
+[WARNING] Could not find the post parent for "hoodie_2_front" (post #48)
+[WARNING] Could not find the author for "hoodie_2_front" (post #48)
+[WARNING] Could not find the post parent for "hoodie_2_back" (post #49)
+[WARNING] Could not find the author for "hoodie_2_back" (post #49)
+[WARNING] Could not find the post parent for "hoodie_3_front" (post #51)
+[WARNING] Could not find the author for "hoodie_3_front" (post #51)
+[WARNING] Could not find the post parent for "hoodie_3_back" (post #52)
+[WARNING] Could not find the author for "hoodie_3_back" (post #52)
+[WARNING] Could not find the post parent for "hoodie_4_front" (post #54)
+[WARNING] Could not find the author for "hoodie_4_front" (post #54)
+[WARNING] Could not find the post parent for "hoodie_4_back" (post #55)
+[WARNING] Could not find the author for "hoodie_4_back" (post #55)
+[WARNING] Could not find the post parent for "hoodie_5_front" (post #57)
+[WARNING] Could not find the author for "hoodie_5_front" (post #57)
+[WARNING] Could not find the post parent for "hoodie_5_back" (post #58)
+[WARNING] Could not find the author for "hoodie_5_back" (post #58)
+[WARNING] Could not find the post parent for "hoodie_6_front" (post #61)
+[WARNING] Could not find the author for "hoodie_6_front" (post #61)
+[WARNING] Could not find the post parent for "hoodie_6_back" (post #62)
+[WARNING] Could not find the author for "hoodie_6_back" (post #62)
+[WARNING] Could not find the post parent for "poster_1_up" (post #68)
+[WARNING] Could not find the author for "poster_1_up" (post #68)
+[WARNING] Could not find the post parent for "Poster_1_flat" (post #69)
+[WARNING] Could not find the author for "Poster_1_flat" (post #69)
+[WARNING] Could not find the post parent for "poster_2_up" (post #71)
+[WARNING] Could not find the author for "poster_2_up" (post #71)
+[WARNING] Could not find the post parent for "Poster_2_flat" (post #72)
+[WARNING] Could not find the author for "Poster_2_flat" (post #72)
+[WARNING] Could not find the post parent for "poster_3_up" (post #74)
+[WARNING] Could not find the author for "poster_3_up" (post #74)
+[WARNING] Could not find the post parent for "Poster_3_flat" (post #75)
+[WARNING] Could not find the author for "Poster_3_flat" (post #75)
+[WARNING] Could not find the post parent for "poster_4_up" (post #77)
+[WARNING] Could not find the author for "poster_4_up" (post #77)
+[WARNING] Could not find the post parent for "Poster_4_flat" (post #78)
+[WARNING] Could not find the author for "Poster_4_flat" (post #78)
+[WARNING] Could not find the post parent for "poster_5_up" (post #80)
+[WARNING] Could not find the author for "poster_5_up" (post #80)
+[WARNING] Could not find the post parent for "Poster_5_flat" (post #81)
+[WARNING] Could not find the author for "Poster_5_flat" (post #81)
+[WARNING] Could not find the post parent for "cd_1_angle" (post #84)
+[WARNING] Could not find the author for "cd_1_angle" (post #84)
+[WARNING] Could not find the post parent for "cd_1_flat" (post #85)
+[WARNING] Could not find the author for "cd_1_flat" (post #85)
+[WARNING] Could not find the post parent for "cd_2_angle" (post #88)
+[WARNING] Could not find the author for "cd_2_angle" (post #88)
+[WARNING] Could not find the post parent for "cd_2_flat" (post #89)
+[WARNING] Could not find the author for "cd_2_flat" (post #89)
+[WARNING] Could not find the post parent for "cd_3_angle" (post #91)
+[WARNING] Could not find the author for "cd_3_angle" (post #91)
+[WARNING] Could not find the post parent for "cd_3_flat" (post #92)
+[WARNING] Could not find the author for "cd_3_flat" (post #92)
+[WARNING] Could not find the post parent for "cd_4_flat" (post #94)
+[WARNING] Could not find the author for "cd_4_flat" (post #94)
+[WARNING] Could not find the post parent for "cd_4_angle" (post #95)
+[WARNING] Could not find the author for "cd_4_angle" (post #95)
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 14
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the author for "T_1_front" (post #16)
+[WARNING] Could not find the author for "T_1_back" (post #17)
+[WARNING] Could not find the post parent for "T_2_front" (post #920)
+[WARNING] Could not find the author for "T_2_front" (post #920)
+[WARNING] Could not find the post parent for "T_2_back" (post #21)
+[WARNING] Could not find the author for "T_2_back" (post #21)
+[WARNING] Could not find the post parent for "T_4_front" (post #921)
+[WARNING] Could not find the author for "T_4_front" (post #921)
+[WARNING] Could not find the post parent for "T_3_back" (post #922)
+[WARNING] Could not find the author for "T_3_back" (post #922)
+[WARNING] Could not find the post parent for "T_3_front" (post #923)
+[WARNING] Could not find the author for "T_3_front" (post #923)
+[WARNING] Could not find the post parent for "T_4_back" (post #28)
+[WARNING] Could not find the author for "T_4_back" (post #28)
+[WARNING] Could not find the post parent for "T_4_front" (post #29)
+[WARNING] Could not find the author for "T_4_front" (post #29)
+[WARNING] Could not find the post parent for "T_5_front" (post #32)
+[WARNING] Could not find the author for "T_5_front" (post #32)
+[WARNING] Could not find the post parent for "T_5_back" (post #33)
+[WARNING] Could not find the author for "T_5_back" (post #33)
+[WARNING] Could not find the post parent for "T_6_front" (post #35)
+[WARNING] Could not find the author for "T_6_front" (post #35)
+[WARNING] Could not find the post parent for "T_6_back" (post #36)
+[WARNING] Could not find the author for "T_6_back" (post #36)
+[WARNING] Could not find the post parent for "T_7_front" (post #38)
+[WARNING] Could not find the author for "T_7_front" (post #38)
+[WARNING] Could not find the post parent for "T_7_back" (post #39)
+[WARNING] Could not find the author for "T_7_back" (post #39)
+[WARNING] Could not find the post parent for "hoodie_7_front" (post #43)
+[WARNING] Could not find the author for "hoodie_7_front" (post #43)
+[WARNING] Could not find the post parent for "hoodie_7_back" (post #44)
+[WARNING] Could not find the author for "hoodie_7_back" (post #44)
+[WARNING] Could not find the post parent for "hoodie_1_back" (post #45)
+[WARNING] Could not find the author for "hoodie_1_back" (post #45)
+[WARNING] Could not find the post parent for "hoodie_1_front" (post #46)
+[WARNING] Could not find the author for "hoodie_1_front" (post #46)
+[WARNING] Could not find the post parent for "hoodie_2_front" (post #48)
+[WARNING] Could not find the author for "hoodie_2_front" (post #48)
+[WARNING] Could not find the post parent for "hoodie_2_back" (post #49)
+[WARNING] Could not find the author for "hoodie_2_back" (post #49)
+[WARNING] Could not find the post parent for "hoodie_3_front" (post #51)
+[WARNING] Could not find the author for "hoodie_3_front" (post #51)
+[WARNING] Could not find the post parent for "hoodie_3_back" (post #52)
+[WARNING] Could not find the author for "hoodie_3_back" (post #52)
+[WARNING] Could not find the post parent for "hoodie_4_front" (post #54)
+[WARNING] Could not find the author for "hoodie_4_front" (post #54)
+[WARNING] Could not find the post parent for "hoodie_4_back" (post #55)
+[WARNING] Could not find the author for "hoodie_4_back" (post #55)
+[WARNING] Could not find the post parent for "hoodie_5_front" (post #57)
+[WARNING] Could not find the author for "hoodie_5_front" (post #57)
+[WARNING] Could not find the post parent for "hoodie_5_back" (post #58)
+[WARNING] Could not find the author for "hoodie_5_back" (post #58)
+[WARNING] Could not find the post parent for "hoodie_6_front" (post #61)
+[WARNING] Could not find the author for "hoodie_6_front" (post #61)
+[WARNING] Could not find the post parent for "hoodie_6_back" (post #62)
+[WARNING] Could not find the author for "hoodie_6_back" (post #62)
+[WARNING] Could not find the post parent for "poster_1_up" (post #68)
+[WARNING] Could not find the author for "poster_1_up" (post #68)
+[WARNING] Could not find the post parent for "Poster_1_flat" (post #69)
+[WARNING] Could not find the author for "Poster_1_flat" (post #69)
+[WARNING] Could not find the post parent for "poster_2_up" (post #71)
+[WARNING] Could not find the author for "poster_2_up" (post #71)
+[WARNING] Could not find the post parent for "Poster_2_flat" (post #72)
+[WARNING] Could not find the author for "Poster_2_flat" (post #72)
+[WARNING] Could not find the post parent for "poster_3_up" (post #74)
+[WARNING] Could not find the author for "poster_3_up" (post #74)
+[WARNING] Could not find the post parent for "Poster_3_flat" (post #75)
+[WARNING] Could not find the author for "Poster_3_flat" (post #75)
+[WARNING] Could not find the post parent for "poster_4_up" (post #77)
+[WARNING] Could not find the author for "poster_4_up" (post #77)
+[WARNING] Could not find the post parent for "Poster_4_flat" (post #78)
+[WARNING] Could not find the author for "Poster_4_flat" (post #78)
+[WARNING] Could not find the post parent for "poster_5_up" (post #80)
+[WARNING] Could not find the author for "poster_5_up" (post #80)
+[WARNING] Could not find the post parent for "Poster_5_flat" (post #81)
+[WARNING] Could not find the author for "Poster_5_flat" (post #81)
+[WARNING] Could not find the post parent for "cd_1_angle" (post #84)
+[WARNING] Could not find the author for "cd_1_angle" (post #84)
+[WARNING] Could not find the post parent for "cd_1_flat" (post #85)
+[WARNING] Could not find the author for "cd_1_flat" (post #85)
+[WARNING] Could not find the post parent for "cd_2_angle" (post #88)
+[WARNING] Could not find the author for "cd_2_angle" (post #88)
+[WARNING] Could not find the post parent for "cd_2_flat" (post #89)
+[WARNING] Could not find the author for "cd_2_flat" (post #89)
+[WARNING] Could not find the post parent for "cd_3_angle" (post #91)
+[WARNING] Could not find the author for "cd_3_angle" (post #91)
+[WARNING] Could not find the post parent for "cd_3_flat" (post #92)
+[WARNING] Could not find the author for "cd_3_flat" (post #92)
+[WARNING] Could not find the post parent for "cd_4_flat" (post #94)
+[WARNING] Could not find the author for "cd_4_flat" (post #94)
+[WARNING] Could not find the post parent for "cd_4_angle" (post #95)
+[WARNING] Could not find the author for "cd_4_angle" (post #95)
+[WARNING] Could not find the post parent for "cd_5_angle" (post #97)
+[WARNING] Could not find the author for "cd_5_angle" (post #97)
+[WARNING] Could not find the post parent for "cd_5_flat" (post #98)
+[WARNING] Could not find the author for "cd_5_flat" (post #98)
+[WARNING] Could not find the post parent for "cd_6_angle" (post #100)
+[WARNING] Could not find the author for "cd_6_angle" (post #100)
+[WARNING] Could not find the post parent for "cd_6_flat" (post #101)
+[WARNING] Could not find the author for "cd_6_flat" (post #101)
+[WARNING] Could not find the author for "Woo Logo" (post #15)
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 15
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the author for "T_2_front" (post #920)
+[WARNING] Could not find the author for "T_2_back" (post #21)
+[WARNING] Could not find the author for "T_4_front" (post #921)
+[WARNING] Could not find the author for "T_3_back" (post #922)
+[WARNING] Could not find the author for "T_3_front" (post #923)
+[WARNING] Could not find the author for "T_4_back" (post #28)
+[WARNING] Could not find the author for "T_4_front" (post #29)
+[WARNING] Could not find the author for "T_5_front" (post #32)
+[WARNING] Could not find the author for "T_5_back" (post #33)
+[WARNING] Could not find the author for "T_6_front" (post #35)
+[WARNING] Could not find the author for "T_6_back" (post #36)
+[WARNING] Could not find the author for "T_7_front" (post #38)
+[WARNING] Could not find the author for "T_7_back" (post #39)
+[WARNING] Could not find the author for "hoodie_7_front" (post #43)
+[WARNING] Could not find the author for "hoodie_7_back" (post #44)
+[WARNING] Could not find the author for "hoodie_1_back" (post #45)
+[WARNING] Could not find the author for "hoodie_1_front" (post #46)
+[WARNING] Could not find the author for "hoodie_2_front" (post #48)
+[WARNING] Could not find the author for "hoodie_2_back" (post #49)
+[WARNING] Could not find the author for "hoodie_3_front" (post #51)
+[WARNING] Could not find the author for "hoodie_3_back" (post #52)
+[WARNING] Could not find the author for "hoodie_4_front" (post #54)
+[WARNING] Could not find the author for "hoodie_4_back" (post #55)
+[WARNING] Could not find the author for "hoodie_5_front" (post #57)
+[WARNING] Could not find the author for "hoodie_5_back" (post #58)
+[WARNING] Could not find the post parent for "hoodie_6_front" (post #61)
+[WARNING] Could not find the author for "hoodie_6_front" (post #61)
+[WARNING] Could not find the post parent for "hoodie_6_back" (post #62)
+[WARNING] Could not find the author for "hoodie_6_back" (post #62)
+[WARNING] Could not find the post parent for "poster_1_up" (post #68)
+[WARNING] Could not find the author for "poster_1_up" (post #68)
+[WARNING] Could not find the post parent for "Poster_1_flat" (post #69)
+[WARNING] Could not find the author for "Poster_1_flat" (post #69)
+[WARNING] Could not find the post parent for "poster_2_up" (post #71)
+[WARNING] Could not find the author for "poster_2_up" (post #71)
+[WARNING] Could not find the post parent for "Poster_2_flat" (post #72)
+[WARNING] Could not find the author for "Poster_2_flat" (post #72)
+[WARNING] Could not find the post parent for "poster_3_up" (post #74)
+[WARNING] Could not find the author for "poster_3_up" (post #74)
+[WARNING] Could not find the post parent for "Poster_3_flat" (post #75)
+[WARNING] Could not find the author for "Poster_3_flat" (post #75)
+[WARNING] Could not find the post parent for "poster_4_up" (post #77)
+[WARNING] Could not find the author for "poster_4_up" (post #77)
+[WARNING] Could not find the post parent for "Poster_4_flat" (post #78)
+[WARNING] Could not find the author for "Poster_4_flat" (post #78)
+[WARNING] Could not find the post parent for "poster_5_up" (post #80)
+[WARNING] Could not find the author for "poster_5_up" (post #80)
+[WARNING] Could not find the post parent for "Poster_5_flat" (post #81)
+[WARNING] Could not find the author for "Poster_5_flat" (post #81)
+[WARNING] Could not find the post parent for "cd_1_angle" (post #84)
+[WARNING] Could not find the author for "cd_1_angle" (post #84)
+[WARNING] Could not find the post parent for "cd_1_flat" (post #85)
+[WARNING] Could not find the author for "cd_1_flat" (post #85)
+[WARNING] Could not find the post parent for "cd_2_angle" (post #88)
+[WARNING] Could not find the author for "cd_2_angle" (post #88)
+[WARNING] Could not find the post parent for "cd_2_flat" (post #89)
+[WARNING] Could not find the author for "cd_2_flat" (post #89)
+[WARNING] Could not find the post parent for "cd_3_angle" (post #91)
+[WARNING] Could not find the author for "cd_3_angle" (post #91)
+[WARNING] Could not find the post parent for "cd_3_flat" (post #92)
+[WARNING] Could not find the author for "cd_3_flat" (post #92)
+[WARNING] Could not find the post parent for "cd_4_flat" (post #94)
+[WARNING] Could not find the author for "cd_4_flat" (post #94)
+[WARNING] Could not find the post parent for "cd_4_angle" (post #95)
+[WARNING] Could not find the author for "cd_4_angle" (post #95)
+[WARNING] Could not find the post parent for "cd_5_angle" (post #97)
+[WARNING] Could not find the author for "cd_5_angle" (post #97)
+[WARNING] Could not find the post parent for "cd_5_flat" (post #98)
+[WARNING] Could not find the author for "cd_5_flat" (post #98)
+[WARNING] Could not find the post parent for "cd_6_angle" (post #100)
+[WARNING] Could not find the author for "cd_6_angle" (post #100)
+[WARNING] Could not find the post parent for "cd_6_flat" (post #101)
+[WARNING] Could not find the author for "cd_6_flat" (post #101)
+[WARNING] Could not find the author for "Woo Logo" (post #15)
+[WARNING] Could not find the author for "Premium Quality" (post #924)
+[WARNING] Could not find the author for "Ship Your Idea" (post #22)
+[WARNING] Could not find the author for "Ninja Silhouette" (post #925)
+[WARNING] Could not find the author for "Woo Ninja" (post #34)
+[WARNING] Could not find the author for "Happy Ninja" (post #37)
+[WARNING] Could not find the author for "Ship Your Idea" (post #40)
+[WARNING] Could not find the author for "Woo Ninja" (post #47)
+[WARNING] Could not find the author for "Patient Ninja" (post #50)
+[WARNING] Could not find the author for "Happy Ninja" (post #53)
+[WARNING] Could not find the author for "Ninja Silhouette" (post #56)
+[WARNING] Could not find the author for comment #22
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+------
+Completed AJAX call number: 16
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+
+
+---Importing content---
+[WARNING] Could not find the author for "hoodie_6_front" (post #61)
+[WARNING] Could not find the author for "hoodie_6_back" (post #62)
+[WARNING] Could not find the author for "poster_1_up" (post #68)
+[WARNING] Could not find the author for "Poster_1_flat" (post #69)
+[WARNING] Could not find the author for "poster_2_up" (post #71)
+[WARNING] Could not find the author for "Poster_2_flat" (post #72)
+[WARNING] Could not find the author for "poster_3_up" (post #74)
+[WARNING] Could not find the author for "Poster_3_flat" (post #75)
+[WARNING] Could not find the author for "poster_4_up" (post #77)
+[WARNING] Could not find the author for "Poster_4_flat" (post #78)
+[WARNING] Could not find the author for "poster_5_up" (post #80)
+[WARNING] Could not find the author for "Poster_5_flat" (post #81)
+[WARNING] Could not find the author for "cd_1_angle" (post #84)
+[WARNING] Could not find the author for "cd_1_flat" (post #85)
+[WARNING] Could not find the author for "cd_2_angle" (post #88)
+[WARNING] Could not find the author for "cd_2_flat" (post #89)
+[WARNING] Could not find the author for "cd_3_angle" (post #91)
+[WARNING] Could not find the author for "cd_3_flat" (post #92)
+[WARNING] Could not find the author for "cd_4_flat" (post #94)
+[WARNING] Could not find the author for "cd_4_angle" (post #95)
+[WARNING] Could not find the post parent for "cd_5_angle" (post #97)
+[WARNING] Could not find the author for "cd_5_angle" (post #97)
+[WARNING] Could not find the post parent for "cd_5_flat" (post #98)
+[WARNING] Could not find the author for "cd_5_flat" (post #98)
+[WARNING] Could not find the post parent for "cd_6_angle" (post #100)
+[WARNING] Could not find the author for "cd_6_angle" (post #100)
+[WARNING] Could not find the post parent for "cd_6_flat" (post #101)
+[WARNING] Could not find the author for "cd_6_flat" (post #101)
+[WARNING] Could not find the author for "Woo Logo" (post #15)
+[WARNING] Could not find the author for "Premium Quality" (post #924)
+[WARNING] Could not find the author for "Ship Your Idea" (post #22)
+[WARNING] Could not find the author for "Ninja Silhouette" (post #925)
+[WARNING] Could not find the author for "Woo Ninja" (post #34)
+[WARNING] Could not find the author for "Happy Ninja" (post #37)
+[WARNING] Could not find the author for "Ship Your Idea" (post #40)
+[WARNING] Could not find the author for "Woo Ninja" (post #47)
+[WARNING] Could not find the author for "Patient Ninja" (post #50)
+[WARNING] Could not find the author for "Happy Ninja" (post #53)
+[WARNING] Could not find the author for "Ninja Silhouette" (post #56)
+[WARNING] Could not find the author for "Woo Logo" (post #60)
+[WARNING] Could not find the author for "Ship Your Idea" (post #67)
+[WARNING] Could not find the author for "Flying Ninja" (post #70)
+[WARNING] Could not find the author for "Premium Quality" (post #73)
+[WARNING] Could not find the author for "Woo Ninja" (post #76)
+[WARNING] Could not find the author for "Ship Your Idea" (post #23)
+[WARNING] Could not find the author for "Ship Your Idea" (post #926)
+[WARNING] Could not find the author for "Ship Your Idea" (post #41)
+[WARNING] Could not find the author for "Ship Your Idea" (post #42)
+[WARNING] Could not find the author for "Woo Logo" (post #79)
+[WARNING] Could not find the author for "Woo Album #1" (post #83)
+[WARNING] Could not find the author for "Woo Album #2" (post #87)
+[WARNING] Could not find the author for "Woo Album #3" (post #90)
+[WARNING] Could not find the author for "Woo Single #1" (post #93)
+[WARNING] Could not find the author for comment #22
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+---Importing content---
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Green
+[WARNING] Could not find the author for "cd_5_angle" (post #97)
+[WARNING] Could not find the author for "cd_5_flat" (post #98)
+[WARNING] Could not find the author for "cd_6_angle" (post #100)
+[WARNING] Could not find the author for "cd_6_flat" (post #101)
+[WARNING] Could not find the author for "Woo Logo" (post #15)
+[WARNING] Could not find the author for "Premium Quality" (post #924)
+[WARNING] Could not find the author for "Ship Your Idea" (post #22)
+[WARNING] Could not find the author for "Ninja Silhouette" (post #925)
+[WARNING] Could not find the author for "Woo Ninja" (post #34)
+[WARNING] Could not find the author for "Happy Ninja" (post #37)
+[WARNING] Could not find the author for "Ship Your Idea" (post #40)
+[WARNING] Could not find the author for "Woo Ninja" (post #47)
+[WARNING] Could not find the author for "Patient Ninja" (post #50)
+[WARNING] Could not find the author for "Happy Ninja" (post #53)
+[WARNING] Could not find the author for "Ninja Silhouette" (post #56)
+[WARNING] Could not find the author for "Woo Logo" (post #60)
+[WARNING] Could not find the author for "Ship Your Idea" (post #67)
+[WARNING] Could not find the author for "Flying Ninja" (post #70)
+[WARNING] Could not find the author for "Premium Quality" (post #73)
+[WARNING] Could not find the author for "Woo Ninja" (post #76)
+[WARNING] Could not find the author for "Ship Your Idea" (post #23)
+[WARNING] Could not find the author for "Ship Your Idea" (post #926)
+[WARNING] Could not find the author for "Ship Your Idea" (post #41)
+[WARNING] Could not find the author for "Ship Your Idea" (post #42)
+[WARNING] Could not find the author for "Woo Logo" (post #79)
+[WARNING] Could not find the author for "Woo Album #1" (post #83)
+[WARNING] Could not find the author for "Woo Album #2" (post #87)
+[WARNING] Could not find the author for "Woo Album #3" (post #90)
+[WARNING] Could not find the author for "Woo Single #1" (post #93)
+[WARNING] Could not find the author for "Woo Album #4" (post #96)
+[WARNING] Could not find the author for "Woo Single #2" (post #99)
+[WARNING] Could not find the author for comment #22
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+---pt-ocdi/before_widgets_import---
+
+
+---Completed---
+The Demo has been imported in 107.24849104881econds.

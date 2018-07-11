@@ -1,0 +1,232 @@
+/* GLOBAL SETTINGS
+   ----------------------------- */
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	border: 0 none;
+	outline: none;
+	box-sizing: border-box;
+}
+
+*:before,
+*:after{
+	box-sizing: border-box;
+}
+
+body{
+	background: $bg-color;
+	color: $base-color;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", "Open Sans", sans-serif;
+	font-size: 13px;
+	line-height: 21px;
+}
+
+h1,h2,h3,h4,h5,h6{
+	line-height: 1.3;
+	font-weight: 600;
+}
+
+h1{
+	font-size: $font-size-h1;
+	font-weight: 700;
+}
+
+h2{
+	font-size: $font-size-h2;
+}
+
+h3{
+	font-size: $font-size-h3;
+}
+
+h4{
+	font-size: $font-size-h4;
+}
+
+h5{
+	font-size: $font-size-h5;
+}
+
+h6{
+	font-size: $font-size-h6;
+}
+
+a{
+	color: #333;
+	text-decoration: none;
+	transition: 0.15s;
+}
+
+a:hover{
+	color: $brand-color;
+}
+
+//img:not(.lazy-img),
+img,
+object,
+embed{
+	max-width: 100%;
+	height: auto;
+}
+
+iframe{
+	max-width: 100%;
+}
+
+p{
+	line-height: 21px;
+}
+
+code,
+kbd,
+tt,
+var,
+samp,
+pre {
+	font-family: Inconsolata, Monaco,'MonacoRegular',monospace;
+	font-size: 13px;
+	line-height: 1.6;
+}
+
+pre{
+	overflow: auto;
+	margin: 20px 0;
+	padding: 1.43em;
+	color: #3f3b36;
+	border: 1px solid $brand-color;
+	border-left: 10px solid $brand-color;
+	background: url(../images/code-bg.png) repeat top;
+	background-size: 1px 40px;
+	text-align: left;
+	direction: ltr;
+	tab-size: 2;
+}
+
+code {
+	background-color: #d1d1d1;
+	color: #1a1a1a;
+	padding: 0.125em 0.25em;
+}
+
+
+/* selection */
+::-moz-selection{
+	background: $brand-color;
+	color: color-contrast($brand-color);
+	text-shadow: none;
+}
+
+::selection{
+	background: $brand-color;
+	color: color-contrast($brand-color);
+	text-shadow: none;
+}
+
+/* Forms */
+textarea,
+input,
+select{
+	border: $base-border;
+	color: $base-color;
+	font-size: 12px;
+	outline: none;
+	padding: 5px;
+	line-height: 23px;
+	border-radius: $base-border-radius;
+	transition: background 0.3s, border 0.3s;
+	max-width: 100%;
+	background-color: transparent;
+
+	&:hover,
+	&:focus{
+		background-color: rgba(0,0,0,0.03);
+	}
+}
+
+textarea,
+input:not([type="checkbox"]):not([type="radio"]){
+	appearance: none;
+}
+
+textarea{
+	width: 100%;
+}
+
+select{
+	padding: 5px;
+	height: 30px;
+}
+
+select[multiple]{
+	height: auto;
+}
+
+[type="radio"] {
+	appearance: radio;
+}
+
+/* Buttons */
+.button,
+a.button,
+a.more-link,
+.entry a.more-link,
+input[type="submit"] {
+	width: auto;
+	position: relative;
+	background-color: $brand-color;
+	color: color-contrast($brand-color);
+	padding: 7px 15px;
+	margin: 0;
+	font-weight: normal;
+	font-size: 12px;
+	display: inline-block;
+	text-align: center;
+	line-height: 21px;
+	border: none;
+	cursor: pointer;
+	text-decoration: none;
+	vertical-align: middle;
+	transition: 0.3s;
+	border-radius: $base-border-radius;
+	appearance: none;
+
+	&:hover{
+		background-color: $dark-brand-color;
+		text-decoration: none;
+		color: color-contrast($brand-color);
+	}
+}
+
+.button.guest-btn{
+	background: #ffffff;
+	border: $base-border;
+
+	&:not(:hover){
+		color: $base-color;
+	}
+}
+
+button.dark-btn,
+a.dark-btn,
+.dark-btn{
+	&.button{
+		background: $dark-color;
+		color: #ffffff;
+		border: 0;
+
+		&:hover{
+			background: $darker-color;
+		}
+	}
+}
+
+button.small-btn,
+a.small-btn,
+.small-btn{
+	padding: 2px 10px;
+}
+
+.background-overlay {
+	background-attachment: fixed;
+}

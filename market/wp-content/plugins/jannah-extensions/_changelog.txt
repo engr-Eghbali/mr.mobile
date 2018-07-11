@@ -1,0 +1,8 @@
+*** Jannah - Extensions Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.0.1
+- Moved the slideshow js code to the Javascript file.
+
+Version 1.0.0
+- First release
