@@ -221,22 +221,22 @@ switch (monthdte) {
                 },
                 navigation: function() {
                             $(".nav-left a").on("touchstart click", function(e) {
-                                        e.preventDefault();
-                                        var t = $(this).attr("href").replace("#", "");
+                                       e.preventDefault();
+                                       var t = $(this).attr("href").replace("#", "");
                                       //  $(".sidebar").toggleClass("active"), $(".html").removeClass("visible"), "home" == t || "" == t || null == t ? $(".html.welcome").addClass("visible") : $(".html." + t).addClass("visible"), App.title($(this).text())
                                       if(mobile==0 && t=="mobile"){
                                         $("#apple").show(100);
                                         $("#samsung").show(200);
-                                        $("#nokia").show(300);
+                                        $("#lg").show(300);
                                         $("#htc").show(400);
-                                        $("#others").show(500);
+                                        $("#tablet").show(500);
                                         $("#mobile").toggleClass("fa-caret-right fa-caret-down");
                                         mobile=1;
                                     }else{
                                         if(t=="mobile"){
-                                        $("#others").hide(100);
+                                        $("#tablet").hide(100);
                                         $("#htc").hide(200);
-                                        $("#nokia").hide(300);
+                                        $("#lg").hide(300);
                                         $("#samsung").hide(400);
                                         $("#apple").hide(500);
                                         $("#mobile").toggleClass("fa-caret-right fa-caret-down");
@@ -259,6 +259,48 @@ switch (monthdte) {
                                         sim=0;
                                         }
                                 
+                                    }
+
+
+                                    switch (t){
+                                        case 'apple':
+                                        window.location.replace('./apple.html');
+                                        break;
+                                        case 'samsung':
+                                        window.location.replace('./samsung.html');
+                                        break;
+                                        case 'lg':
+                                        window.location.replace('./lg.html');
+                                        break;
+                                        case 'htc':
+                                        window.location.replace('./htc.html');
+                                        break;
+                                        case 'tablet':
+                                        window.location.replace('./tablet.html');
+                                        break;
+                                        case 'mci':
+                                        window.location.replace('./mci.html');
+                                        break;
+                                        case 'mtn':
+                                        window.location.replace('./mtn.html');
+                                        break;
+                                        case 'rightel':
+                                        window.location.replace('./rightel.html');
+                                        break;
+                                        case 'access':
+                                        window.location.replace('./access.html');
+                                        break;
+                                        case 'user':
+                                        window.location.replace('./user.html');
+                                        break;
+                                        case 'support':
+                                        window.location.replace('./support.html');
+                                        break;
+                                        case 'about':
+                                        window.location.replace('./about.html');
+                                        break;
+                                        
+
                                     }
                             })
                 }
@@ -294,3 +336,11 @@ function goTo(url){
     setTimeout(function(){window.location.replace(url);},2);
   }
   
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function(){
+
+        $(".mobile-wrap").show();
+        $("#splash").fadeOut();
+        
+       }, 1500);
+ }, false);

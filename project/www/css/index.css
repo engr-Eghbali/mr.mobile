@@ -33,6 +33,7 @@ body {
   height: -webkit-fill-available;
   overflow: hidden;
   position: relative;
+  background-size: cover !important;
   background: url("../img/bg.png") center no-repeat;
   box-shadow: 0 12px 15px 0 rgba(0, 0, 0, .24), 0 17px 50px 0 rgba(0, 0, 0, .19)
 }
@@ -1026,4 +1027,27 @@ body {
 
 #header{
   width: 38vh;
+}
+
+#splash{
+  z-index: 9999 !important;
+  width: 100vh !important;
+  height: 100vh !important;
+  background-color: rgb(255, 255, 255);
+  display: list-item;
+}
+#spl1{
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 92%;
+  width: 40%;
+  position: fixed;
+}
+#spl2{
+  
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 45%;
+  width: 40%;
+  position: fixed;
 }

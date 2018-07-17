@@ -18,7 +18,12 @@
 </head>  
     <body>
   
-      <div class="mobile-wrap">
+        <div id="splash">
+          <img src="./img/splash.svg" id="spl1">
+          <img src="img/mr.png" id="spl2">
+        </div>
+        
+      <div class="mobile-wrap" style="display: none;">
         <div class="mobile clearfix">
           <div class="header">
             <span class="ion-ios-navicon pull-left"><i></i></span>
@@ -47,21 +52,21 @@
                   <br>
                   <br>
                   <br>
-                <a href="#mobile" onclick="openMobile()" ><span class="ion-ios-list-outline"></span><i id="mobile" class="fas fa-caret-right"></i> موبایل</a>
-                <a href="#" style="display: none;" id="apple"><span class="ion-ios-list-outline"></span> اپل</a>
-                <a href="#" style="display: none;" id="samsung"><span class="ion-ios-list-outline"></span> سامسونگ</a>
-                <a href="#" style="display: none;" id="nokia"><span class="ion-ios-list-outline"></span> نوکیا</a>
-                <a href="#" style="display: none;" id="htc"><span class="ion-ios-list-outline"></span> HTC</a>
-                <a href="#" style="display: none;" id="others"><span class="ion-ios-list-outline"></span> سایر</a>
+                <a href="#mobile" onclick="openMobile()" ><span class="ion-ios-list-outline"></span><i id="mobile" class="fas fa-caret-right"></i>  موبایل و تبلت</a>
+                <a href="#apple"  style="display: none;" id="apple"><span class="ion-ios-list-outline"></span> اپل</a>
+                <a href="#samsung" onclick="goTo('./samsung.html')" style="display: none;" id="samsung"><span class="ion-ios-list-outline"></span> سامسونگ</a>
+                <a href="#lg" onclick="goTo('./lg.html')" style="display: none;" id="lg"><span class="ion-ios-list-outline"></span> ال جی</a>
+                <a href="#htc" onclick="goTo('./htc.html')" style="display: none;" id="htc"><span class="ion-ios-list-outline"></span> HTC</a>
+                <a href="#tablet" onclick="goTo('./tablet.html')" style="display: none;" id="tablet"><span class="ion-ios-list-outline"></span> تبلت</a>
 
                 <a href="#sim" onclick="openSim()"><span class="ion-ios-chatboxes-outline" ></span><i id="sim" class="fas fa-caret-right"></i> سیمکارت</a>
-                <a href="#" style="display: none;" id="mci"><span class="ion-ios-list-outline"></span> همراه اول</a>
-                <a href="#" style="display: none;" id="mtn"><span class="ion-ios-list-outline"></span> ایرانسل</a>
-                <a href="#" style="display: none;" id="rightel"><span class="ion-ios-list-outline"></span> رایتل</a>
-                <a href="#"><span class="ion-ios-compose-outline"></span><i class="fas fa-headphones"></i> لوازم جانبی</a>
-                <a href="#"><span class="ion-ios-person-outline"></span><i class="fas fa-user"></i> پروفایل</a>
-                <a href="#"><span class="ion-ios-gear-outline"></span><i class="fas fa-question"></i> پشتیبانی</a>
-                <a href="#"><span class="ion-ios-information-outline"></span><i class="fas fa-info"></i> درباره ما</a>
+                <a href="#mci" onclick="goTo('./mci.html')" style="display: none;" id="mci"><span class="ion-ios-list-outline"></span> همراه اول</a>
+                <a href="#mtn" onclick="goTo('./mtn.html')" style="display: none;" id="mtn"><span class="ion-ios-list-outline"></span> ایرانسل</a>
+                <a href="#rightel" onclick="goTo('./rightel.html')" style="display: none;" id="rightel"><span class="ion-ios-list-outline"></span> رایتل</a>
+                <a href="#access" onclick="goTo('./access.html')" ><span class="ion-ios-compose-outline"></span><i class="fas fa-headphones"></i> لوازم جانبی</a>
+                <a href="#user" onclick="goTo('./user.html')" ><span class="ion-ios-person-outline"></span><i class="fas fa-user"></i> پروفایل</a>
+                <a href="#support"><span class="ion-ios-gear-outline"></span><i class="fas fa-question"></i> پشتیبانی</a>
+                <a href="#about"><span class="ion-ios-information-outline"></span><i class="fas fa-info"></i> درباره ما</a>
               </div>
             </div>
           </div>

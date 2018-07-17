@@ -8,3 +8,26 @@ body{
     height: 100em;
     width: 100%;
 }
+
+#splash{
+    z-index: 9999 !important;
+    width: 100vh !important;
+    height: 100vh !important;
+    background-color: rgb(255, 255, 255);
+    display: list-item;
+  }
+  #spl1{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 92%;
+    width: 40%;
+    position: fixed;
+  }
+  #spl2{
+    
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 45%;
+    width: 40%;
+    position: fixed;
+  }
